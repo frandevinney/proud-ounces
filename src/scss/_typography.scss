@@ -8,12 +8,22 @@
     url('/fonts/lora-v13-latin-700.woff') format('woff');
 }
 
+/* Avenir */
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Avenir Book'), local('Avenir-Book'),
+    url('/fonts/avenir.woff') format('woff');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
   line-height: $line-height / ($line-height * 0 + 1);
 
-  @include apply-utility('font', 'base');
+  @include apply-utility('font', 'avenir');
 }
 
 h1,
