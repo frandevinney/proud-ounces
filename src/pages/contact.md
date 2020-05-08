@@ -3,7 +3,6 @@ layout: layouts/contact.njk
 title: Get in touch
 permalink: /contact/index.html
 ---
+Have an idea of how businesses can increase support for pumping & working moms? Want to share a story of how a business supported you as a pumping & working mom? Just want to say hello?
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
-
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+We want to hear from you.
