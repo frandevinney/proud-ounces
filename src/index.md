@@ -6,4 +6,4 @@ postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces.png
 ---
-This is where you will put some inspirational copy about what we're doing with Proud Ounces.
+Proud Ounces creates tools to make supporting pumping & working moms easy for **every** business.
