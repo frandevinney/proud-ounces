@@ -6,11 +6,14 @@
   {{ content | safe }}
 {% endset %}
 
-{# Post list content #}
-{% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{# Callout content #}
+{% set introCallout = callout %}
 
-{# Archive link #}
+{# Post list content #}
+{# {% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %} #}
+
+Archive link
 {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
@@ -19,7 +22,8 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+    {% include "partials/components/callout.njk" %}
+    {# {% include "partials/components/post-list.njk" %}
+    {% include "partials/components/pagination.njk" %} #}
   </main>
 {% endblock %}

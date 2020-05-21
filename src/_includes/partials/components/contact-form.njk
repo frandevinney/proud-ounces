@@ -3,19 +3,19 @@
 <form name="contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
   <ol class="[ field-list ]">
     <li class="[ field-list__field-group ]">
-      {{ label("What’s your name?", "name") }}
+      {{ label("Your Name?", "name") }}
       {{ field( "text", "name", { required: true, placeholder: "Katherine Johnson", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What's the name of your business?", "business-name") }}
+      {{ label("", "business-name") }}
       {{ field( "text", "business-name", { required: false, placeholder: "Happy Co.", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What’s your email address?", "email") }}
+      {{ label("you@youremail.com", "email") }}
       {{ field( "email", "email", { required: true, placeholder: "katherine@johnson.tld", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What do you want to share?", "message") }}
+      {{ label("", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
     <li hidden>

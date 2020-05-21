@@ -21,9 +21,10 @@ const Home = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/home.njk"
-    context={({ title, body, postsHeading, archiveButtonText }) => ({
+    context={({ title, body, callout, postsHeading, archiveButtonText }) => ({
       title,
       content: markdownFilter(body),
+      callout: markdownFilter(callout),
       postsHeading,
       archiveButtonText,
       collections: {
