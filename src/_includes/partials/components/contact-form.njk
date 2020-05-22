@@ -4,18 +4,18 @@
   <ol class="[ field-list ]">
     <li class="[ field-list__field-group ]">
       {{ label("Your Name?", "name") }}
-      {{ field( "text", "name", { required: true, placeholder: "Katherine Johnson", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
+      {{ field( "text", "name", { required: true, placeholder: "", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("", "business-name") }}
-      {{ field( "text", "business-name", { required: false, placeholder: "Happy Co.", autocorrect: "off", autocapitalize: "off" } ) }}
+      {{ label("What's the name of your business?", "business-name") }}
+      {{ field( "text", "business-name", { required: false, placeholder: "", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("you@youremail.com", "email") }}
-      {{ field( "email", "email", { required: true, placeholder: "katherine@johnson.tld", autocomplete: "email" } ) }}
+      {{ label("What’s your email address?", "email") }}
+      {{ field( "email", "email", { required: true, placeholder: "", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("", "message") }}
+      {{ label("What do you want to share?", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
     <li hidden>
