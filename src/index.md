@@ -13,6 +13,6 @@ callout: >-
 
   \
 
-  Want to be the first to know when it’s available? Leave your contact and we’ll get in touch.
+  Want to be the first to know when it’s available? [Contact us](/getintouch) and we’ll get in touch.
 ---
 Proud Ounces creates tools to make supporting pumping & working moms easy for **every** business.
