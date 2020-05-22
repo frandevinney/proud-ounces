@@ -30,7 +30,7 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "scripts": {
-    "sass": "sass --style=compressed src/scss/global.scss src/_includes/assests/css/global.css",
+    "sass": "sass --style=compressed src/scss/global.scss src/_includes/assets/css/global.css",
     "sass:tokens": "npx json-to-scss src/_data/tokens.json src/scss/_tokens.scss",
     "sass:process": "npm run sass:tokens && sass src/scss/global.scss src/_includes/assets/css/global.css --style=compressed",
     "cms:precompile": "make-dir dist/admin && nunjucks-precompile src/_includes > dist/admin/templates.js -i \"\\.(njk|css|svg)$\"",

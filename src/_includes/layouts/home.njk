@@ -7,7 +7,7 @@
 {% endset %}
 
 {# Callout content #}
-{% set introCallout = callout %}
+{% set introCallout %}{{ callout | safe }}{% endset %}
 
 {# Post list content #}
 {# {% set postListHeading = postsHeading %}
