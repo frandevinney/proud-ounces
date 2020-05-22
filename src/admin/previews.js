@@ -24,7 +24,7 @@ const Home = ({ entry }) => (
     context={({ title, body, callout, postsHeading, archiveButtonText }) => ({
       title,
       content: markdownFilter(body),
-      callout: markdownFilter(callout),
+      callout: markdownFilter(callout || ''),
       postsHeading,
       archiveButtonText,
       collections: {
