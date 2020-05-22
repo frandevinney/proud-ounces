@@ -6,9 +6,9 @@ postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces.png
 callout: >-
-  ## We’re hard at work developing the Proud Ounces Kit. Everything you need to
-  launch a successful program to fully support the **pumping** & working
-  mother(s) in your workforce.
+  We’re hard at work developing the Proud Ounces Kit. Everything you need to
+  launch a successful program to fully support the pumping & working mother(s)
+  in your workforce.
 
 
   \
