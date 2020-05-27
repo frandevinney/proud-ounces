@@ -1,3 +1,7 @@
 .callout {
-  border: 5px solid red;
+  border-top: 5px solid var(--color-theme-alert);
+
+  a {
+    color: var(--color-theme-alert);
+  }
 }
