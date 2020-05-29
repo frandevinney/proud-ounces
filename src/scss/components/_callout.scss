@@ -1,5 +1,6 @@
 .callout {
-  border-top: 5px solid var(--color-theme-alert);
+  // border-top: 5px solid var(--color-theme-alert);
+  background: var(--color-theme-highlight-block);
 
   a {
     color: var(--color-theme-alert);
