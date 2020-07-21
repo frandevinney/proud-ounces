@@ -4,6 +4,16 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     <p>Hello this is the Book Page. This is the full book.</p>
+    <ul>
+      {% for chapter in chapterlist.chapters -%}
+      <li>{{ chapter.text }}</li>
+        {% for subchapter in chapter.subchapters -%}
+        <ul>
+          <li>{{ subchapter.text}}</li>
+        </ul>
+        {% endfor -%}
+      {% endfor -%}
+    </ul>
     <div>
       <ul>
         {% for post in collections.thebook -%}
