@@ -16,15 +16,9 @@
   }
 
   .pumpcoaching-contact {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-start;
-    width: 100%;
     margin-top: get-size(700);
 
     >ol {
-      width: 66%;
       color: var(--color-dark);
 
       >li {
@@ -36,9 +30,21 @@
       }
     }
 
-    .button {
-      min-height: 42px;
-      margin-top: 21px;
+    @include media-query('md') {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: flex-start;
+      width: 100%;
+
+      >ol {
+        width: 66%;
+      }
+
+      .button {
+        min-height: 42px;
+        margin-top: 21px;
+      }
     }
   }
 }
