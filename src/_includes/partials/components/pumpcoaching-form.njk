@@ -1,0 +1,14 @@
+{% from "macros/form.njk" import label, field, textarea, button %}
+
+<form name="pumpcoaching-contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field" class="pumpcoaching-contact">
+  <ol class="[ field-list ]">
+    <li class="[ field-list__field-group ]">
+      {{ label("What’s your email address?", "email") }}
+      {{ field( "email", "email", { required: true, placeholder: "", autocomplete: "email" } ) }}
+    </li>
+    <li hidden>
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </li>
+  </ol>
+  {{ button("Get the info") }}
+</form>
