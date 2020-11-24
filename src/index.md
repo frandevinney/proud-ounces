@@ -1,12 +1,13 @@
 ---
 layout: home
-title: Welcome to the Breast pumping revolution!
-metaDesc: "We are Proud Ounces.  Your resource for breast pumping awareness. "
+title: Welcome to the Breast Pumping Revolution!
+metaDesc: We are Proud Ounces. Your partner to create rockin' lactation support
+  programs for employees..
 postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces.png
 callout: >-
-  ### We’re hard at work developing the Proud Ounces Kit. 
+  ### We’re hard at work developing the Proud Ounces Program.
 
 
   Everything you need to launch a successful program to fully support the pumping & working mother(s) in your workforce.
@@ -14,6 +15,6 @@ callout: >-
 
   \
 
-  Want to be the first to know when it’s available? [Contact us](/getintouch) and we’ll get in touch.
+  Want to be part of the pilot? [Contact us](/getintouch) and we’ll get in touch.
 ---
-Proud Ounces creates tools to make supporting pumping & working moms easy for **every** business.
+Proud Ounces makes supporting pumping & working moms easy for **every** business.
