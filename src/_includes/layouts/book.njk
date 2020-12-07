@@ -1,0 +1,16 @@
+{% extends 'layouts/base.njk' %}
+
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    <p>Hello this is the Book Page. This is the full book.</p>
+    <div>
+      <ul>
+        {% for post in collections.thebook -%}
+        <li>{{post.data.title}}{# {{ post.data.title }}, {{ post.data.date }}, #} {{ post.templateContent | safe }}</li>
+        {% endfor -%}
+      </ul>
+    </div>
+  </main>
+{% endblock %}
+

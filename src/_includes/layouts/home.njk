@@ -10,8 +10,11 @@
 {% set introCallout %}{{ callout | safe }}{% endset %}
 
 {# Post list content #}
-{# {% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %} #}
+{% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %}
+
+{# Book Feed content #}
+{# {% set bookFeedItems = collections.bookFeed %} #}
 
 Archive link
 {% if postListItems.length < collections.posts.length %} 
@@ -26,5 +29,8 @@ Archive link
     {% include "partials/components/pumpcoaching-callout.njk" %}
     {# {% include "partials/components/post-list.njk" %}
     {% include "partials/components/pagination.njk" %} #}
+    {# {% include "partials/components/post-list.njk" %} #}
+    {# {% include "partials/components/book-feed.njk" %} #}
+    {# {% include "partials/components/pagination.njk" %} #}
   </main>
 {% endblock %}
