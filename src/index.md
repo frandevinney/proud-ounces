@@ -5,7 +5,7 @@ metaDesc: "Proud Ounces makes supporting pumping & working moms easy for every
   business. "
 postsHeading: Latest Posts
 archiveButtonText: See all posts
-socialImage: /images/proud-ounces.png
+socialImage: /images/proud-ounces-social.gif
 callout: >-
   ### We’re hard at work developing the Proud Ounces Program.
 
