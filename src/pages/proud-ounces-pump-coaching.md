@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/pumpcoaching.njk
 title: Proud Ounces Pump Coaching
 permalink: /pump-coaching/index.html
 metaTitle: ""
