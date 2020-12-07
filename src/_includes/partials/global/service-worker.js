@@ -17,7 +17,8 @@ const EXCLUDED_URLS = [
 const PRE_CACHE_URLS = [
   '/', 
   '/fonts/lora-v13-latin-700.woff2',
-  '/fonts/avenir.woff2'
+  '/fonts/avenir.woff2',
+  '/fonts/CooperBT-Light.woff'
 ];
 
 // You might want to bypass a certain host

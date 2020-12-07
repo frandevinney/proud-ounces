@@ -1,0 +1,46 @@
+{% set bodyClass = "page--book" %}
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+  <main id="main-content" class="[ book ] book--wrapper [ leading-loose {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ e-content ]" tabindex="-1">
+    <div class="book-chapters-wrapper">
+      <ol>
+        {% for chapter in chapterlist.chapters -%}
+          <li>{{ chapter.text }}</li>
+          <ul>
+            {% for subchapter in chapter.subchapters -%}
+              <li>{{ subchapter.text}}</li>
+                {% for microchapter in subchapter.microchapter -%}
+                  <li class="microchapter pad-left-300">{{ microchapter.text}}</li>
+                {% endfor -%}
+            {% endfor -%}
+          </ul>
+        {% endfor -%}
+      </ol>
+    </div>
+    <div class="book--content-wrapper [ book__body ]">
+      {% for post in collections.thebook -%}
+      <div class="book--chapter gap-bottom-max">
+        {% if post.data.title %}
+          <h2 class="book--chapter-title font-cooper-light color-primary">{{post.data.title}}</h2>
+        {% endif %}
+        {% if post.data.hed %}
+          <p class="book--chapter-hed font-avenir color-alert gap-top-300 weight-bold">{{post.data.hed}}</p>
+        {% endif %}
+        {% if post.templateContent %}
+          <div class="book--chapter-body gap-top-800">
+            {{ post.templateContent | safe }}
+          </div>
+        {% endif %}
+      </div>
+      {% endfor -%}
+    </div>
+    <div class="book--cta-wrapper">
+      <div class="cta font-cooper-light">
+        <span>View your state's breast pumping laws and requirements</span>
+        <a class="cta-link font-avenir" href="/program/tools">Visit Proud Ounces Tools</a>
+      </div>
+    </div>
+  </main>
+{% endblock %}
+

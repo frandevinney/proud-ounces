@@ -18,6 +18,16 @@
     url('/fonts/avenir.woff') format('woff');
 }
 
+/*  Cooper Light  */
+@font-face {
+  font-family: 'CooperLight';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('CooperLight'), local('CooperLight'),
+    url('/fonts/CooperBT-Light.woff') format('woff');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
