@@ -16,11 +16,21 @@
       </ol>
     </div>
     <div class="book--content-wrapper">
-      <ul>
-        {% for post in collections.thebook -%}
-        <li>{{post.data.title}}{# {{ post.data.title }}, {{ post.data.date }}, #} {{ post.templateContent | safe }}</li>
-        {% endfor -%}
-      </ul>
+      {% for post in collections.thebook -%}
+      <div class="book--chapter gap-bottom-max">
+        {% if post.data.title %}
+          <h2 class="book--chapter-title font-cooper-light color-primary">{{post.data.title}}</h2>
+        {% endif %}
+        {% if post.data.hed %}
+          <p class="book--chapter-hed font-avenir color-alert gap-top-300 weight-bold">{{post.data.hed}}</p>
+        {% endif %}
+        {% if post.templateContent %}
+          <div class="book--chapter-body gap-top-800">
+            {{ post.templateContent | safe }}
+          </div>
+        {% endif %}
+      </div>
+      {% endfor -%}
     </div>
     <div class="book--cta-wrapper">
       <div class="cta font-cooper-light">
