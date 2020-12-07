@@ -1,5 +1,4 @@
 ---
-This is chapter 1 of our Proud Ounces book. 
 title: The Book Chapter 1 Title From Markdown
 date: 2020-07-07T13:08:31.245Z
 socialImage: /images/demo-image-1.jpg

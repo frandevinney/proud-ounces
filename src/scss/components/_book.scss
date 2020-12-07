@@ -1,0 +1,69 @@
+.alert {
+  border: 5px solid purple;
+  margin: 1em;
+}
+
+.page--book {
+  border: 5px solid purple;
+  position: relative;
+  height: auto;
+
+  .site-head__logo {
+    max-width: 70px;
+  }
+}
+
+.book--wrapper {
+  border: 5px solid red;
+  display: flex;
+
+  .book--content-wrapper {
+    width: 60%;
+    border: 1px solid purple;
+  }
+
+  .book-chapters-wrapper,
+  .book--cta-wrapper {
+    border: 2px solid blue;
+    width: 20%;
+    padding: 40px 25px 0;
+  }
+
+  .book-chapters-wrapper {
+    display: none;
+    
+    > ol {
+      @include apply-utility('font', 'avenir');
+      font-size: 14px;
+      > li {
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+        &:first-of-type {
+          margin-top: 0;
+        }
+      }
+      > ul {
+        list-style-type: none;
+        > li {
+          font-size:13px;
+          &::before {
+            content: "•";
+            font-size: 100%;
+            line-height: 0;
+            margin: 0 0.3rem 0 -0.25rem;
+            position: relative;
+            top: 0.02rem;
+            color: var(--color-theme-alert);
+          }
+        }
+      }
+    }
+    @include media-query('lrg') {
+      border: 5px solid green;
+      display: block;
+    }
+  }
+}
+
+
+
