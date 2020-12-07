@@ -15,6 +15,52 @@
   }
 }
 
+.book {
+  &__body {
+    --flow-space: #{get-size(800)};
+    // figure,
+    // figure + *,
+    // pre > code,
+    // .video-player,
+    // .video-player + *,
+    // video {
+    //   --flow-space: #{get-size('max')};
+    // }
+
+    // figure,
+    // pre > code,
+    // .video-player,
+    // video {
+    //   width: 100vw;
+    //   max-width: map-get($metrics, 'wrap-max-width');
+    //   margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+    //   transform: translateX(
+    //     -50%
+    //   ); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
+    //   position: relative;
+    // }
+
+    // figure img,
+    // pre > code,
+    // .video-player {
+    //   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    // }
+
+    // figure img {
+    //   position: relative;
+    //   z-index: 1;
+    // }
+
+    // figcaption {
+    //   font-size: 0.8em;
+    //   font-style: italic;
+    //   max-width: map-get($metrics, 'wrap-inner-max-width');
+    //   margin: 0.5rem auto 0 auto;
+    //   padding: 0 get-size(500);
+    // }
+  }
+}
+
 .book--wrapper {
   display: flex;
 
@@ -39,7 +85,7 @@
   .book-chapters-wrapper {
     > ol {
       @include apply-utility('font', 'avenir');
-      font-size: 14px;
+      font-size: get-size(base);
       > li {
         margin-bottom: 0.5em;
         margin-top: 0.5em;
@@ -50,7 +96,8 @@
       > ul {
         list-style-type: none;
         > li {
-          font-size:13px;
+          font-size: get-size(300);
+
           &::before {
             content: "•";
             font-size: 100%;
@@ -74,8 +121,8 @@
       background-color: var(--color-theme-highlight-glare);
       padding: 40px 30px;
       display: none;
-      font-size: 24px;
-      line-height: 28px;
+      font-size: get-size(600);
+      line-height: get-size(700);
 
       @include media-query('xl') {
         display: block;
@@ -85,7 +132,7 @@
         margin-top: 20px;
         display: block;
         color: var(--color-theme-alert);
-        font-size: 14px;
+        font-size: get-size(base);
         text-transform: uppercase;
       }
     }
@@ -99,17 +146,17 @@
   .book--chapter-title {
     text-align: center;
     width: 100%;
-    font-size: 33px;
+    font-size: get-size(800);
     color: var(--color-theme-primary);  
   }
 
   .book--chapter-hed {
     text-align: center;
-    font-size: 18px;
+    font-size: get-size(600);
   }
 
   .book--chapter-body {
-    font-size:18px;
+    font-size: get-size(600);
     width: calc(100% - 2ch);
     min-width: 20ch;
     max-width: 70ch;

@@ -7,7 +7,12 @@
           "text": "Providing space is essential for the pumping & working mom"
         },
         {
-          "text": "Providing space is good for your business"
+          "text": "Providing space is good for your business",
+          "microchapter": [
+            {
+              "text": "Space builds productivity."
+            }
+          ]
         },
         {
           "text": "Manage your legal risk"

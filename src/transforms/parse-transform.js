@@ -10,14 +10,18 @@ module.exports = function(value, outputPath) {
       resources: 'usable'
     });
 
+    console.log('FOO????');
+
+
     const document = DOM.window.document;
-    const articleImages = [...document.querySelectorAll('main article img, .intro img')];
+    const articleImages = [...document.querySelectorAll('main article img, .intro img, main .book--content-wrapper img')];
     const articleHeadings = [
       ...document.querySelectorAll('main article h2, main article h3')
     ];
     const articleEmbeds = [...document.querySelectorAll('main article iframe')];
 
     if (articleImages.length) {
+      console.log('we have articleImages: ', articleImages);
       articleImages.forEach(image => {
         image.setAttribute('loading', 'lazy');
 
