@@ -1,8 +1,7 @@
 ---
 layout: home
 title: Welcome to the Breast Pumping Revolution!
-metaDesc: "Proud Ounces makes supporting pumping & working moms easy for every
-  business. "
+metaDesc: Proud Ounces makes pumping & working easy for moms and their employers.
 postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces-social.gif
@@ -17,4 +16,4 @@ callout: >-
 
   Want to join the pilot? [Contact us](/getintouch) and we’ll get in touch.
 ---
-Proud Ounces makes supporting pumping & working moms easy for **every** business.
+Proud Ounces makes pumping & working easy for moms and their employers.
