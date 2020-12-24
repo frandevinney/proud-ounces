@@ -10,9 +10,6 @@ module.exports = function(value, outputPath) {
       resources: 'usable'
     });
 
-    console.log('FOO????');
-
-
     const document = DOM.window.document;
     const articleImages = [...document.querySelectorAll('main article img, .intro img, main .book--content-wrapper img')];
     const articleHeadings = [
@@ -21,7 +18,6 @@ module.exports = function(value, outputPath) {
     const articleEmbeds = [...document.querySelectorAll('main article iframe')];
 
     if (articleImages.length) {
-      console.log('we have articleImages: ', articleImages);
       articleImages.forEach(image => {
         image.setAttribute('loading', 'lazy');
 
