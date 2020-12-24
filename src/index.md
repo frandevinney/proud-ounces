@@ -14,6 +14,6 @@ callout: >-
 
   \
 
-  Want to join the pilot? [Contact us](/getintouch) and we’ll get in touch.
+  Want to join the upcoming pilot? [Contact us](/getintouch) and we’ll get in touch.
 ---
 Proud Ounces makes pumping & working easy for moms and the employers that support them.
