@@ -4,7 +4,7 @@ title: Welcome to the Breast Pumping Revolution!
 metaDesc: Proud Ounces makes pumping & working easy.
 postsHeading: Latest Posts
 archiveButtonText: See all posts
-socialImage: /images/proud-ounces-social.gif
+socialImage: /images/proud-ounces-social.jpg
 callout: >-
   ### We’re hard at work developing the Proud Ounces Program.
 
