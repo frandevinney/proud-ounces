@@ -5,7 +5,7 @@ permalink: /pump-coaching/index.html
 metaTitle: ""
 metaDesc: A new service from Proud Ounces!  Get direct help and advice from our
   expert Pump Coaches as you work to develop your pumping strategy at work.
-socialImage: /images/pump-coaching-social.gif
+socialImage: /images/proud-ounces-social.jpg
 ---
 We are pleased to announce that our Pump Coaching is out of private beta and is readily available to everyone! Wether you are an individual or a company, we offer tailored, custom coaching unique to the individual.
 
