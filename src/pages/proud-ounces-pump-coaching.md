@@ -1,7 +1,7 @@
 ---
 layout: layouts/pumpcoaching.njk
 title: Proud Ounces Pump Coaching
-permalink: /pump-coaching/index.html
+permalink: /pumpcoaching/index.html
 metaTitle: Proud Ounces Pump Coaching
 metaDesc: A new service from Proud Ounces!  Get direct help and advice from our
   expert Pump Coaches as you work to develop your pumping strategy at work.

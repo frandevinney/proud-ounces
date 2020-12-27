@@ -19,11 +19,40 @@
   }
 
   .pumpcoaching-pitch {
+
+    &__topics {
+      background-color: var(--color-highlight-glare);
+
+      >p {
+        text-transform: uppercase;
+        font-size: 12px;
+        @include apply-utility('font', 'avenir');
+        font-weight: bold;
+        padding: 1rem 1rem 0 1rem;
+      }
+
+      >ul {
+        text-transform: capitalize;
+        list-style-type: disc;
+        line-height: 1.75rem;
+        padding: 0.5rem 2rem 2rem 2rem;
+      }
+    }
+
     @include media-query('md') {
       >p {
         font-size: 17px;
         width: 75ch;
         margin: 1rem auto 1rem;
+      }
+
+      &__topics {
+        margin: auto 4rem;
+
+        >ul {
+          column-count: 2;
+          column-gap: 2rem;
+        }
       }
     }
   }

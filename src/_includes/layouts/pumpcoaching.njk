@@ -11,6 +11,19 @@
     {% include "partials/components/intro.njk" %}
     <div class="[ pumpcoaching-pitch ][ inner-wrapper ] [ leading-loose pad-bottom-900 text-500 ta-center ] [ sf-flow ] [ e-content ] [ measure-compact ]">
       {{ content | markdownFilter | safe }}
+
+      <div class="[ pumpcoaching-pitch__topics ta-left  ]">
+        <p>Example topics:</p>
+        <ul class="[ text-300 ]">
+          <li>how to integrate pumping with breastfeeding to prepare for a return to work</li>
+          <li>planning a typical day </li>
+          <li>milk storage and utilization of stored milk</li>
+          <li>increasing pumping efficiency</li>
+          <li>what to pack (for mom and baby)</li>
+          <li>Communicate pumping needs with an employer</li>
+          <li>Details regarding available lactation spaces, written policy and culture norms for a specific employer (available for moms under an employer benefit program) </li>
+        </ul>
+      </div>
     </div>
 
     <div class="[ how-it-works ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ta-center ] [ sf-flow ]">
@@ -21,7 +34,7 @@
             <span class="[ how-it-works-steps--index  ] [ text-600 weight-light ]">{{loop.index}}</span>
             {# <p class="[ step-icon text-800 ]">{{ step.icon }}</p> #}
             <img class="step-icon" src="../images/{{ step.icon }}" />
-            <p class="[ leading-tight ]">{{ step.copy }}</p>
+            <p class="[ leading-tight gap-top-300 ]">{{ step.copy }}</p>
           </div>
         {% endfor -%}
       </div>
@@ -48,8 +61,8 @@
     <div class="[ pumpcoaching-advocate bg-highlight ] [ pad-top-max pad-bottom-max gap-top-supermax gap-bottom-supermax ]">
       <div class="[ inner-wrapper ta-left sf-flow pad-bottom-900 ]">
         <div class="[ advocate-container advocate-container__onesheeter ]">
-          <h3 class="[ color-primary measure-compact ]">Helping more Moms get back to work.</h3>
-          <p class="[ measure-short ]">Help your employer support pumping & working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
+          <h3 class="[ color-primary measure-compact ]">Help us create a new reality for women who want to pump &amp; work</h3>
+          <p class="[ measure-short ]">Help your employer support pumping &amp; working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
           <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Download one-sheeter</a>
           <span> or </span>
           <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a>
@@ -80,8 +93,8 @@
     </div>
 
      <div class="[ pumpcoaching-testimonials ] [ pad-top-900 pad-bottom-900 ta-center ]">
-      <h2> How we're doing </h2>
-       <p class="[ ta-center measure-short pad-top-300 pad-bottom-300 ]">We're helping women all across the world, from small start ups to the biggest companies on the planet.</p>
+      <h2> What the moms say </h2>
+       <p class="[ ta-center measure-short pad-top-300 pad-bottom-300 ]">We work with women all across the country, across all industries, from small businesses to the biggest companies on the planet.</p>
       <div class="[ testimonials-wrapper ]">
         <div class="[ testimonial bg-highlight-glare color-primary ]">
           <p class="[ testimonial-quote ] [ font-cooper-light text-500 ta-left ]">As a first time Mom, I have no idea what to expect. After our conversation I feel more confident about what to pack, how many ounces I should be pumping each day, how to pump efficiently, and how to talk to my administration. I know it will take some time to be comfortable with pumping at work, but the coaches helped me become more confident and to advocate for myself.</p>
