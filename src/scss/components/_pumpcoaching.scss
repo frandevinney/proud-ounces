@@ -1,33 +1,26 @@
 .border-gradient {
-  border-top: 3px solid;
-  border-right: 3px solid;
+  border: 4px solid;
   border-image-slice: 1;
-  border-width: 5px;
+  border-width: 8px;
 }
 
 .border-gradient-purple {
-  border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+  border-image-source: linear-gradient(to left, var(--color-alert), var(--color-highlight));
 }
 
 .page--pumpcoaching {
   position: relative;
   height: auto;
 
-  #main-content {
-    background-color: var(--color-alert);
-  }
-
   .site-head {
     border-bottom: none;
-    // background-color: var(--color-light);
-    
     .site-head__logo {
       max-width: 70px;
     }
   }
 
   .how-it-works {
-    // background-color: var(--color-light);
+    background-color: var(--color-light);
 
     >h3 {
        text-align: center;
@@ -35,27 +28,226 @@
 
     .how-it-works-steps {
       display: flex;
+      flex-direction: column;
+
       >div {
-        width: 25%;
         background-color: var(--color-light);
-        margin: 4px;
-        padding: 6px;
+        padding: 2rem 1rem;
         position: relative;
-        min-height: 200px;
-        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 1em;
         >span {
-          position: absolute;
-          bottom: -16px;
-          left: 2px;
-          color: var(--color-highlight-glare);
-          // padding: 5px;
+          display: none;
+        }
+      }
+
+      @include media-query('md') {
+        flex-direction: row;
+        max-width: map-get($metrics, 'xl-breakpoint');
+        
+
+        >div {
+          width: 33.33%;
+          margin: 1em;
+          min-height: 200px;
+          margin-bottom: 0;
+          &:before {
+            content: "";
+            height: 50px;
+            width: 50px;
+            border: 2px solid var(--color-alert);
+            border-radius: 30px;
+            position: absolute;
+            top: -29px;
+            left: calc(50% - 25px);
+            background: white;
+            z-index: 0;
+          }
+          >span {
+            // position: absolute;
+            // bottom: -6px;
+            // left: 3px;
+            // color: var(--color-alert);
+            display: block;
+            position: absolute;
+            top: -24px;
+            left: calc(50% - 20px);
+            color: var(--color-light);
+            display: block;
+            // background-color: var(--color-alert);
+            background: var(--color-alert);
+            background: linear-gradient(90deg, rgba(242,79,61,1) 0%, rgba(243,123,109,1) 100%);
+            height: 40px;
+            width: 40px;
+            border-radius: 20px;
+            z-index: 1;
+          }
         }
       }
     }
   }
 
+  .pumpcoaching-testimonials {
+    position: relative;
+    max-width: 80rem;
+    margin: 0 auto;
+    >p {
+      margin: 0 auto;
+    }
+
+    .testimonials-wrapper {
+      display: flex;
+      flex-direction: column;
+      .testimonial {
+        padding: 4rem 2.44rem;
+        width: 100%;
+        margin: 0.5rem;
+        .testimonial-quote {
+          position: relative;
+          &:before {
+            position: absolute;
+            content: '“';
+            font-size: 6em;
+            top: 10px;
+            left: -10px;
+            line-height: 0px;
+            font-family: 'CooperLight';
+            color:rgba(13, 47, 79, 0.25);
+          }
+        }
+        .testimonial-bio {
+          font-style: italic;
+          >span {
+            padding-left: 0.25rem;
+          }
+        }
+      }
+      @include media-query('md') {
+        flex-direction: row;
+        .testimonial {
+          width: 50%;
+        }
+      }
+    }    
+  }
+
+  .pumpcoaching-cta {
+    .cta-wrapper {
+      display: flex;
+      flex-direction: row;
+      align-items: stretch;
+
+      >div {
+        width: 50%;
+        padding: 6rem 2rem;
+        margin-right: 1rem;
+        transition: background-color 0.35s ease-in-out;
+        cursor: pointer;
+        position:relative;
+        &:hover {
+          background-color: var(--color-alert);
+        }
+        >h4{
+          font-size: 1.5rem;
+        }
+        .button {
+          margin-top: 1rem;
+          // background-color: var(--color-highlight);
+          // color: var(--color-primary);
+        }
+        &:last-of-type {
+          margin-right: 0;
+        }
+        &::before {
+          content:'';
+          width: 0;
+          height: 0;
+          top:0;
+          left:0;
+          position:absolute;
+          border-top: 50px solid var(--color-light);
+          border-right: 50px solid transparent;
+        }
+        &::after {
+          content:'';
+          width: 0;
+          height: 0;
+          bottom:0;
+          right:0;
+          position:absolute;
+          border-bottom: 50px solid var(--color-light);
+          border-left: 50px solid transparent;
+        }
+      }
+    }
+    
+    .pumpcoaching-cta--button-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      >img {
+        width: 40%;
+        height: auto;
+        margin-left: 1rem;
+      }
+      >button {
+        margin-top: 1.5rem;
+        background-color: var(--color-alert);
+        padding: .8rem 2rem;
+      }
+    }
+  }
+
+  .pumpcoaching-advocate {
+    position: relative;
+
+    >div {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+    }
+
+    // .advocates-wrapper {
+    //   // border: 1px solid blue;
+    //   // display: flex;
+    //   // flex-direction: row;
+    // }
+
+    .advocate-container {
+      width: 55%;
+      margin-right: 2rem;
+      // &__tellafriend {
+      //   border: 1px solid green;
+      // }
+      &__onesheeter {
+        &__link {
+          display: inline-block;
+          &,
+          &:visited {
+            color: var(--color-theme-alert);
+            text-decoration: underline;
+          }
+      
+          &:hover {
+            color: var(--color-primary-shade);
+          }
+        }
+      }
+    }
+
+    .advocates-artwork {
+      // position: absolute;
+      // top: 10%;
+      // right: 6%;
+      max-width: 400px;
+      width: 45%;
+    }
+  }
+
   .site-foot {
-    background-color: var(--color-alert);
     border-top: none;
   }
 }

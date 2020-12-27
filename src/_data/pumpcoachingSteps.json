@@ -1,6 +1,14 @@
 [
-  "Complete a short digital assessment",
-  "Book your session",
-  "Join your coach for a customized 45 min session",
-  "Enjoy a rockin' return to work with the knowledge and confidence of a pumping & working pro"
+  {
+    "icon": "pumpcoaching-steps-01.png",
+    "copy": "Complete a short digital assessment and book your session."
+  },
+  {
+    "icon": "pumpcoaching-illo.png",
+    "copy": "Join your coach for a customized session"
+   },
+   {
+    "icon": "pumpcoaching-steps-03.png",
+    "copy": "Enjoy a rockin' return to work with the confidence of a pumping & working pro"
+   }
 ]
