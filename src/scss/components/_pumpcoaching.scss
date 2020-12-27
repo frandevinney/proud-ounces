@@ -67,17 +67,12 @@
             z-index: 0;
           }
           >span {
-            // position: absolute;
-            // bottom: -6px;
-            // left: 3px;
-            // color: var(--color-alert);
             display: block;
             position: absolute;
             top: -24px;
             left: calc(50% - 20px);
             color: var(--color-light);
             display: block;
-            // background-color: var(--color-alert);
             background: var(--color-alert);
             background: linear-gradient(90deg, rgba(242,79,61,1) 0%, rgba(243,123,109,1) 100%);
             height: 40px;
@@ -137,13 +132,13 @@
   .pumpcoaching-cta {
     .cta-wrapper {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       align-items: stretch;
 
       >div {
-        width: 50%;
-        padding: 6rem 2rem;
-        margin-right: 1rem;
+        width: 100%;
+        padding: 2rem 2rem;
+        margin-bottom: 1rem;
         transition: background-color 0.35s ease-in-out;
         cursor: pointer;
         position:relative;
@@ -153,13 +148,16 @@
         >h4{
           font-size: 1.5rem;
         }
+        >p {
+          margin: 0 auto;
+        }
         .button {
           margin-top: 1rem;
           // background-color: var(--color-highlight);
           // color: var(--color-primary);
         }
         &:last-of-type {
-          margin-right: 0;
+          margin-bottom: 0;
         }
         &::before {
           content:'';
@@ -180,6 +178,18 @@
           position:absolute;
           border-bottom: 50px solid var(--color-light);
           border-left: 50px solid transparent;
+        }
+      }
+      @include media-query('md') {
+        flex-direction: row;
+        >div {
+          width: 50%;
+          margin-right: 1rem;
+          padding: 6rem 2rem;
+
+          &:last-of-type {
+            margin-right: 0;
+          }
         }
       }
     }
@@ -207,21 +217,18 @@
     >div {
       display: flex;
       align-items: center;
-      flex-direction: row;
-    }
+      flex-direction: column-reverse;
 
-    // .advocates-wrapper {
-    //   // border: 1px solid blue;
-    //   // display: flex;
-    //   // flex-direction: row;
-    // }
+      @include media-query('md') {
+      flex-direction: row;
+
+      }
+    }
 
     .advocate-container {
       width: 55%;
-      margin-right: 2rem;
-      // &__tellafriend {
-      //   border: 1px solid green;
-      // }
+      margin-top: 2rem;
+    
       &__onesheeter {
         &__link {
           display: inline-block;
@@ -236,12 +243,14 @@
           }
         }
       }
+
+      @include media-query('md') {
+        margin-right: 2rem;
+
+      }
     }
 
     .advocates-artwork {
-      // position: absolute;
-      // top: 10%;
-      // right: 6%;
       max-width: 400px;
       width: 45%;
     }
