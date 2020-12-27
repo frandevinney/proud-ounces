@@ -1,0 +1,62 @@
+.border-gradient {
+  border-top: 3px solid;
+  border-right: 3px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+}
+
+.border-gradient-purple {
+  border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
+
+.page--pumpcoaching {
+  position: relative;
+  height: auto;
+
+  #main-content {
+    background-color: var(--color-alert);
+  }
+
+  .site-head {
+    border-bottom: none;
+    // background-color: var(--color-light);
+    
+    .site-head__logo {
+      max-width: 70px;
+    }
+  }
+
+  .how-it-works {
+    // background-color: var(--color-light);
+
+    >h3 {
+       text-align: center;
+    }
+
+    .how-it-works-steps {
+      display: flex;
+      >div {
+        width: 25%;
+        background-color: var(--color-light);
+        margin: 4px;
+        padding: 6px;
+        position: relative;
+        min-height: 200px;
+        
+        >span {
+          position: absolute;
+          bottom: -16px;
+          left: 2px;
+          color: var(--color-highlight-glare);
+          // padding: 5px;
+        }
+      }
+    }
+  }
+
+  .site-foot {
+    background-color: var(--color-alert);
+    border-top: none;
+  }
+}
+

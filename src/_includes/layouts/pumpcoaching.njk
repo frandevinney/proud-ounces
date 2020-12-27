@@ -1,3 +1,6 @@
+{% set bodyClass = "page--pumpcoaching" %}
+{% set intro_class = "intro-pumpcoaching ta-center" %}
+{% set header_padding = "large" %}
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
@@ -5,13 +8,22 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    <article class="[ post ] [ h-entry ]">
-      {% include "partials/components/intro.njk" %}
-      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-        {{ content | safe }}
+    {% include "partials/components/intro.njk" %}
+    <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ta-center ] [ sf-flow ] [ e-content ]">
+      {{ content | markdownFilter | safe }}
+    </div>
+    <div class="[ how-it-works ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ]">
+      <h3> How we Pump Coach </h3>
+      <div class="[ how-it-works-steps ] [ inner-wrapper ] ">
+        {% for step in pumpcoachingSteps -%}
+          <div class="[ text-300 ] [ border-gradient border-gradient-purple ]">
+            <span class="[ how-it-works-steps--index ] [ text-800 ]">{{loop.index}}</span>
+            <p>{{ step }}</p>
+          </div>
+        {% endfor -%}
       </div>
-    </article>
+    </div>
   </main>
 {% endblock %}
 
-{{ content | safe }}
+{# {{ content | markdownFilter | safe }} #}
