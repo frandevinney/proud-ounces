@@ -12,9 +12,54 @@
   position: relative;
   height: auto;
 
+  h1,h2 {
+    font-family:'CooperLight', serif;
+  }
+
   .site-head {
     .site-head__logo {
       max-width: 100px;
+    }
+  }
+
+  .topic-bars {
+    // border: 2px solid red;
+
+    .topic-bar {
+      cursor: pointer;
+      background-color: var(--color-primary);
+      color: var(--color-highlight);
+      overflow: hidden;
+      height: 200px;
+
+      &__container {
+        border: 1px solid green;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        max-width: 80rem;
+        margin: 0 auto;
+        padding: 0 1.5em;
+
+        &--title {
+          border: 1px solid orange;
+          height: 100%;
+          display: flex;
+          flex: 1 1;
+          flex-direction: column;
+          justify-content: center;
+        }
+      }
+
+      &.active {
+        border: 5px solid purple;
+      }
+
+      &.integrate-pumping-with-breastfeeding {
+        background-color: #f0efd9;
+        color: var(--color-primary);
+      }
     }
   }
 

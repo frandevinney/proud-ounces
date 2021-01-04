@@ -11,19 +11,30 @@
     {% include "partials/components/intro.njk" %}
     <div class="[ pumpcoaching-pitch ][ inner-wrapper ] [ leading-loose pad-bottom-900 text-500 ta-center ] [ sf-flow ] [ e-content ] [ measure-compact ]">
       {{ content | markdownFilter | safe }}
+    </div>
 
-      <div class="[ pumpcoaching-pitch__topics ]">
-        <p>Topics we cover</p>
-        <div class="[ inner-wrapper ]">
-          <ul class="[ pumpcoaching-pitch__topics-list text-300 ta-left ]">
-            <li>how to integrate pumping with breastfeeding to prepare for a return to work</li>
-            <li>planning a typical day </li>
-            <li>milk storage and utilization of stored milk</li>
-            <li>increasing pumping efficiency</li>
-            <li>what to pack (for mom and baby)</li>
-            <li>Communicate pumping needs with an employer</li>
-            <li>Details regarding available lactation spaces, written policy and culture norms for a specific employer</li>
-          </ul>
+    <div class="[ pumpcoaching-pitch__topics ]">
+      <p>Topics we cover</p>
+      <div class="[ topic-bars ]">
+        <div class="topic-bar integrate-pumping-with-breastfeeding ta-left ">
+          <div class="[ topic-bar__container ]">
+            <div class="[ topic-bar__container--title ]">
+              <h2 class="[ font-cooper-light ]">Integrate pumping with breastfeeding</h2>
+              <div>
+                <p>We meet moms where they are and then walk through a plan to integrate pumping and bottle feeding into the routine as they approach the return to work date. We'll review all the nitty gritty involved in successfully pumping during work hours, plan a customized schedule and cover what to do during non work times such as weekends and vacation.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="topic-bar store-transport-use-milk ta-left ">
+          <div class="[ topic-bar__container ]">
+            <div class="[ topic-bar__container--title ]">
+              <h2 class="[ font-cooper-light ]">Store, transport and use milk</h2>
+              <div>
+                <p>We meet moms where they are and then walk through a plan to integrate pumping and bottle feeding into the routine as they approach the return to work date. We'll review all the nitty gritty involved in successfully pumping during work hours, plan a customized schedule and cover what to do during non work times such as weekends and vacation.</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -112,6 +123,22 @@
     </div>
     
   </main>
+
+
+<script type="text/javascript">
+  var acc = document.getElementsByClassName("topic-bar");
+  console.log('topic-bars:::', acc);
+  var i;
+
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+    });
+  }
+</script>
+
 {% endblock %}
+
 
 {# {{ content | markdownFilter | safe }} #}
