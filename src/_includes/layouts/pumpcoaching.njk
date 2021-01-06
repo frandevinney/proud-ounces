@@ -19,14 +19,15 @@
         <div class="topic-bar {{ topic.className }}">
           <div class="[ topic-bar__container ] [ inner-wrapper ]">
             <div class="[ topic-bar__container--title ]">
-              <h2 class="[ font-cooper-light ]">{{topic.title}}</h2>
+              <h3 class="[ font-cooper-light ]">{{topic.title}}</h3>
               <div>
                 <p class="[ measure-short inner-wrapper gap-top-300 ]">{{topic.copy}}</p>
               </div>
             </div>
           </div>
         </div>
-        {% endfor -%}
+      </div>
+      {% endfor -%}
     </div>
 
     <div class="[ how-it-works ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ta-center ] [ sf-flow ]">
@@ -68,31 +69,14 @@
           <p class="[ measure-short ]">Help your employer support pumping &amp; working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
           <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Download one-sheeter</a>
           <span> or </span>
-          <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a>
+          <input hidden type="text" value="{{pumpcoachingClipboard.copy}}" id="myInput">
+          <button id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" onclick="myFunction()">Click to copy a message to send to your employer</button>
+          {# <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a> #}
         </div>
         <div class="[ advocates-artwork ]">
           {% include "icons/pumpcoaching-advocate-desk.svg" %}
         </div>
       </div>
-      {# <div class="[ advocates-wrapper inner-wrapper ta-left sf-flow ]">
-        <div class="[ advocate-container onesheeter ]">
-          <p class="[ measure-short ]">Help your employer support pumping & working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
-          <a class="[ onesheeter__link gap-top-300 weight-bold ]" href="#">Download one-sheeter</a>
-          <span> or </span>
-          <a class="[ onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a>
-        </div>
-        <div class="[ advocate-container advocate-container__tellafriend ]">
-          <p>Share this on social media</p>
-        </div>
-        <div class="[ advocate-container ]">
-          <p>Tell lots of Friends</p>
-        </div>
-      </div>  
-      <div class="[ advocates-artwork ]">
-        {% include "icons/pumpcoaching-advocate-desk.svg" %}
-      </div>
-      #}
-      
     </div>
 
      <div class="[ pumpcoaching-testimonials ] [ pad-top-900 pad-bottom-900 ta-center ]">
@@ -117,15 +101,30 @@
 
 <script type="text/javascript">
   var acc = document.getElementsByClassName("topic-bar");
-  console.log('topic-bars:::', acc);
   var i;
-
 
   for (i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       this.classList.toggle("active");
     });
   }
+
+  function myFunction() {
+    /* Get the text field */
+    var copyText = document.getElementById("myInput");
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+    /* Copy the text inside the text field */
+    document.execCommand("copy");
+
+    /* Alert the copied text */
+    alert("Copied the text: " + copyText.value);
+  }
+
+
 </script>
 
 {% endblock %}

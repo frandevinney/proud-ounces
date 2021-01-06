@@ -12,7 +12,7 @@
   position: relative;
   height: auto;
 
-  h1,h2 {
+  h1,h2, h3 {
     font-family:'CooperLight', serif;
   }
 
@@ -69,10 +69,6 @@
         }
       }
 
-      // &:hover {
-      //   border-left: 10px solid var(--color-alert);
-      // }
-
       &.active {
         // transition: border 0.25s ease-in;
         // border-left: 10px solid var(--color-alert);
@@ -91,14 +87,41 @@
         }
       }
 
-      // &.integrate-pumping-with-breastfeeding {
-      //   background-color: #f0efd9;
-      //   color: var(--color-primary);
+      &.integrate-pumping-with-breastfeeding {
+        background-color: #f0efd9;
+        color: var(--color-primary);
 
-      //   &:hover {
-      //     background-color: darken(#f0efd9, 15%);
-      //   }
-      // }
+        &:hover {
+          background-color: darken(#f0efd9, 5%);
+        }
+      }
+
+      &.store-transport-use-milk {
+        background-color: #d49c7e;
+        color: #f0efd9;
+
+        &:hover {
+          background-color: darken(#d49c7e, 5%);
+        }
+      }
+
+      &.communicate-with-your-employer {
+        background-color: #faeaaf;
+        color: var(--color-primary);
+
+        &:hover {
+          background-color: darken(#faeaaf, 5%);
+        }
+      }
+
+      &.all-the-pro-tips-and-tricks {
+        background-color: #f49d7e;
+        color: #fcfbe4;
+
+        &:hover {
+          background-color: darken(#f49d7e, 5%);
+        }
+      }
     }
   }
 
@@ -321,6 +344,7 @@
       &__onesheeter {
         &__link {
           display: inline-block;
+          cursor: pointer;
           &,
           &:visited {
             color: var(--color-theme-alert);
