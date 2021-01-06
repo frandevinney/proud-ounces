@@ -67,10 +67,10 @@
         <div class="[ advocate-container advocate-container__onesheeter ]">
           <h3 class="[ color-primary measure-compact ]">Help us create a new reality for women who want to pump &amp; work</h3>
           <p class="[ measure-short ]">Help your employer support pumping &amp; working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
-          <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Download one-sheeter</a>
-          <span> or </span>
+          <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" target="_blank" href="../images/PO-OneSheeter-PumpCoaching.pdf">Download one-sheeter</a>
+          {# <span> or </span>
           <input hidden type="text" value="{{pumpcoachingClipboard.copy}}" id="myInput">
-          <button id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" onclick="myFunction()">Click to copy a message to send to your employer</button>
+          <button id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" onclick="myFunction()">Click to copy a message to send to your employer</button> #}
           {# <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a> #}
         </div>
         <div class="[ advocates-artwork ]">
@@ -109,20 +109,15 @@
     });
   }
 
-  function myFunction() {
-    /* Get the text field */
+  /*function myFunction() {
     var copyText = document.getElementById("myInput");
-
-    /* Select the text field */
     copyText.select();
-    copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-    /* Copy the text inside the text field */
+    copyText.setSelectionRange(0, 99999);
     document.execCommand("copy");
-
-    /* Alert the copied text */
     alert("Copied the text: " + copyText.value);
   }
+
+  */
 
 
 </script>
