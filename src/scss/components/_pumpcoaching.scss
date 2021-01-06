@@ -22,6 +22,25 @@
     }
   }
 
+  .pumpcoaching-pitch {
+    max-width: 45ch;
+    margin: 0 auto;
+  }
+
+  .pumpcoaching-pitch__topics {
+
+    >p {
+      max-width: 50ch;
+      margin: 0 auto;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    // >div {
+    //   border: 5px solid purple;
+    // }
+  }
+
   .topic-bars {
 
     .topic-bar {
@@ -29,7 +48,7 @@
       background-color: var(--color-primary);
       color: var(--color-highlight);
       overflow: hidden;
-      height: 130px;
+      height: 100px;
       transition: height 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.25s ease-out;
       text-align: left;
 
@@ -72,7 +91,7 @@
       &.active {
         // transition: border 0.25s ease-in;
         // border-left: 10px solid var(--color-alert);
-        height: 320px;
+        height: 280px;
         background-color: #{get-color('primary-glare')};
 
         .topic-bar__container {

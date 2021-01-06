@@ -9,25 +9,30 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    <div class="[ pumpcoaching-pitch ][ inner-wrapper ] [ leading-loose text-500 ta-center ] [ sf-flow ] [ e-content ] [ measure-compact ]">
+    <div class="[ pumpcoaching-pitch ] [ leading-loose text-700 ta-center ] [ sf-flow ] [ e-content ]">
       {{ content | markdownFilter | safe }}
     </div>
 
-    <div class="[ pumpcoaching-pitch__topics ]">
-      {% for topic in pumpcoachingPitchTopics -%}
-      <div class="[ topic-bars ]">
-        <div class="topic-bar {{ topic.className }}">
-          <div class="[ topic-bar__container ] [ inner-wrapper ]">
-            <div class="[ topic-bar__container--title ]">
-              <h3 class="[ font-cooper-light ]">{{topic.title}}</h3>
-              <div>
-                <p class="[ measure-short inner-wrapper gap-top-300 ]">{{topic.copy}}</p>
+    <div class="[ pumpcoaching-pitch__topics gap-top-900 gap-bottom-900 ]">
+      <p>Pump Coaches will create a customized agenda perfectly aligned with the unique needs of each individual. <br/> We'll cover topics such as:</p>
+      {% if pumpcoachingPitchTopics|length %}
+        <div class="[ gap-top-600 ]">
+          {% for topic in pumpcoachingPitchTopics -%}
+            <div class="[ topic-bars ]">
+              <div class="topic-bar {{ topic.className }}">
+                <div class="[ topic-bar__container ] [ inner-wrapper ]">
+                  <div class="[ topic-bar__container--title ]">
+                    <h3 class="[ font-cooper-light ]">{{topic.title}}</h3>
+                    <div>
+                      <p class="[ measure-short inner-wrapper gap-top-300 ]">{{topic.copy}}</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-          </div>
+          {% endfor -%}
         </div>
-      </div>
-      {% endfor -%}
+      {% endif %}
     </div>
 
     <div class="[ how-it-works ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ta-center ] [ sf-flow ]">
@@ -81,7 +86,7 @@
 
      <div class="[ pumpcoaching-testimonials ] [ pad-top-900 pad-bottom-900 ta-center ]">
       <h2> What the moms say </h2>
-       <p class="[ ta-center measure-short pad-top-300 pad-bottom-300 ]">We work with women all across the country, across all industries, from small businesses to the biggest companies on the planet.</p>
+       <p class="[ ta-center measure-short pad-top-300 pad-bottom-300 ]">We're about results. 100% of participants say the session significantly increased their confidence that they will be successful returning to work and continuing to breastfeed.</p>
       <div class="[ testimonials-wrapper ]">
         <div class="[ testimonial bg-highlight-glare color-primary ]">
           <p class="[ testimonial-quote ] [ font-cooper-light text-500 ta-left ]">As a first time Mom, I have no idea what to expect. After our conversation I feel more confident about what to pack, how many ounces I should be pumping each day, how to pump efficiently, and how to talk to my administration. I know it will take some time to be comfortable with pumping at work, but the coaches helped me become more confident and to advocate for myself.</p>
