@@ -17,8 +17,8 @@
       <p>Pump Coaches will create a customized agenda perfectly aligned with the unique needs of each individual. <br/> We'll cover topics such as:</p>
       {% if pumpcoachingPitchTopics|length %}
         <div class="[ gap-top-600 ]">
-          {% for topic in pumpcoachingPitchTopics -%}
-            <div class="[ topic-bars ]">
+          <div class="[ topic-bars ]">
+            {% for topic in pumpcoachingPitchTopics -%}
               <div class="topic-bar {{ topic.className }}">
                 <div class="[ topic-bar__container ] [ inner-wrapper ]">
                   <div class="[ topic-bar__container--title ]">
@@ -29,8 +29,8 @@
                   </div>
                 </div>
               </div>
-            </div>
-          {% endfor -%}
+            {% endfor -%}
+          </div>
         </div>
       {% endif %}
     </div>
@@ -103,29 +103,7 @@
     
   </main>
 
-
-<script type="text/javascript">
-  var acc = document.getElementsByClassName("topic-bar");
-  var i;
-
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-    });
-  }
-
-  /*function myFunction() {
-    var copyText = document.getElementById("myInput");
-    copyText.select();
-    copyText.setSelectionRange(0, 99999);
-    document.execCommand("copy");
-    alert("Copied the text: " + copyText.value);
-  }
-
-  */
-
-
-</script>
+  <script type="module" src="../js/components/pumpcoaching-accordion.js" async defer></script>
 
 {% endblock %}
 

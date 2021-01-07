@@ -51,7 +51,6 @@
       height: 100px;
       transition: height 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.25s ease-out;
       text-align: left;
-
       &:hover {
         background-color: #{get-color('primary-glare')};
       }
@@ -71,7 +70,7 @@
           flex: 1 1;
           flex-direction: column;
           justify-content: center;
-          
+
           >div {
             height: 0;
 
@@ -116,29 +115,29 @@
       }
 
       &.store-transport-use-milk {
-        background-color: #d49c7e;
-        color: #f0efd9;
+        background-color: #C3423F;
+        color: lighten(#f0efd9, 4%);
 
         &:hover {
-          background-color: darken(#d49c7e, 5%);
+          background-color: darken(#C3423F, 5%);
         }
       }
 
       &.communicate-with-your-employer {
-        background-color: #faeaaf;
-        color: var(--color-primary);
+        background-color: #8D91C7;
+        color: darken(#f0efd9, 5%);
 
         &:hover {
-          background-color: darken(#faeaaf, 5%);
+          background-color: darken(#8D91C7, 5%);
         }
       }
 
       &.all-the-pro-tips-and-tricks {
-        background-color: #f49d7e;
+        background-color: #0F5257;
         color: #fcfbe4;
 
         &:hover {
-          background-color: darken(#f49d7e, 5%);
+          background-color: darken(#0F5257, 5%);
         }
       }
     }
