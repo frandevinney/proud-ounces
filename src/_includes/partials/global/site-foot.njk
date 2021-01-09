@@ -7,6 +7,10 @@
             {# <h2 class="text-600">{{ site.name }}</h2> #}
             <img class="logo-mark"src="../../images/proud-ounces-mark.png" alt="Proud Ounces" title="Proud Ounces" />
             {{ site.shortDesc | markdownFilter | safe }}
+            {% if artworkCredit %}
+              <p class="[ text-300 color-slate ]">{{ artworkCreditCopy }} {{ artworkCreditSources | safe }}. </p>
+            {% endif%}
+
           </article>
         </div>
       {% endif %}
@@ -15,10 +19,10 @@
         {% include "partials/components/nav.njk" %}
       </div> #}
     </div>
-    {% if site.showThemeCredit %}
+    {# {% if site.showThemeCredit %}
       <p class="[ site-foot__credit ] [ pad-top-900 ]">
         Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
       </p>
-    {% endif %}
+    {% endif %} #}
   </div>
 </footer>

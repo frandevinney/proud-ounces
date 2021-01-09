@@ -1,14 +1,16 @@
 [
   {
-    "icon": "pumpcoaching-steps-01.png",
-    "copy": "Complete a short digital assessment and book your session."
+    "icon": "Allura-Sitting.png",
+    "copy": "Complete a short digital assessment and book",
+    "maxWidth": "50"
   },
   {
-    "icon": "pumpcoaching-illo.png",
-    "copy": "Join your coach for a 1 hour 45 min customized session"
+    "icon": "Allura-KIT.svg",
+    "copy": "Join your coach for a 45 minute customized session"
    },
    {
-    "icon": "pumpcoaching-steps-03.png",
-    "copy": "Enjoy a rockin' return to work with the confidence of a pumping & working pro"
+    "icon": "Allura-Standing.svg",
+    "copy": "Enjoy a rockin' return to work with the confidence of a pumping & working pro",
+    "maxWidth": "30"
    }
 ]

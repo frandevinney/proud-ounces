@@ -115,11 +115,11 @@
       }
 
       &.store-transport-use-milk {
-        background-color: #C3423F;
+        background-color: #f2806c;
         color: lighten(#f0efd9, 4%);
 
         &:hover {
-          background-color: darken(#C3423F, 5%);
+          background-color: darken(#f2806c, 5%);
         }
       }
 
@@ -206,6 +206,13 @@
           }
         }
       }
+    }
+
+    .width-50 {
+      max-width: 50%;
+    }
+    .width-30 {
+      max-width: 30%;
     }
   }
 
@@ -363,14 +370,11 @@
         &__link {
           display: inline-block;
           cursor: pointer;
-          &,
-          &:visited {
-            color: var(--color-theme-alert);
-            text-decoration: underline;
-          }
+          background-color: var(--color-alert);
+          color: var(--color-light);
       
           &:hover {
-            color: var(--color-primary-shade);
+            background-color: darken(#f37b6d, 10%);
           }
         }
       }
