@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Pump Coaching Terms & Conditions
+permalink: /pumpcoaching/terms/index.html
 ---
 **AGREEMENT TO TERMS**
 
