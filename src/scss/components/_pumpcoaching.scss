@@ -90,7 +90,7 @@
       &.active {
         // transition: border 0.25s ease-in;
         // border-left: 10px solid var(--color-alert);
-        height: 280px;
+        height: 320px;
         background-color: #{get-color('primary-glare')};
 
         .topic-bar__container {
@@ -125,7 +125,7 @@
 
       &.communicate-with-your-employer {
         background-color: #8D91C7;
-        color: darken(#f0efd9, 5%);
+        color: #113e69;
 
         &:hover {
           background-color: darken(#8D91C7, 5%);
@@ -230,7 +230,7 @@
       .testimonial {
         padding: 4rem 2.44rem;
         width: 100%;
-        margin: 0.5rem;
+        margin: 0.5rem 0;
         .testimonial-quote {
           position: relative;
           &:before {
@@ -249,6 +249,10 @@
           >span {
             padding-left: 0.25rem;
           }
+        }
+
+        @include media-query('md') {
+          margin: 0.5rem;
         }
       }
       @include media-query('md') {
@@ -271,7 +275,7 @@
         padding: 2rem 2rem;
         margin-bottom: 1rem;
         transition: all 0.35s ease-in-out;
-        border-radius: 84% 16% 31% 69% / 52% 37% 63% 48%;
+        border-radius: 74% 26% 11% 69%/72% 57% 93% 38%;
         cursor: pointer;
         position:relative;
         &:nth-child(odd) {
@@ -284,36 +288,15 @@
         >h4{
           font-size: 1.5rem;
         }
-        >p {
-          margin: 0 auto;
-        }
         .button {
           margin-top: 1rem;
-          // background-color: var(--color-highlight);
-          // color: var(--color-primary);
         }
         &:last-of-type {
           margin-bottom: 0;
         }
-        &::before {
-          content:'';
-          width: 0;
-          height: 0;
-          top:0;
-          left:0;
-          position:absolute;
-          border-top: 50px solid var(--color-light);
-          border-right: 50px solid transparent;
-        }
-        &::after {
-          content:'';
-          width: 0;
-          height: 0;
-          bottom:0;
-          right:0;
-          position:absolute;
-          border-bottom: 50px solid var(--color-light);
-          border-left: 50px solid transparent;
+
+        @include media-query('md') {
+          border-radius: 84% 16% 31% 69% / 52% 37% 63% 48%;
         }
       }
       @include media-query('md') {
@@ -363,8 +346,12 @@
     }
 
     .advocate-container {
-      width: 55%;
+      
       margin-top: 2rem;
+
+      >h3 {
+        display: none;
+      }
     
       &__onesheeter {
         &__link {
@@ -381,13 +368,25 @@
 
       @include media-query('md') {
         margin-right: 2rem;
+        width: 55%;
+
+        >h3 {
+          display: block;
+        }
 
       }
     }
 
     .advocates-artwork {
-      max-width: 400px;
-      width: 45%;
+      
+      @include media-query('md') {
+        max-width: 400px;
+        width: 45%;
+
+        >h3 {
+          display: none;
+        }
+      }
     }
   }
 
