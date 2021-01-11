@@ -1,5 +1,9 @@
 var acc = document.getElementsByClassName('topic-bar');
+var copyToClipboardBtn = document.getElementById('employer-msg');
+var copyText = document.getElementById("clipboardInput");
 var i;
+
+copyToClipboardBtn.addEventListener('click', copyToClipboard, false);
 
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener('click', function() {
@@ -31,12 +35,14 @@ function addActiveClass($el, $class) {
 }
 
 
-//   /*function myFunction() {
-//     var copyText = document.getElementById("myInput");
-//     copyText.select();
-//     copyText.setSelectionRange(0, 99999);
-//     document.execCommand("copy");
-//     alert("Copied the text: " + copyText.value);
-//   }
-
-//   */
+function copyToClipboard() {
+  const el = document.createElement('textarea');
+  el.value = copyText.value;
+  el.setAttribute('readonly', '');
+  el.style.position = 'absolute';
+  el.style.left = '-9999px';
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+}

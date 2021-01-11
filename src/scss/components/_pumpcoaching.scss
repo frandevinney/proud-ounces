@@ -124,20 +124,20 @@
       }
 
       &.communicate-with-your-employer {
-        background-color: #8D91C7;
-        color: #113e69;
+        background-color: #ffb201;
+        color: var(--color-primary);
 
         &:hover {
-          background-color: darken(#8D91C7, 5%);
+          background-color: darken(#ffb201, 5%);
         }
       }
 
       &.all-the-pro-tips-and-tricks {
-        background-color: #0F5257;
+        background-color: #6987C9;
         color: #fcfbe4;
 
         &:hover {
-          background-color: darken(#0F5257, 5%);
+          background-color: darken(#6987C9, 5%);
         }
       }
     }
@@ -354,6 +354,10 @@
       }
     
       &__onesheeter {
+        >span {
+          padding: 1rem;
+        }
+        
         &__link {
           display: inline-block;
           cursor: pointer;
@@ -363,7 +367,15 @@
           &:hover {
             background-color: darken(#f37b6d, 10%);
           }
+          &.button {
+            margin-top: 1rem;
+          }
         }
+      }
+
+      .pumpcoaching-advocate__input {
+        border: 1px solid red;
+        // display: none;
       }
 
       @include media-query('md') {

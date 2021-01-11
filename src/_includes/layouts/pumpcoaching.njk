@@ -77,9 +77,9 @@
           <h3 class="[ color-primary measure-compact ]">Help us create a new reality for women who want to pump &amp; work</h3>
           <p class="[ measure-short gap-bottom-300 gap-top-300 ]">Help your employer support pumping &amp; working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
           <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold button bg-alert ]" target="_blank" href="../images/PO-OneSheeter-PumpCoaching.pdf">Download one-sheeter</a>
-          {# <span> or </span>
-          <input hidden type="text" value="{{pumpcoachingClipboard.copy}}" id="myInput">
-          <button id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" onclick="myFunction()">Click to copy a message to send to your employer</button> #}
+          <span class="[ weight-bold ]"> or </span>
+          <input hidden type="text" value="{{ pumpcoachingClipboard.copy }}" id="clipboardInput" class="pumpcoaching-advocate__input">
+          <a id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold button bg-alert ]">Click to copy a message to send to your employer</a>
           {# <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold ]" href="#">Click to copy a message to send to your employer</a> #}
         </div>
         <div class="[ advocates-artwork ]">
@@ -102,8 +102,6 @@
           <p class="[ testimonial-bio ta-left pad-top-300 italic ]">Jaclyn,<span class="[ testimonial-bio--occupation ] ">Attorney</span></p>
         </div>
       </div>
-      {# <h3 class="[ gap-top-600 ]"> Who we're doing it with </h3>
-      <p class="[ ta-center ]">We're helping women all across the world, from small start ups to the biggest companies on the planet.</p> #}
     </div>
     
   </main>
