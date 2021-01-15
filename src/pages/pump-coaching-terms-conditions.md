@@ -4,143 +4,78 @@ title: Terms & Conditions
 permalink: /terms/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
-**AGREEMENT TO TERMS**
+**TERMS AND CONDITIONS FOR SERVICES**
 
-These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and \[business entity name] (“we,” “us” or “our”), concerning your access to and use of the \[website name.com] website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
+THIS DOCUMENT CONTAINS VERY IMPORTANT INFORMATION REGARDING YOUR RIGHTS AND OBLIGATIONS, AS WELL AS CONDITIONS, LIMITATIONS, AND EXCLUSIONS THAT MIGHT APPLY TO YOU. PLEASE READ IT CAREFULLY. 
 
-You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms and Conditions. If you do not agree with all of these Terms and Conditions, then you are expressly prohibited from using the Site and you must discontinue use immediately.
+THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS. 
 
-Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason.
+BY PLACING AN ORDER FOR SERVICES FROM THIS WEBSITE, YOU ACCEPT AND ARE BOUND BY THESE TERMS AND CONDITIONS.  YOU AFFIRM THAT IF YOU PLACE AN ORDER ON BEHALF OF AN ORGANIZATION OR COMPANY, YOU HAVE THE LEGAL AUTHORITY TO BIND ANY SUCH ORGANIZATION OR COMPANY TO THESE TERMS AND CONDITIONS.
 
-We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions, and you waive any right to receive specific notice of each such change.
+YOU MAY NOT ORDER OR OBTAIN SERVICES FROM THIS WEBSITE IF YOU (A) DO NOT AGREE TO THESE TERMS, (B) ARE NOT THE OLDER OF (i) AT LEAST 18 YEARS OF AGE OR (ii) LEGAL AGE TO FORM A BINDING CONTRACT WITH PROUD OUNCES, INC., OR (C) ARE PROHIBITED FROM ACCESSING OR USING THIS WEBSITE OR ANY OF THIS WEBSITE’S CONTENTS, GOODS OR SERVICES BY APPLICABLE LAW.
 
-It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the Site after the date such revised Terms and Conditions are posted.
+These terms and conditions (these “Terms”) apply to the purchase and sale of services by and to you (referred to as “you,” “your” or “Customer” as the context may require) through www.proudounces.com (the “Site”). These Terms are subject to change by Proud Ounces, Inc., a Delaware corporation (referred to as “us”, “we”, “our” or “Proud Ounces” as the context may require) without prior written notice at any time, in our sole discretion. The latest version of these Terms will be posted on this Site, and you should review these Terms before purchasing any future services that are available through this Site. Your continued use of this Site after a posted change in these Terms will constitute your acceptance of and agreement to such changes.
 
-The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country.
+These Terms are an integral part of the Website Terms of Use that apply generally to the use of our Site. You should also carefully review our Privacy Policy before placing an order for services through this Site (see Section 11).
 
-Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+1. Order Acceptance and Cancellation. You agree that your order is an offer to buy, under these Terms, all Services listed in your order (the “Services”). All orders must be accepted by us or we will not be obligated to sell the Services to you. We may choose not to accept any orders in our sole discretion. After having received your order, we will send you a confirmation email with the details of the Services you have ordered. Acceptance of your order and the formation of the contract of sale between us and you will not take place unless and until you have received confirmation by email. You have the option to cancel your order at any time before we have sent your order confirmation email by emailing our Customer Service Department at [pumpcoachinghelp@proudounces.com](mailto:pumpcoachinghelp@proudounces.com).
+2. Prices and Payment Terms. 
+3. 1. All prices posted on this Site are subject to change without notice. The price charged for a Service will be the price in effect at the time the order is placed. Price increases will only apply to orders placed after such changes. Posted prices do not include taxes, as applicable. All such applicable taxes and charges will be added to your order total. We strive to display accurate price information, however we may, on occasion, make inadvertent typographical errors, inaccuracies or omissions related to pricing and availability. We reserve the right to correct any errors, inaccuracies, or omissions at any time and to cancel any orders arising from such occurrences.
+   2. Terms of payment are within our sole discretion and payment must be received by us before our acceptance of an order. We accept all major credit cards for all purchases. You represent and warrant that (i) the credit card information you supply to us is true, correct, and complete, (ii) you are duly authorized to use such credit card for the purchase, (iii) charges incurred by you will be honored by your credit card company, and (iv) you will pay charges incurred by you at the posted prices, including all applicable taxes, if any.
+4. Refunds; Cancellation Policy. Refunds are processed within approximately five (5) business days of cancellation of your session when appropriate notice is given. Your refund will be credited back to the same payment method used to make the original purchase on the Site.
 
-These terms and conditions were generated by [Termly’s Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/).
+Client cancellation: Clients will receive a full refund if the session is cancelled or rescheduled at least twenty-four (24) hours before the scheduled start time. The cancellation request must be made by emailing us at [pumpcoachinghelp@proudounces.com](mailto:pumpcoachinghelp@proudounces.com). If you request a cancellation with less than twenty-four (24) hours’ notice, we will be unable to issue a refund. 
 
-**Option 1**: The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to register for the Site.
+Coach cancellation:  In the rare event of a coach cancellation or no-show, the client will receive a full refund and opportunity to reschedule.
 
-**Option 2**: \[The Site is intended for users who are at least 13 years of age.] All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms and Conditions prior to you using the Site.
+4. Customer’s Obligations. You shall:
+5. 1. cooperate with us and our agents, subcontractors, consultants, or employees (collectively, our “Representatives”) in all matters relating to the Services.
+   2. respond promptly to any request to provide direction, information, approvals, authorizations, or decisions that are reasonably necessary for us to perform Services in accordance with the requirements of this Agreement; and
+   3. provide such materials or information as we or our Representatives may reasonably request to carry out the Services in a timely manner and ensure that such materials or information are complete and accurate in all material respects.
+6. Customer’s Acts or Omissions. If the performance of our obligations under this Agreement is prevented or delayed by any act or omission of you or your agents, subcontractors, consultants, or employees, we shall not be deemed in breach of our obligations under this Agreement or otherwise liable for any costs, charges, or losses sustained or incurred by you, in each case, to the extent arising directly or indirectly from such prevention or delay.
+7. Intellectual Property. All intellectual property rights, including copyrights, patents, patent disclosures and inventions (whether patentable or not), trademarks, service marks, trade secrets, know-how and other confidential information, trade dress, trade names, logos, corporate names, and domain names, together with all of the goodwill associated therewith, derivative works and all other rights (collectively, “Intellectual Property Rights”) in and to all documents, work product, and other materials that are delivered to you under this Agreement or prepared by or on behalf of Proud Ounces in the course of performing the Services, including any items identified as such in your order confirmation (collectively, the “Deliverables”) except for any confidential information of Customer or Customer materials shall be owned by us. We hereby grant you a license to use all Intellectual Property Rights free of additional charge and on a non-exclusive, worldwide, non-transferable, non-sublicensable, fully paid-up, royalty-free, and perpetual basis to the extent necessary to enable you to make reasonable use of the Deliverables and the Services.
+8. Confidential Information.  
+9. 1. All non-public, confidential or proprietary information of Proud Ounces, including, but not limited to, trade secrets, technology, information pertaining to business operations and strategies, and information pertaining to customers, pricing, and marketing (collectively, “Confidential Information”), disclosed by us to you, whether disclosed orally or disclosed or accessed in written, electronic or other form or media, and whether or not marked, designated or otherwise identified as “confidential,” in connection with the provision of the Services and this Agreement is confidential, and shall not be disclosed or copied by you without our prior written consent. Confidential Information does not include information that is:
+   2. 1. in the public domain;
+      2. known to you at the time of disclosure; or
+      3. rightfully obtained by you on a non-confidential basis from a third party.
+   3. You agree to use the Confidential Information only to make use of the Services and Deliverables.
+   4. We shall be entitled to injunctive relief for any violation of this Section.
+10. DISCLAIMER OF WARRANTY.  
+11. 1. THE SERVICES ARE PROVIDED AS-IS, AND PROUD OUNCES MAKES NO WARRANTY WHATSOEVER WITH RESPECT TO THE SERVICES, INCLUDING ANY (A) WARRANTY OF MERCHANTABILITY; OR (B) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; OR (C) WARRANTY OF TITLE; OR (D) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, OR OTHERWISE.
+    2. FURTHERMORE, WE HEREBY CONFIRM, AND YOU ACKNOWLEDGE, THAT NEITHER WE NOR OUR REPRESENTATIVES WILL BE PROVIDING, AND NO PART OF THE SERVICES SHALL INCLUDE, ANY MEDICAL SERVICES OR ADVICE, OR ANY LACTATION COUNSELLING SERVICES.  IN THE EVENT THAT ANY OF THE REPRESENTATIVES PROVIDING THE SERVICES ARE LICENSED MEDICAL PROFESSIONALS OR CERTIFIED LACTATION CONSULTANTS, THEY WILL NOT BE ACTING AS SUCH IN CONNECTION WITH THE PERFORMANCE OF THE SERVICES.  SHOULD YOU DESIRE OR REQUIRE MEDICAL SERVICES OR ADVICE, OR ANY LACTATION COUNSELLING SERVICES, PLEASE CONTACT YOUR HEALTHCARE PROVIDER.
+12. Limitation of Liability
+13. 1. IN NO EVENT SHALL WE BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY LOSS OF USE, REVENUE OR PROFIT, OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES WHETHER ARISING OUT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE AND WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ANY AGREED OR OTHER REMEDY OF ITS ESSENTIAL PURPOSE.
+    2. IN NO EVENT SHALL OUR AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EXCEED THE AGGREGATE AMOUNTS PAID OR PAYABLE TO US PURSUANT TO THE APPLICABLE ORDER CONFIRMATION GIVING RISE TO THE CLAIM.
 
-**INTELLECTUAL PROPERTY RIGHTS**
+The limitation of liability set forth in Section [9(b)](https://docs.google.com/document/d/18pzIcxpbyC-9yGv0IQIdsV13OFCBluxL/edit#bookmark=id.2bn6wsx) above shall not apply to (i) liability resulting from our gross negligence or willful misconduct and (ii) death or bodily injury resulting from our negligent acts or omissions.
 
-Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions.
+10. Goods Not for Resale or Export. You agree to comply with all applicable laws and regulations of the various states and of the United States. You represent and warrant that you are buying the Services from the Site for your own personal or household use only, and not for resale or export. 
+11. Privacy. We respect your privacy and are committed to protecting it. Our Privacy Policy, <https://www.proudounces.com/privacy/>, governs the processing of all personal data collected from you in connection with your purchase of services through the Site.
+12. Force Majeure.  No party shall be liable or responsible to the other party, nor be deemed to have defaulted under or breached this Agreement, for any failure or delay in fulfilling or performing any term of this Agreement (except for any of your obligations to make payments to us hereunder), when and to the extent such failure or delay is caused by or results from acts beyond the impacted party’s (“Impacted Party”) reasonable control, including, without limitation, the following force majeure events (“Force Majeure Event(s)”): (a) acts of God; (b) flood, fire, earthquake, epidemics, or explosion; (c) war, invasion, hostilities (whether war is declared or not), terrorist threats or acts, riot or other civil unrest; (d) government order, law, or actions; (e) embargoes or blockades in effect on or after the date of this Agreement; (f) national or regional emergency; (g) strikes, labor stoppages or slowdowns, or other industrial disturbances; and (h) other similar events beyond the reasonable control of the Impacted Party. 
 
-The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms and Conditions, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+The Impacted Party shall give notice within three (3) days of the Force Majeure Event to the other party, stating the period of time the occurrence is expected to continue. The Impacted Party shall use diligent efforts to end the failure or delay and ensure the effects of such Force Majeure Event are minimized. The Impacted Party shall resume the performance of its obligations as soon as reasonably practicable after the removal of the cause. In the event that the Impacted Party’s failure or delay remains uncured for a period of thirty (30) consecutive days following written notice given by it under this Section 12, the other party may thereafter terminate this Agreement upon five (5) days’ written notice.
 
-Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.
+13. Governing Law and Jurisdiction. All matters arising out of or relating to these Terms are governed by and construed in accordance with the internal laws of the State of Pennsylvania without giving effect to any choice or conflict of law provision or rule (whether of the State of Pennsylvania or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than those of the State of Pennsylvania.
+14. Dispute Resolution and Binding Arbitration.
+15. 1. YOU AND PROUD OUNCES ARE AGREEING TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY, OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT MAY ALSO BE UNAVAILABLE OR MAY BE LIMITED IN ARBITRATION.
+    2. ANY CLAIM, DISPUTE OR CONTROVERSY (WHETHER IN CONTRACT, TORT OR OTHERWISE, WHETHER PRE-EXISTING, PRESENT OR FUTURE, AND INCLUDING STATUTORY, CONSUMER PROTECTION, COMMON LAW, INTENTIONAL TORT, INJUNCTIVE AND EQUITABLE CLAIMS) BETWEEN YOU AND US ARISING FROM OR RELATING IN ANY WAY TO YOUR PURCHASE OF SERVICES THROUGH THE SITE, WILL BE RESOLVED EXCLUSIVELY AND FINALLY BY BINDING ARBITRATION.
+    3. The arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the Consumer Arbitration Rules (the “AAA Rules”) then in effect, except as modified by this Section 14. (The AAA Rules are available at adr.org or by calling the AAA at 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this section.
 
-**USER REPRESENTATIONS**
+The arbitrator will have exclusive authority to resolve any dispute relating to arbitrability and/or enforceability of this arbitration provision, including any unconscionability challenge or any other challenge that the arbitration provision or the Agreement is void, voidable or otherwise invalid. The arbitrator will be empowered to grant whatever relief would be available in court under law or in equity. Any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction.
 
-By using the Site, you represent and warrant that:
+If you prevail on any claim that affords the prevailing party attorneys’ fees, the arbitrator may award reasonable fees to you under the standards for fee shifting provided by law.
 
-\[(1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary;]
+4. You may elect to pursue your claim in small-claims court rather than arbitration if you provide us with written notice of your intention do so within 60 days of your purchase. The arbitration or small-claims court proceeding will be limited solely to your individual dispute or controversy.
+5. You agree to an arbitration on an individual basis. In any dispute, NEITHER YOU NOR PROUD OUNCES WILL BE ENTITLED TO JOIN OR CONSOLIDATE CLAIMS BY OR AGAINST OTHER CUSTOMERS IN COURT OR IN ARBITRATION OR OTHERWISE PARTICIPATE IN ANY CLAIM AS A CLASS REPRESENTATIVE, CLASS MEMBER OR IN A PRIVATE ATTORNEY GENERAL CAPACITY. The arbitral tribunal may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding. The arbitral tribunal has no power to consider the enforceability of this class arbitration waiver and any challenge to the class arbitration waiver may only be raised in a court of competent jurisdiction.
 
-(3) you have the legal capacity and you agree to comply with these Terms and Conditions;
+If any provision of this arbitration agreement is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced.
 
-\[(4) you are not under the age of 13;]
-
-(5) not a minor in the jurisdiction in which you reside \[, or if a minor, you have received parental permission to use the Site];
-
-(6) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise;
-
-(7) you will not use the Site for any illegal or unauthorized purpose;
-
-(8) your use of the Site will not violate any applicable law or regulation.
-
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
-
-**USER REGISTRATION**
-
-You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
-
-**PROHIBITED ACTIVITIES**
-
-You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
-
-As a user of the Site, you agree not to:
-
-1. systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-2. make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-3. use a buying agent or purchasing agent to make purchases on the Site.
-4. use the Site to advertise or offer to sell goods and services.
-5. circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
-6. engage in unauthorized framing of or linking to the Site.
-7. trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
-8. make improper use of our support services or submit false reports of abuse or misconduct.
-9. engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-10. interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
-11. attempt to impersonate another user or person or use the username of another user.
-12. sell or otherwise transfer your profile.
-13. use any information obtained from the Site in order to harass, abuse, or harm another person.
-14. use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
-15. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
-16. attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
-17. harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
-18. delete the copyright or other proprietary rights notice from any Content.
-19. copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-20. upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
-21. upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
-22. except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-23. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
-24. use the Site in a manner inconsistent with any applicable laws or regulations.
-25. \[other]
-
-**USER GENERATED CONTRIBUTIONS**
-
-The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, “Contributions”).
-
-Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
-
-1. the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-2. you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-3. you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-4. your Contributions are not false, inaccurate, or misleading.
-5. your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-6. your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-7. your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-8. your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
-9. your Contributions do not violate any applicable law, regulation, or rule.
-10. your Contributions do not violate the privacy or publicity rights of any third party.
-11. your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
-12. your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-13. your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-14. your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.
-
-Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site.
-
-**CONTRIBUTION LICENSE**
-
-By posting your Contributions to any part of the Site \[or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
-
-This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions.
-
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site.
-
-You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
-
-We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
-
-**GUIDELINES FOR REVIEWS**
-
-We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria:
-
-(1) you should have firsthand experience with the person/entity being reviewed;
-
-(2) your reviews should not contain offensive profanity, or abusive, racist, offensive, or hate language;
-
-(3) your reviews should not contain discriminatory references based on religion, race, gender, national origin, age, marital status, sexual orientation, or disability;
-
-(4) your reviews should not contain references to illegal activity;
-
-(5) you should not be affiliated with competitors if posting negative reviews;
-
-(6) you should not make any conclusions as to the legality of conduct;
-
-(7) you may not post any false or misleading statements;
-
-(8) you may not organize a campaign encouraging others to post reviews, whether positive or negative.
+15. Assignment. You will not assign any of your rights or delegate any of your obligations under these Terms without our prior written consent. Any purported assignment or delegation in violation of this Section 15 is null and void. No assignment or delegation relieves you of any of your obligations under these Terms.
+16. No Waivers. The failure by us to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any right or provision will be effective only if in writing and signed by a duly authorized representative of Proud Ounces.
+17. No Third-Party Beneficiaries. These Terms do not and are not intended to confer any rights or remedies upon any person other than you.
+18. Notices.
+19. 1. To You. We may provide any notice to you under these Terms by: (i) sending a message to the email address you provide or (ii) by posting to the Site. Notices sent by email will be effective when we send the email and notices we provide by posting will be effective upon posting. It is your responsibility to keep your email address current.
+    2. To Us. To give us notice under these Terms, you must contact us as follows: (i) by email transmission to [pumpcoachinghelp@proudounces.com](mailto:pumpcoachinghelp@proudounces.com); or (ii) by personal delivery, overnight courier or registered or certified mail to Proud Ounces, Inc., 519 Wyndmoor Avenue, Wyndmoor, PA 19038. We may update the email or physical address for notices to us by posting a notice on the Site. Notices provided by personal delivery will be effective immediately. Notices provided by email transmission or overnight courier will be effective one (1) business day after they are sent. Notices provided by registered or certified mail will be effective three (3) business days after they are sent.
+20. Severability. If any provision of these Terms is invalid, illegal, void or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.
+21. Entire Agreement. Our order confirmation, these Terms, our Website Terms of Use and our Privacy Policy will be deemed the final and integrated agreement between you and us on the matters contained in these Terms.
