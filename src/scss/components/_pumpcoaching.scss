@@ -177,13 +177,18 @@
 
       >div {
         background-color: var(--color-light);
-        padding: 2rem 1rem;
+        padding: 1.25rem;
         position: relative;
         display: flex;
         align-items: center;
         justify-content: center;
         flex-direction: column;
         margin-bottom: 1em;
+
+        .step-icon {
+          max-height: 250px;
+        }
+
         >span {
           display: none;
         }
