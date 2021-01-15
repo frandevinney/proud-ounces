@@ -1,7 +1,8 @@
 ---
 layout: layouts/page.njk
-title: Pump Coaching Terms & Conditions
+title: Terms & Conditions
 permalink: /terms/index.html
+socialImage: /images/proud-ounces-social.jpg
 ---
 **AGREEMENT TO TERMS**
 
