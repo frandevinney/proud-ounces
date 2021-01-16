@@ -1,0 +1,16 @@
+[
+  {
+    "icon": "Allura-Sitting.png",
+    "copy": "Complete a short digital assessment and book",
+    "maxWidth": "50"
+  },
+  {
+    "icon": "Allura-KIT.svg",
+    "copy": "Join your coach for a 45 minute customized session"
+   },
+   {
+    "icon": "Allura-Standing.svg",
+    "copy": "Enjoy a rockin' return to work with the confidence of a pumping & working pro",
+    "maxWidth": "30"
+   }
+]

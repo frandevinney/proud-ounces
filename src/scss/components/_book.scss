@@ -15,6 +15,12 @@
   }
 }
 
+.page--pumpcoaching {
+  .site-head {
+    border-bottom: none;
+  }
+}
+
 .book {
   &__body {
     --flow-space: #{get-size(800)};

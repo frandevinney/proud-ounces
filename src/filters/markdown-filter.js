@@ -4,6 +4,7 @@ const markdownIt = require('markdown-it')({
   linkify: true
 });
 
+
 module.exports = function markdown(value) {
   return markdownIt.render(value);
 };

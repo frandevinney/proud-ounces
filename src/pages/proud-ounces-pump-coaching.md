@@ -1,12 +1,9 @@
 ---
-layout: layouts/page.njk
+layout: layouts/pumpcoaching.njk
 title: Proud Ounces Pump Coaching
-permalink: /pump-coaching/index.html
-metaTitle: ""
-metaDesc: A new service from Proud Ounces!  Get direct help and advice from our
-  expert Pump Coaches as you work to develop your pumping strategy at work.
+permalink: /pumpcoaching/index.html
+metaTitle: Proud Ounces Pump Coaching
+metaDesc: A Proud Ounces Pump Coaching session gives a new mom the information and confidence to be a pumping & working pro on the first day back at work. Book a session or sign-up to bring Pump Coaching to your employees.
 socialImage: /images/proud-ounces-social.jpg
 ---
-We are pleased to announce that our Pump Coaching is out of private beta and is readily available to everyone! Wether you are an individual or a company, we offer tailored, custom coaching unique to the individual.
-
-We will work with you to develop a plan, answer your return to work questions, and offer you the necessary information to ensure you can maximize your productivity, accountability and pumping ability!
+A Proud Ounces Pump Coaching session gives a new mom the information and confidence to be a pumping & working pro on the first day back at work. 

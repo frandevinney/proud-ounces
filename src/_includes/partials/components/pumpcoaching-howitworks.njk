@@ -1,0 +1,7 @@
+{% if howitworks %}
+  <div class="[ pad-top-900 pad-bottom-max ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <div class="[ sf-flow ] [ leading-mid measure-short ]">{{ howitworks | markdownFilter | safe }}</div>
+    </div>
+  </div>
+{% endif %}
