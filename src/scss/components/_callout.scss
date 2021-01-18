@@ -1,72 +1,75 @@
 .callout {
-  // border-top: 5px solid var(--color-theme-alert);
-  background: var(--color-theme-highlight-block);
+  background-color:var(--color-light);
 
   a {
     color: var(--color-theme-alert);
   }
 }
 
+.callout-wave {
+  // height: 175px;
+  display: none;
+
+  @include media-query('lrg') {
+    display: block;
+    >svg {
+      display: block;
+    }
+
+    &.callout-wave__bottom {
+      max-height: 200px;
+    }
+
+    // &.callout-wave__top {
+    //   height: 300px;
+    // }
+  }
+
+}
+
 .pumpcoaching-callout {
   color: var(--color-alert);
-  background-color:var(--color-light);
+  background: var(--color-theme-highlight-block);
+  position: relative;
+
+  .wrapper {
+    >span {
+      font-style: italic;
+    }
+  }
+ 
 
   &__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
 
-    >div {
+    .intro__callout {
       width: 100%;
-    }
-
-    .pumpcoaching-contact {
-      width: 100%;
-    }
-
-    @include media-query('md') {
-
-      .pumpcoaching-contact {
-        width: 50%;
-      }
-    }
-  }
-
-  @include media-query('md') {
-    h3 {
-      max-width: 80%;
-    }
-  }
-
-  p {
-    color: var(--color-dark);
-  }
-
-  .pumpcoaching-contact {
-    margin-top: get-size(700);
-
-    >ol {
-      color: var(--color-dark);
-
-      >li {
-        margin-bottom: 24px;
-
-        .question__label {
-          font-size: get-size(300);
-        }
-      }
-    }
-
-    @include media-query('md') {
-      display: flex;
-      flex-direction: row;
-      justify-content: flex-start;
-      align-items: flex-start;
-
-      >ol {
-        width: 65%;
-      }
+      order: 2;
+      margin-top: 1rem;
 
       .button {
-        min-height: 42px;
-        margin-top: 21px;
+        color: var(--color-light);
+        margin-top: 1rem;
+      }
+    }
+
+    .intro__callout__image {
+      width: 100%;
+    }
+
+    @include media-query('sm') {
+      flex-direction: row;
+
+      .intro__callout {
+        width: 45%;
+        order: 0;
+      }
+
+      .intro__callout__image {
+        width: 55%;
       }
     }
   }
