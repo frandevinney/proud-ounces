@@ -7,22 +7,14 @@
 }
 
 .callout-wave {
-  // height: 175px;
-  display: none;
+  >svg {
+    display: block;
+  }
 
   @include media-query('lrg') {
-    display: block;
-    >svg {
-      display: block;
-    }
-
     &.callout-wave__bottom {
       max-height: 200px;
     }
-
-    // &.callout-wave__top {
-    //   height: 300px;
-    // }
   }
 
 }
