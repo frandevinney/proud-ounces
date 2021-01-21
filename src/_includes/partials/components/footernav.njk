@@ -1,0 +1,28 @@
+{% if navigation.footer %}
+  <nav class="nav" aria-label="{{ariaLabel}}">
+    <ul class="[ nav__list ] [ box-flex align-center md:space-before ]">
+      {% for item in navigation.footer %}
+        {% set relAttribute = '' %}
+        {% set currentAttribute = '' %}
+
+        {% if item.rel %}
+          {% set relAttribute = ' rel="' + item.rel + '"' %}
+        {% endif %}
+
+        {% if page.url == item.url %}
+          {% set currentAttribute = ' aria-current="page"' %}
+        {% endif %}
+
+        <li class="nav__item">
+          <a data-icon="{{ item.icon }}" href="{{ item.url }}"{{ relAttribute | safe }}{{ currentAttribute | safe }}>
+            {% if item.icon %}
+              <img src="{{ item.icon }}" alt="{{ item.text }}" />
+            {% else %}
+              {{ item.text }}
+            {% endif %}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+{% endif %}
