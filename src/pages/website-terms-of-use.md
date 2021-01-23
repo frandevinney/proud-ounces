@@ -192,4 +192,4 @@ The Terms of Use, our Privacy Policy, and Terms and Conditions constitute the so
 
 This website is operated by Proud Ounces, Inc. 
 
-All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to: [getintouch@proudounces.com](mailto:getintouch@proudounces.com).
+All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to: [getintouch@proudounces.com](mailto:getintouch@proudounces.com)
