@@ -11,7 +11,7 @@ These terms of use are entered into by and between You and Proud Ounces, Inc. (â
 
 Please read the Terms of Use carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at <https://www.proudounces.com/privacy/>, incorporated herein by reference. If you do not want to agree to these Terms of Use or the Privacy Policy, you must not access or use the Website.
 
-This Website is offered and available to users who are 16 years of age or older,/ and reside in the United States or any of its territories or possessions. By using this Website, you represent and warrant that you are of legal age to form a binding contract with the Company and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Website.
+This Website is offered and available to users who are 16 years of age or older, and reside in the United States or any of its territories or possessions. By using this Website, you represent and warrant that you are of legal age to form a binding contract with the Company and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Website.
 
 **Changes to the Terms of Use**
 
