@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 title: Website Terms of Use
 socialImage: /images/proud-ounces-social.jpg
+permalink: /website-terms-of-use/index.html
 ---
 Last Modified: January 20th, 2021
 
