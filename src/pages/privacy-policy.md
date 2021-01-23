@@ -80,7 +80,7 @@ Third-Party Use of Cookies and Other Tracking Technologies
 
 Some content or applications on the Website are served by third parties, including content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see [Choices About How We Use and Disclose Your Information](https://docs.google.com/document/d/1xkuKjdMriZcqaLlX0P5RHnwX25cQYzuf/edit#bookmark=id.2s8eyo1).
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
 How We Use Your Information
 
@@ -96,7 +96,7 @@ We use information that we collect about you or that you provide to us, includin
 * In any other way we may describe when you provide the information.
 * For any other purpose with your consent.
 
-We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at getintouch@proudounces.com. For more information, see [Choices About How We Use and Disclose Your Information](https://docs.google.com/document/d/1xkuKjdMriZcqaLlX0P5RHnwX25cQYzuf/edit#bookmark=id.2s8eyo1).
+We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at getintouch@proudounces.com. For more information, see Choices About How We Use and Disclose Your Information.
 
 Disclosure of Your Information
 
@@ -126,7 +126,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website.
 
-California residents may have additional personal information rights and choices. Please see [Your California Privacy Rights](https://docs.google.com/document/d/1xkuKjdMriZcqaLlX0P5RHnwX25cQYzuf/edit#bookmark=id.3rdcrjn) for more information.
+California residents may have additional personal information rights and choices. Please see [Your California Privacy Rights](proudounces.com/privacy-ca) for more information.
 
 Nevada residents who wish to exercise their sale opt-out rights under Nevada Revised Statutes Chapter 603A may submit a request to this designated address: [getintouch@proudounces.com](mailto:getintouch@proudounces.com). However, please know we do not currently sell data triggering that statute’s opt-out requirements.
 
