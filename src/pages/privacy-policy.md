@@ -134,7 +134,7 @@ Your California Privacy Rights
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [proudounces.com/privacy-ca](/privacy-ca).
 
-California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our App that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to getintouch@proudounces.com.
+California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to getintouch@proudounces.com.
 
 Data Security
 
