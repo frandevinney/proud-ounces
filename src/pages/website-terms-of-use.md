@@ -3,8 +3,9 @@ layout: layouts/page.njk
 title: Website Terms of Use
 socialImage: /images/proud-ounces-social.jpg
 ---
-Last Modified: January 20th, 2021
 
+
+Last Modified: January 20th, 2021
 
 **Acceptance of the Terms of Use**
 
@@ -19,3 +20,12 @@ This Website is offered and available to users who are 16 years of age or older,
 We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them, and apply to all access to and use of the Website thereafter. However, any changes to the dispute resolution provisions set out in Governing Law and Jurisdiction will not apply to any disputes for which the parties have actual notice on or before the date the change is posted on the Website. 
 
 Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you.
+
+**Accessing the Website and Account Security**
+
+We reserve the right to withdraw or amend this Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Website, or the entire Website, to users, including registered users.
+
+You are responsible for both:
+
+* Making all arrangements necessary for you to have access to the Website.
+* Ensuring that all persons who access the Website through your internet connection are aware of these Terms of Use and comply with them.
