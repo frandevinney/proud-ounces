@@ -22,7 +22,7 @@ It does not apply to information collected by:
 * Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or 
 * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see [Changes to Our Privacy Policy](https://docs.google.com/document/d/1xkuKjdMriZcqaLlX0P5RHnwX25cQYzuf/edit#bookmark=id.lnxbz9)). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
 Children Under the Age of 16
 
@@ -126,13 +126,13 @@ We strive to provide you with choices regarding the personal information you pro
 
 We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website.
 
-California residents may have additional personal information rights and choices. Please see [Your California Privacy Rights](proudounces.com/privacy-ca) for more information.
+California residents may have additional personal information rights and choices. Please see [Your California Privacy Rights](/privacy-ca) for more information.
 
 Nevada residents who wish to exercise their sale opt-out rights under Nevada Revised Statutes Chapter 603A may submit a request to this designated address: [getintouch@proudounces.com](mailto:getintouch@proudounces.com). However, please know we do not currently sell data triggering that statute’s opt-out requirements.
 
 Your California Privacy Rights
 
-If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [proudounces.com/privacy-ca](proudounces.com/privacy-ca).
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [proudounces.com/privacy-ca](/privacy-ca).
 
 California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our App that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to getintouch@proudounces.com.
 
