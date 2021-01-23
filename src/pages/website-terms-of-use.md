@@ -99,7 +99,7 @@ All information we collect on this Website is subject to our Privacy Policy <htt
 
 **Online Purchases and Other Terms and Conditions**
 
-All purchases through our site or other transactions for the sale of goods, services, or information formed through the Website, or resulting from visits made by you, are governed by our Terms and Conditions proudounces.com/terms, which are hereby incorporated into these Terms of Use.
+All purchases through our site or other transactions for the sale of goods, services, or information formed through the Website, or resulting from visits made by you, are governed by our Terms and Conditions [proudounces.com/terms](https://www.proudounces.com/terms), which are hereby incorporated into these Terms of Use.
 
 Additional terms and conditions may also apply to specific portions, services, or features of the Website. All such additional terms and conditions are hereby incorporated by this reference into these Terms of Use.
 
