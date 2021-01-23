@@ -150,6 +150,4 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 Contact Information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
-
-getintouch@proudounces.com
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: getintouch@proudounces.com
