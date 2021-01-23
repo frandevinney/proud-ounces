@@ -3,8 +3,6 @@ layout: layouts/page.njk
 title: Website Terms of Use
 socialImage: /images/proud-ounces-social.jpg
 ---
-
-
 Last Modified: January 20th, 2021
 
 **Acceptance of the Terms of Use**
@@ -53,8 +51,6 @@ You must not:
 * Modify copies of any materials from this site.
 * Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
 * Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
-
-
 
 You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website. 
 
@@ -192,4 +188,4 @@ The Terms of Use, our Privacy Policy, and Terms and Conditions constitute the so
 
 This website is operated by Proud Ounces, Inc. 
 
-All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to: getintouch@proudounces.com
+All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to: [getintouch@proudounces.com](mailto:getintouch@proudounces.com)
