@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
+Last modified: January 20th, 2021
+
 Introduction
 
 Proud Ounces, Inc. (“Proud Ounces,” “Company” or ”We”) respect your privacy and are committed to protecting it through our compliance with this policy.
@@ -114,7 +116,7 @@ We may disclose personal information that we collect, or you provide, as describ
 We may also disclose your personal information:
 
 * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-* To enforce or apply our terms and conditions www.proudounces.com/terms and other agreements, including for billing and collection purposes.
+* To enforce or apply our terms and conditions [www.proudounces.com/terms](www.proudounces.com/terms) and other agreements, including for billing and collection purposes.
 * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Proud Ounces, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 Choices About How We Use and Disclose Your Information
@@ -134,7 +136,7 @@ Your California Privacy Rights
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [proudounces.com/privacy-ca](/privacy-ca).
 
-California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our App that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to getintouch@proudounces.com.
+California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to getintouch@proudounces.com.
 
 Data Security
 
