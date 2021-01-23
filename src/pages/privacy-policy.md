@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
+Last modified: January 20th, 2021
+
 Introduction
 
 Proud Ounces, Inc. (“Proud Ounces,” “Company” or ”We”) respect your privacy and are committed to protecting it through our compliance with this policy.
