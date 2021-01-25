@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: About
+title: About our founder
 permalink: /about/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
