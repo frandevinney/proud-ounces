@@ -4,10 +4,6 @@ title: About us
 permalink: /about/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
-
-
-![About us image](/images/pumpcoaching-rock.png)
-
 ## Kristen Devinney
 
 Founder, CEO, Pump Coach
