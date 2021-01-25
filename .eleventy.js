@@ -15,6 +15,14 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 const site = require('./src/_data/site.json');
 
 module.exports = function(config) {
+
+  config.addPairedShortcode(
+    "inset-right", (data) => {
+      const aboutContent = markdownFilter(data);
+      return `<div class="inset-right">${aboutContent}</div>`;
+    }
+  );
+  
   // Filters
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
@@ -58,6 +66,8 @@ module.exports = function(config) {
   //     .reverse()
   //     .slice(0, site.maxPostsPerPage);
   // });
+
+  
 
   // Plugins
   config.addPlugin(rssPlugin);
