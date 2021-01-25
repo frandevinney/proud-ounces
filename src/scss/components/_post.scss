@@ -118,6 +118,19 @@
       padding: get-size(700);
       font-size: get-size(500);
     }
+
+    //
+    .inset-right {
+      border: 5px solid var(--color-alert);
+      float: right;
+      margin-left: 2rem;
+      max-width: 33%;
+      border-radius: 100%;
+      overflow: hidden;
+      > p img {
+        display: block;
+      }
+    }
   }
 
   &__footer {
