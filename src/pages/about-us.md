@@ -4,12 +4,6 @@ title: About us
 permalink: /about/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
-Hello This is a test.
-
-![Kristen Proud Ounces](/images/kristen1-headshot.jpg)
-
-
-
 
 
 ![About us image](/images/pumpcoaching-rock.png)
