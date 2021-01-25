@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About us
-permalink: /about/index.html
+permalink: ""
 socialImage: /images/proud-ounces-social.jpg
 ---
 ![About us image](/images/pumpcoaching-rock.png)
