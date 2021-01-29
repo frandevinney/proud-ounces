@@ -27,6 +27,12 @@
       "icon": "../images/twitter.svg"
     },
     {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/proudounces",
+      "external": true,
+      "icon": "../images/icon-instagram.svg"
+    },
+    {
       "text": "Privacy Policy",
       "url": "/privacy",
       "external": false
