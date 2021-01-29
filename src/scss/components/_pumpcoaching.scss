@@ -301,11 +301,11 @@
         padding: 2rem 2rem;
         margin-bottom: 1rem;
         transition: all 0.35s ease-in-out;
-        border-radius: 74% 26% 11% 69%/72% 57% 93% 38%;
+        border-radius: 23% 86% 26% 60%/82% 33% 62% 48%;
         cursor: pointer;
         position:relative;
         &:nth-child(odd) {
-          border-radius: 23% 86% 26% 60%/82% 33% 62% 48%;
+          border-radius: 54% 26% 41% 59%/42% 27% 73% 68%;
         }
         &:hover {
           background-color: var(--color-highlight-glare);
@@ -322,7 +322,7 @@
         }
 
         @include media-query('md') {
-          border-radius: 84% 16% 31% 69% / 52% 37% 63% 48%;
+          border-radius: 74% 26% 32% 79%/72% 47% 83% 48%;
         }
       }
       @include media-query('md') {
