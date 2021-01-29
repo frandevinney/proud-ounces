@@ -5,10 +5,11 @@ permalink: /about/index.html
 socialImage: /images/proud-ounces-social.jpg
 ---
 ## Kristen Devinney
-_Founder, CEO, Pump Coach_
+
+*Founder, CEO, Pump Coach*
 
 {% inset-right %}
-![Kristen Proud Ouonces Founder](/images/kristen-illo.jpg)
+![Kristen Proud Ouonces Founder](/images/kristen-about-us-headshot.jpg)
 {% endinset-right %}
 
 Kristen is on a mission to change the reality of pumping & working for moms and the businesses that support them. After managing digital marketing campaigns for Fortune 500 clients at several advertising agencies across New York City, Kristen joined Google in 2009. She spent almost 10 years as a search specialist, sales leader and trusted partner to c-level executives working with Google to market their products and brands. She has guest lectured at both Harvard and Cornell Business Schools. 
