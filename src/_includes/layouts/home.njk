@@ -11,14 +11,14 @@
 {% set introCallout %}{{ callout | safe }}{% endset %}
 
 {# Post list content #}
-{% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{# {% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %} #}
 
-Archive link
+{# Archive link
 {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
-{% endif %}
+{% endif %} #}
 
 {% block content %}
   <main id="main-content" tabindex="-1">

@@ -1,0 +1,17 @@
+.series-description {
+  @include media-query('md') {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    >img {
+      width: 55%;
+    }
+  
+    >p {
+      width: 40%;
+      padding-left: 2rem;
+    }
+  }
+}
