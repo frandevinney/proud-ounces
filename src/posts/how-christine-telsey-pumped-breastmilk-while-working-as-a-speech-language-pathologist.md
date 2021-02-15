@@ -12,7 +12,7 @@ Welcome to the latest edition of “The Faces of Pumping & Working” where we l
 
 **Did you set any breastfeeding goals for yourself before returning to work?**
 
-I wanted to make it to 1 year feeding my daughter only breastmilk
+I wanted to make it to 1 year feeding my daughter only breastmilk.
 
 **Can you give us an idea of what your physical workspace was like?**
 
@@ -25,21 +25,21 @@ I was able to get a key to the nursery room that was used for Sunday mass to pum
 **\
 Tell us about the most challenging moments that stick in your mind when you think about the experience of finding space to pump during that time.**
 
-I was walked in on many times mid-pump, having to awkwardly say, “Sorry I’m using the room”. It just felt like I was taking over a room that the preschool staff used for their own time away or private time and I felt a little resented for that, which of course always made me feel guilty. 
+I was walked in on many times mid-pump, having to awkwardly say, “Sorry I’m using the room”. It just felt like I was taking over a room that the preschool staff used for their own time away or private time and I felt a little resented for that, which of course always made me feel guilty.  
 
- I ended up having to create a “do not enter, pumping in progress” sign and I taped it OVER the door handle outside so you would literally have to move the paper in order to open the door. That was the most effective way to keep others out!
+I ended up having to create a “do not enter, pumping in progress” sign and I taped it OVER the door handle outside so you would literally have to move the paper in order to open the door. That was the most effective way to keep others out!
 
- Even with my sign strategy, it didn’t completely resolve the challenges as the space had multiple uses. One time I walked in during my scheduled time to pump and a colleague was there laying out some student artwork to dry, I let her know that I had to pump but had to awkwardly wait over five minutes for her to leave which put me behind schedule for my next student’s session, it was pretty frustrating as what she was doing could have waited. 
+My sign strategy didn’t completely resolve the challenges as the space had multiple uses. One time I walked in during my scheduled time to pump and a colleague was there laying out some student artwork to dry, I let her know that I had to pump but then had to awkwardly wait over five minutes for her to leave which put me behind schedule for my next student’s session, it was pretty frustrating as what she was doing could have waited. 
 
 **\
 What other challenges did you encounter when it came to integrating pumping & working to meet your breastfeeding goals?**
 
-Scheduling is the most difficult part of my job to begin with, so including time to pump was incredibly challenging. I have up to 50 students to see a week, many being 2x/week, my schedule is packed. I had to decline some students to make room for pumping which was a little bit of an awkward conversation I had to have with my male supervisor. Another challenge was that once I started back at work my supply definitely declined, and knowing that it was diminishing always made going into my pump sessions feeling anxiety with the constant thought of ‘how much will I get this time??’ I knew how counterproductive that thinking was to producing milk, but it was just a stressor I couldn’t shake. 
+Scheduling is the most difficult part of my job to begin with, so including time to pump was incredibly challenging. I have up to 50 students to see a week, many being 2x/week, my schedule is packed. I had to decline some students to make room for pumping which was a little bit of an awkward conversation I had to have with my male supervisor. Another challenge was that once I started back at work my supply definitely declined and knowing that it was diminishing always left me feeling anxious wondering how much milk I would get at each pumping session. I knew how counterproductive that thinking was to producing milk, but it was just a stressor I couldn’t shake. 
 
 **\
 How was the actual experience of integrating breastfeeding with work different from what you anticipated?**
 
-I think the actual experience was pretty much what I expected, some things were smoother and some things were more difficult. My milk depleting was something I had read about and expected, but that didn’t make it much easier when it actually happened. Having a space delegated for pumping was a less stressful process than I imagined, but then the realization of it not being very private made it difficult. Overall I think I went into it with realistic expectations, which included coming to terms with the fact that my breastfeeding days would most likely be coming to a gradual end. 
+I think the actual experience was pretty much what I expected, some things were smoother and some things were more difficult. My milk supply declining was something I had read about and expected, but that didn’t make it much easier when it actually happened. Having a space delegated for pumping was a less stressful process than I imagined, but then the realization of it not being very private made it difficult. Overall I think I went into it with realistic expectations, which included coming to terms with the fact that my breastfeeding days would most likely be coming to a gradual end. 
 
 **\
 What type of support could your employer/colleagues/manager have provided that would have improved your breastfeeding and working experience?**
@@ -53,7 +53,7 @@ More tips or tricks to increase my supply as that was something that became a ro
 
  **What is your favorite pumping tip that worked well for you/your family?**
 
-I have two! Start your freezer supply early! I was able to store a lot of milk with two strategies. The first was collecting on the opposite breast while breast feeding to catch the leaking milk, which caught a surprising amount. The Second was a routine we started early on (around week 2/3) that my husband, Max, would do bedtime and he fed her a bottle of pumped milk. I would pump while he fed her and typically was able to pump a few ounces more than she took in the bottle and stored that extra in the freezer. Max would get to bond with her, I got some time alone and I was SO grateful for it in the later months when my milk dwindled. 
+I have two! I was able to store a lot of frozen milk pretty early on with these two strategies. The first was collecting on the opposite breast while breast feeding to catch the leaking milk, which caught a surprising amount. The Second was a routine we started early on (around week 2/3) that my husband, Max, would give a bottle of pumped milk at bedtime. I would pump while he fed her and was typically able to pump a few ounces more than she took in the bottle and stored that extra in the freezer. Max enjoyed the bonding time, I got some time alone and I was SO grateful for the freezer stash in the later months when my milk dwindled.
 
 **\
 Did you end up hitting the goal you had set for yourself prior to returning to work? If not, what was the biggest roadblock to reaching the goal?**
