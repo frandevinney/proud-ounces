@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/faces-of-pumping-and-working.njk
 title: The Faces of Pumping & Working
 permalink: /the-faces-of-pumping/index.html
 socialImage: /images/faces-women.png

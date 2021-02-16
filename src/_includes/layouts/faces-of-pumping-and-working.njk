@@ -1,0 +1,39 @@
+---
+rubric: Series
+---
+
+{% extends 'layouts/base.njk' %}
+
+{# Post list content #}
+{% set postListHeadingLevel = '1' %}
+{% set postListHeading = 'Articles in this series' %}
+{% set postListRubric = rubric %}
+{% set postListItems = collections.faces %}
+{% set postListItemVariation = 'post-list__item--withCard'%}
+
+{% block content %}
+
+  <main id="main-content" class="[ series-list ]" tabindex="-1">
+    <div class="[ inner-wrapper ] [ pad-top-900 pad-bottom-900 ]">
+      <span class="[ series-list__rubric ] [ text-400 md:text-400 leading-tight ]">{{ postListRubric }}</span>
+      <h2 class="[ series-list__title ] [ font-cooper-light leading-tight ] [ text-700 md:text-800 ]">{{ title }}</h2>
+      <div class="[ series-description ] [ gap-top-800 text-500  ]">
+        <img src="/images/faces-women.png" alt="{{ title }} " />
+        {{ content | safe }}
+      </div>
+    </div>
+
+
+    {% for post in collections.faces -%}
+      {% include "partials/components/post-list.njk" %}
+    {% else %}
+      <p>There are currently no posts. </p>
+    {% endfor -%}
+
+  </main>
+  {# <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    
+    {% include "partials/components/pagination.njk" %}
+  </main> #}
+{% endblock %}
