@@ -6,7 +6,6 @@ date: 2021-02-13T18:41:33.944Z
 postImage: /images/faces-christine.jpg
 tags:
   - faces
-  - faces-of-pumping-and-working
 ---
 > I, Christine Telsey, pumped breastmilk to feed my own baby while working as a speech language pathologist, helping students of differing abilities communicate their wants and needs. 
 
