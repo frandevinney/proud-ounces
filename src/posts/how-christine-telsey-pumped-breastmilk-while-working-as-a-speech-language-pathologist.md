@@ -12,6 +12,10 @@ tags:
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Christine Telsey’s experience integrating breastfeeding and working after the birth of her daughter, Logan, while she worked as a preschool-based speech language pathologist. 
 
+{% inset-right %}
+![Kristen Proud Ounces Founder](/images/faces-christine.jpg)
+{% endinset-right %}
+
 **Did you set any breastfeeding goals for yourself before returning to work?**
 
 I wanted to make it to 1 year feeding my daughter only breastmilk.
