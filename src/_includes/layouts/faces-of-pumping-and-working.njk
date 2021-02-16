@@ -1,6 +1,5 @@
 ---
 rubric: Series
-title: The Faces of Pumping & Working
 ---
 
 {% extends 'layouts/base.njk' %}
@@ -18,9 +17,9 @@ title: The Faces of Pumping & Working
     <div class="[ inner-wrapper ] [ pad-top-900 pad-bottom-900 ]">
       <span class="[ series-list__rubric ] [ text-400 md:text-400 leading-tight ]">{{ postListRubric }}</span>
       <h2 class="[ series-list__title ] [ font-cooper-light leading-tight ] [ text-700 md:text-800 ]">{{ title }}</h2>
-      <div class="[ series-description ] [ gap-top-800 ]">
+      <div class="[ series-description ] [ gap-top-800 text-500  ]">
         <img src="/images/faces-women.png" alt="{{ title }} " />
-        <p class="[ text-500 ]">Stories about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. </p>
+        {{ content | safe }}
       </div>
     </div>
 
