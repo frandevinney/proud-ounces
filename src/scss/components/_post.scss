@@ -122,14 +122,21 @@
     //
     .inset-right {
       border: 5px solid var(--color-alert);
-      float: right;
-      margin-left: 2rem;
-      max-width: 33%;
       border-radius: 100%;
       overflow: hidden;
+      margin: 0 auto;
+      max-width: 300px;
+      margin-top: var(--flow-space);
       > p img {
         display: block;
+        width: 100%;
       }
+      @include media-query('md') {
+        float: right;
+        margin-left: 2rem;
+        max-width: 33%;
+      }
+
     }
   }
 
