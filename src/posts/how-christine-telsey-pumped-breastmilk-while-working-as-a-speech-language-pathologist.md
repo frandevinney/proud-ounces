@@ -8,13 +8,17 @@ date: 2021-02-13T18:41:33.944Z
 tags:
   - faces
 ---
-> I, Christine Telsey, pumped breastmilk to feed my own baby while working as a speech language pathologist, helping students of differing abilities communicate their wants and needs. 
+{% inset-right %}
+![Faces of Pumping and working Christine Telsey](/images/faces-christine.jpg)
+{% endinset-right %}
 
 {% inset-right %}
 ![Kristen Proud Ounces Founder](/images/faces-christine.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Christine Telsey’s experience integrating breastfeeding and working after the birth of her daughter, Logan, while she worked as a preschool-based speech language pathologist. 
+
+> I, Christine Telsey, pumped breastmilk to feed my own baby while working as a speech language pathologist, helping students of differing abilities communicate their wants and needs. 
 
 **Did you set any breastfeeding goals for yourself before returning to work?**
 
