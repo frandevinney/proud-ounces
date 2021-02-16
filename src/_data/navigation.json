@@ -24,13 +24,13 @@
       "text": "Twitter",
       "url": "https://www.twitter.com/proudounces",
       "external": true,
-      "icon": "../images/twitter.svg"
+      "icon": "/images/twitter.svg"
     },
     {
       "text": "Instagram",
       "url": "https://www.instagram.com/proudounces",
       "external": true,
-      "icon": "../images/icon-instagram.svg"
+      "icon": "/images/icon-instagram.svg"
     },
     {
       "text": "Privacy Policy",

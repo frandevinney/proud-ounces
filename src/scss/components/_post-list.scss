@@ -1,6 +1,29 @@
 .post-list {
   &__item {
     --flow-space: #{get-size(700)};
+
+    &--withCard {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      border-top: 1px solid var(--color-highlight-glare);
+      padding-top: 1rem;
+
+      >span {
+        width: 60%;
+      }
+      
+      >a {
+        width: 40%;
+        max-width: 175px;
+        padding-left: 0.5rem;
+        img {
+          display: block;
+        }
+      }
+    }
   }
 
   &__link {
