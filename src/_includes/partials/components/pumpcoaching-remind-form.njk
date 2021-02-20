@@ -18,7 +18,7 @@
       {{ label("Employer name", "business-name") }}
       {{ field( "text", "business-name", { required: true, placeholder: "", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
-    <li class="[ field-list__field-group ]">
+    <li class="[ field-list__field-group ] [ form__dateselect ]">
       {{ label("Planned return to work date", "return-to-work-month") }}
       {{ select( "select", months, { required: true, description: "Month" } ) }}
       {{ select( "select", days, { required: true, description: "Day" } ) }}
