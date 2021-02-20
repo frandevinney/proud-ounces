@@ -9,7 +9,13 @@
       {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
         {{ content | safe }}
-        {% include "partials/components/contact-form.njk" %}
+        {% if isPumpCoaching %}
+          <p>This should be rendering if its a PumpCoaching page </p>
+          {% include "partials/components/pumpcoaching-remind-form.njk" %}
+
+        {% else %}
+          {% include "partials/components/contact-form.njk" %}
+        {% endif %}
       </div>
     </article>
   </main>
