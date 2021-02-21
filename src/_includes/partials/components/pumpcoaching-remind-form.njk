@@ -16,9 +16,9 @@
     </li>
     <li class="[ field-list__field-group ] [ form__dateselect ]">
       {{ label("What is your planned return to work date?", "return-to-work-month") }}
-      {{ select( "select", months, { required: true, description: "Month" } ) }}
-      {{ select( "select", days, { required: true, description: "Day" } ) }}
-      {{ select( "select", [ "2021", "2022", "2023" ], { required: true, description: "Year" } ) }}
+      {{ select( "return-month", months, { required: true, description: "Month" } ) }}
+      {{ select( "return-day", days, { required: true, description: "Day" } ) }}
+      {{ select( "return-year", [ "2021", "2022", "2023" ], { required: true, description: "Year" } ) }}
     </li>
     <li hidden>
       <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
