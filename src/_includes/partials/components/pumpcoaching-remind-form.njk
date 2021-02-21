@@ -1,0 +1,28 @@
+{% from "macros/form.njk" import label, field, textarea, button, select %}
+
+<form name="pumpcoaching-remind" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
+  <ol class="[ field-list ]">
+   <li class="[ field-list__field-group ]">
+      {{ label("What's Your Name?", "name") }}
+      {{ field( "text", "name", { required: true, placeholder: "", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
+    </li>
+    <li class="[ field-list__field-group ]">
+      {{ label("What’s your email address?", "email") }}
+      {{ field( "email", "email", { required: true, placeholder: "", autocomplete: "email" } ) }}
+    </li>
+    <li class="[ field-list__field-group ]">
+      {{ label("What's the name of your Employer?", "business-name") }}
+      {{ field( "text", "business-name", { required: true, placeholder: "", autocorrect: "off", autocapitalize: "off" } ) }}
+    </li>
+    <li class="[ field-list__field-group ] [ form__dateselect ]">
+      {{ label("What is your planned return to work date?", "return-to-work-month") }}
+      {{ select( "return-month", months, { required: true, description: "Month" } ) }}
+      {{ select( "return-day", days, { required: true, description: "Day" } ) }}
+      {{ select( "return-year", [ "2021", "2022", "2023" ], { required: true, description: "Year" } ) }}
+    </li>
+    <li hidden>
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </li>
+  </ol>
+  {{ button("Send message") }}
+</form>
