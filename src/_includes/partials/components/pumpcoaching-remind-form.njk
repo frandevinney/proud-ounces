@@ -2,24 +2,20 @@
 
 <form name="pumpcoaching-remind" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
   <ol class="[ field-list ]">
-    <li class="[ field-list__field-group ]">
-      {{ label("What's Your First Name?", "first-name") }}
-      {{ field( "text", "first-name", { required: true, placeholder: "", autocomplete: "first-name", autocorrect: "off", autocapitalize: "off" } ) }}
-    </li>
-     <li class="[ field-list__field-group ]">
-      {{ label("What's Your Last Name?", "family-name") }}
-      {{ field( "text", "family-name", { required: true, placeholder: "", autocomplete: "family-name", autocorrect: "off", autocapitalize: "off" } ) }}
+   <li class="[ field-list__field-group ]">
+      {{ label("What's Your Name?", "name") }}
+      {{ field( "text", "name", { required: true, placeholder: "", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
       {{ label("What’s your email address?", "email") }}
       {{ field( "email", "email", { required: true, placeholder: "", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("Employer name", "business-name") }}
+      {{ label("What's the name of your Employer?", "business-name") }}
       {{ field( "text", "business-name", { required: true, placeholder: "", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ] [ form__dateselect ]">
-      {{ label("Planned return to work date", "return-to-work-month") }}
+      {{ label("What is your planned return to work date?", "return-to-work-month") }}
       {{ select( "select", months, { required: true, description: "Month" } ) }}
       {{ select( "select", days, { required: true, description: "Day" } ) }}
       {{ select( "select", [ "2021", "2022", "2023" ], { required: true, description: "Year" } ) }}
