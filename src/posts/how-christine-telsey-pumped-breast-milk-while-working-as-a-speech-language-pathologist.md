@@ -1,7 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How Christine Telsey pumped breast milk while working as a speech
-  language pathologist
+title: new one
 socialImage: /images/faces-christine.jpg
 postImage: /images/faces-christine.jpg
 date: 2021-02-22T18:26:20.864Z
