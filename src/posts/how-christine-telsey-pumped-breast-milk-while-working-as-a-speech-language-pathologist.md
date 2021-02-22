@@ -8,11 +8,9 @@ date: 2021-02-22T18:26:20.864Z
 tags:
   - faces
 ---
-
-
-
-
-
+{% inset-right %}
+![Faces of Pumping and working Marta LaRusso](/images/martalarusso_headshot.jpg)
+{% endinset-right %}
 
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Marta LaRusso’s experience integrating breastfeeding and working after the birth of her children, Mattia and Nico, while she worked as a banking executive in New York City. 
