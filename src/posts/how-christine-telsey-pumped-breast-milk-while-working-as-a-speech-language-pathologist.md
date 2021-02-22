@@ -1,71 +1,79 @@
 ---
 layout: layouts/post.njk
-title: new one
-socialImage: /images/faces-christine.jpg
-postImage: /images/faces-christine.jpg
+title: "How Marta LaRusso pumped breast milk while working as a banking
+  executive in NYC. "
+socialImage: /images/martalarusso_headshot.jpg
+postImage: /images/martalarusso_headshot.jpg
 date: 2021-02-22T18:26:20.864Z
 tags:
   - faces
 ---
-{% inset-right %}
-![Faces of Pumping and working Christine Telsey](/images/faces-christine.jpg)
-{% endinset-right %}
 
-Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Christine Telsey’s experience integrating breastfeeding and working after the birth of her daughter, Logan, while she worked as a preschool-based speech language pathologist. 
 
-> I, Christine Telsey, pumped breastmilk to feed my own baby while working as a speech language pathologist, helping students of differing abilities communicate their wants and needs. 
+Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Marta LaRusso’s experience integrating breastfeeding and working after the birth of her children, Mattia and Nico, while she worked as a banking executive in New York City. 
+
+> I, Marta LaRusso, pumped breastmilk to feed my own baby while helping a major global bank limit lost assets and income.
+
+
 
 **Did you set any breastfeeding goals for yourself before returning to work?**
 
-I wanted to make it to 1 year feeding my daughter only breastmilk.
+To feed only breast milk to both of my kids for 1 year.
 
-**Can you give us an idea of what your physical workspace was like?**
 
-I was an itinerant therapist, which means I worked at multiple locations (preschools) throughout the week. Thankfully I only had four locations when I returned to work, but previous years I had up to 10! I truly don’t know how I would have pumped in that situation. The one location I was at the most when returning from maternity leave was a church preschool that had a nursery room for their Sunday masses. 
 
-**How did you identify a space for pumping? Was the space private & secure?**
+**Can you give us an idea of what your physical workspace and business travel needs were like?**
 
-I was able to get a key to the nursery room that was used for Sunday mass to pump and thankfully there was a mini fridge in there as well for me to use. It seemed private and secure when I was shown it, but I quickly found out it was not. There were interior windows that I had to make sure to close the blinds to and they didn’t fully close. The door required a key to open and I thought I would be the only one with access but I quickly found out the church preschool staff members had a key as well and used the room for the private bathroom.
+My primary workspace was a large office building in New York City. Getting to and from that building from my home required a 1+ hour commute by train. My job also required travel by plane. 
 
-**\
-Tell us about the most challenging moments that stick in your mind when you think about the experience of finding space to pump during that time.**
 
-I was walked in on many times mid-pump, having to awkwardly say, “Sorry I’m using the room”. It just felt like I was taking over a room that the preschool staff used for their own time away or private time and I felt a little resented for that, which of course always made me feel guilty.  
 
-I ended up having to create a “do not enter, pumping in progress” sign and I taped it OVER the door handle outside so you would literally have to move the paper in order to open the door. That was the most effective way to keep others out!
+**Did your employer provide a private & secure space for pumping?** 
 
-My sign strategy didn’t completely resolve the challenges as the space had multiple uses. One time I walked in during my scheduled time to pump and a colleague was there laying out some student artwork to dry, I let her know that I had to pump but then had to awkwardly wait over five minutes for her to leave which put me behind schedule for my next student’s session, it was pretty frustrating as what she was doing could have waited. 
+I had access to a separate pumping area that had divided personal rooms. The area was only accessible by employees that were pumping and each individual door could be locked for appropriate privacy. There was also a central coordinator on site for any questions.
 
-**\
-What other challenges did you encounter when it came to integrating pumping & working to meet your breastfeeding goals?**
 
-Scheduling is the most difficult part of my job to begin with, so including time to pump was incredibly challenging. I have up to 50 students to see a week, many being 2x/week, my schedule is packed. I had to decline some students to make room for pumping which was a little bit of an awkward conversation I had to have with my male supervisor. Another challenge was that once I started back at work my supply definitely declined and knowing that it was diminishing always left me feeling anxious wondering how much milk I would get at each pumping session. I knew how counterproductive that thinking was to producing milk, but it was just a stressor I couldn’t shake. 
 
-**\
-How was the actual experience of integrating breastfeeding with work different from what you anticipated?**
+**What about during business travel, how did you handle pumping accommodations during your trips?**
 
-I think the actual experience was pretty much what I expected, some things were smoother and some things were more difficult. My milk supply declining was something I had read about and expected, but that didn’t make it much easier when it actually happened. Having a space delegated for pumping was a less stressful process than I imagined, but then the realization of it not being very private made it difficult. Overall I think I went into it with realistic expectations, which included coming to terms with the fact that my breastfeeding days would most likely be coming to a gradual end. 
+Pumping on a plane was a bit hard. As I accumulated milk through the trip, I would ask the hotel to freeze it and then transfer the frozen milk to a freezer pack and fly it home with me. Security at the airport can be tricky but they were fine with it as long as I allowed them to test the milk. 
 
-**\
-What type of support could your employer/colleagues/manager have provided that would have improved your breastfeeding and working experience?**
 
-I’m surrounded mainly by other women and many are moms. I was lucky to feel very supported by my colleagues in that sense. I could talk to them about how I was feeling and they would ask me how things were going. That’s my most valued part of my job - my community. My immediate supervisor was as supportive as he could be but I didn’t feel comfortable going to him and asking for help when I had people walking in on me, as it was kind of awkward. I would have appreciated it if someone in human resources would have maybe checked in on me once in a while to see how things were going, but that never happened. I think that would be a really productive and beneficial idea, to have someone checking in on returning mamas, not just waiting for them to reach out when there’s an issue. 
 
-**\
-What do you wish someone would have taught you about integrating breastfeeding & working before you started?**
+**Tell us about the most challenging moments that stick in your mind when you think about the experience of pumping.**
 
-More tips or tricks to increase my supply as that was something that became a roadblock. 
+Scheduling was the hardest part. I had to find 20 mins to get to the rooms which were on another floor, pump for 15 minutes and get back to my office. I initially did it twice a day but then quickly moved to once a day because it was burdensome and I found I had enough of a supply to support my goal of feeding only breast milk.  
 
- **What is your favorite pumping tip that worked well for you/your family?**
+I also recall an Amtrak train trip I took to a friend’s baby shower. It was a real humbling moment trying to pump while the train swerved. I distinctly remember my dress covered in milk by the end of the pumping session. I also pumped in the bathroom at NYC Penn Station which was interesting because it’s very crowded, but you got to do what you got to do. 
 
-I have two! I was able to store a lot of frozen milk pretty early on with these two strategies. The first was collecting on the opposite breast while breast feeding to catch the leaking milk, which caught a surprising amount. The Second was a routine we started early on (around week 2/3) that my husband, Max, would give a bottle of pumped milk at bedtime. I would pump while he fed her and was typically able to pump a few ounces more than she took in the bottle and stored that extra in the freezer. Max enjoyed the bonding time, I got some time alone and I was SO grateful for the freezer stash in the later months when my milk dwindled.
 
-**\
-Did you end up hitting the goal you had set for yourself prior to returning to work? If not, what was the biggest roadblock to reaching the goal?**
 
-I did not, I made it to about ten months before switching to a mix of formula and the breast milk I had been saving up from the beginning. The biggest roadblock was returning to work. 
+**Was the actual experience of integrating breastfeeding with work different from what you anticipated?**
 
-**\
-What was your proudest pumping & working moment?** 
+Pumping was easier for me once I got into a rhythm, breastfeeding was harder. 
 
-Having the confidence to be clear about needing time and space to pump was a big win for me. I am a people pleaser so I often just try to make everyone else’s situation comfortable and better, but I was able to advocate for myself and my needs and that felt pretty empowering!
+My first only nursed for 3 months because he had a real problem with my very fast letdown and huge supply and he would not take a bottle despite introducing it when he was one week old. My second had the same issue and nursed to 6 months. Because bottle feeding was required for me to return to work, I went to great lengths to make it work. I tried over 50 different bottles and hired an amazing specialist to help them get comfortable with it. Both of my kids eventually accepted bottle feeding after a lot of crying and trying different bottles. That was by far the hardest thing for me. Now I know my oversupply played a role because a bottle would never flow fast enough to mirror their breastfeeding experience. In the end I’m so glad I moved to 100% bottle feeding because there was no other way in my situation.
+
+
+
+**What type of support could your employer/colleagues/manager have provided that would have improved your breastfeeding and working experience?**
+
+I felt well supported. More private lactation spaces across the many floors of our building would have minimized my time away from work and given me more options. 
+
+
+
+**What do you wish someone would have taught you about integrating breastfeeding & working before you started?**
+
+That each of our situations when it comes to breastfeeding, pumping rhythms and specific professional ambitions are unique, it’s important to trust your gut and stay flexible.
+
+
+
+**Did you end up hitting the goal you had set for yourself prior to returning to work? If not, what was the biggest roadblock to reaching the goal?**
+
+Yes I made it to 13 months for both. Had to throw in that extra month to beat my own goal. I’m super competitive with myself.
+
+
+
+**What was your proudest pumping & working moment?** 
+
+The fact that I pumped enough to make it 13 months with both my kids. It requires A LOT of discipline and is certainly not easy but it was the right path for me.
