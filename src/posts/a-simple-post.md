@@ -1,6 +1,8 @@
 ---
 title: "How Marta LaRusso pumped breast milk while working as a banking
   executive in NYC. "
+metaTitle: "How Marta LaRusso pumped breast milk while working as a banking
+  executive in NYC. "
 socialImage: /images/martalarusso_headshot.jpg
 postImage: /images/martalarusso_headshot.jpg
 date: 2019-06-18
