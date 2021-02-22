@@ -23,17 +23,7 @@ rubric: Series
       </div>
     </div>
 
-
-    {% for post in collections.faces -%}
-      {% include "partials/components/post-list.njk" %}
-    {% else %}
-      <p>There are currently no posts. </p>
-    {% endfor -%}
+    {% include "partials/components/post-list.njk" %}
 
   </main>
-  {# <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    
-    {% include "partials/components/pagination.njk" %}
-  </main> #}
 {% endblock %}
