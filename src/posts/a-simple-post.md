@@ -5,7 +5,7 @@ metaTitle: "How Marta LaRusso pumped breast milk while working as a banking
   executive in NYC. "
 socialImage: /images/martalarusso_headshot.jpg
 postImage: /images/martalarusso_headshot.jpg
-date: 2021-02-22T18:54:07.836Z
+date: 2021-02-22T18:57:08.527Z
 tags:
   - faces
 ---
