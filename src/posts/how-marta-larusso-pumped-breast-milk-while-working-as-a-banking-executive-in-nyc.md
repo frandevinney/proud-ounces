@@ -5,12 +5,12 @@ metaTitle: "How Marta LaRusso pumped breast milk while working as a banking
   executive in NYC "
 socialImage: /images/martalarusso_headshot.jpg
 postImage: /images/martalarusso_headshot.jpg
-date: 2021-02-22T18:57:08.527Z
+date: 2021-02-23T14:08:08.325Z
 tags:
   - faces
 ---
 {% inset-right %}
-![Faces of Pumping and working Marta LaRusso](/images/martalarusso_headshot.jpg)
+![Faces of Pumping and working Marta LaRusso](/images/faces-marta.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Marta LaRusso’s experience integrating breastfeeding and working after the birth of her children, Mattia and Nico, while she worked as a banking executive in New York City. 
