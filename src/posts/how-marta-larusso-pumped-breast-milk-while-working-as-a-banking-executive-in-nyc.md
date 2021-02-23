@@ -13,9 +13,9 @@ tags:
 ![Faces of Pumping and working Marta LaRusso](/images/faces-marta.jpg)
 {% endinset-right %}
 
-Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Marta LaRusso’s experience integrating breastfeeding and working after the birth of her children, Mattia and Nico, while she worked as a banking executive in New York City. 
+Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Marta LaRusso’s experience integrating breastfeeding and working after the birth of her children, Mattia and Nico.
 
-> I, Marta LaRusso, pumped breastmilk to feed my own baby while helping a major global bank limit lost assets and income.
+> I, Marta LaRusso, pumped breastmilk to feed my own baby while working at a  major global bank in New York City.
 
 **Did you set any breastfeeding goals for yourself before returning to work?**
 
@@ -23,7 +23,7 @@ To feed only breast milk to both of my kids for 1 year.
 
 **Can you give us an idea of what your physical workspace and business travel needs were like?**
 
-My primary workspace was a large office building in New York City. Getting to and from that building from my home required a 1+ hour commute by train. My job also required travel by plane. 
+My primary workspace was a large office building in New York City. Getting to that building from my home required a 1 - 1.5 hour commute by train. My job also required occasional travel by plane. 
 
 **Did your employer provide a private & secure space for pumping?** 
 
@@ -47,7 +47,7 @@ My first only nursed for 3 months because he had a real problem with my very fas
 
 **What type of support could your employer/colleagues/manager have provided that would have improved your breastfeeding and working experience?**
 
-I felt well supported. More private lactation spaces across the many floors of our building would have minimized my time away from work and given me more options. 
+I felt well supported. More private lactation spaces across the many floors of our building would have minimized my time away from work and given me more options. Having the lactation spaces located on a main floor of the office was really helpful but with so many floors (39), it could still take a bit of time to get there. 
 
 **What do you wish someone would have taught you about integrating breastfeeding & working before you started?**
 
