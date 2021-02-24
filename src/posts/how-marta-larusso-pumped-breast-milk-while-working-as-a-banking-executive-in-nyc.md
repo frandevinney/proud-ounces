@@ -37,7 +37,7 @@ Pumping on a plane was a bit hard. As I accumulated milk through the trip, I wou
 
 Scheduling was the hardest part. I had to find 20 mins to get to the rooms which were on another floor, pump for 15 minutes and get back to my office. I initially did it twice a day but then quickly moved to once a day because it was burdensome and I found I had enough of a supply to support my goal of feeding only breast milk.  
 
-I also recall an Amtrak train trip I took to a friend’s baby shower. It was a real humbling moment trying to pump while the train swerved. I distinctly remember my dress covered in milk by the end of the pumping session. I also pumped in the bathroom at NYC Penn Station which was interesting because it’s very crowded, but you got to do what you got to do. 
+I also recall an Amtrak train trip I took to a friend’s baby shower. It was a real humbling moment trying to pump while the train swerved. I distinctly remember my dress covered in milk by the end of the pumping session. I also pumped in the bathroom at NY Penn Station which was interesting because it’s very crowded, but you got to do what you got to do. 
 
 **Was the actual experience of integrating breastfeeding with work different from what you anticipated?**
 
