@@ -12,7 +12,7 @@ postImage: /images/kerry-woodward_headshot.png
 date: 2021-03-02T16:13:19.116Z
 ---
 {% inset-right %}
-![Faces of Pumping and working Marta LaRusso](/images/Kerry Woodward_Headshot.png)
+![Faces of Pumping and working Kerry Woodward](/images/Kerry Woodward_Headshot.png)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Kerry Wagner Woodward’s experience integrating breastfeeding and working after the birth of her first of three sons, Colin, while she worked for a small non-profit as a Portfolio Manager. Kerry also shares how she gained confidence through her second and third pumping & working experiences becoming a mentor and fierce supporter of those coming after her. 
