@@ -10,6 +10,8 @@ metaDesc: "Stories about the triumphs and challenges of the increasing number of
 socialImage: /images/kerry-woodward_headshot.png
 postImage: /images/kerry-woodward_headshot.png
 date: 2021-03-02T16:13:19.116Z
+tags:
+  - faces
 ---
 {% inset-right %}
 ![Faces of Pumping and working Kerry Woodward](/images/Kerry Woodward_Headshot.png)
