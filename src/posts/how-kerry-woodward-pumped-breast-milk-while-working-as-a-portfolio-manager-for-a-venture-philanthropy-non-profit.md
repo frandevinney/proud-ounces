@@ -7,7 +7,7 @@ metaTitle: How Kerry Woodward pumped breast milk while working as a Portfolio
 metaDesc: "Stories about the triumphs and challenges of the increasing number of
   women working to both provide breast milk for their own child(ren) while also
   contributing their unique skills to the paid workforce. "
-socialImage: /images/kerry-woodward_headshot.png
+socialImage: /images/faces-of-pumping-linkedin.jpg
 postImage: /images/faces-kerry-woodward.jpg
 date: 2021-03-02T16:13:19.116Z
 tags:
