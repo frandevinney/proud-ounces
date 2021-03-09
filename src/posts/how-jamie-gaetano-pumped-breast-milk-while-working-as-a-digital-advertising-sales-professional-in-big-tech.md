@@ -5,6 +5,8 @@ title: How Jamie Gaetano pumped breast milk while working as a Digital
 metaTitle: How Jamie Gaetano pumped breast milk while working as a Digital
   Advertising Sales Professional in Big Tech
 date: 2021-03-09T15:43:07.148Z
+tags:
+  - faces
 ---
 {% inset-right %}
 ![Faces of Pumping and working Marta LaRusso](/images/faces-jamie-gaetano.jpg)
