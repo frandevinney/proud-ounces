@@ -80,6 +80,6 @@ Yes. 
 
 Making it work - I feel very proud of that.
 
-**Is there a tip you would want to pass on to a new mom just starting her pumping & working journey?**
+**Is there a tip you would want to pass on to a new mom just starting the pumping & working journey?**
 
 If your work environment isn't setting you up for success, you can be part of the change. Find a mentor who integrated pumping and working and learn tips. Be open and flexible while still staying true to your breastfeeding goals.
