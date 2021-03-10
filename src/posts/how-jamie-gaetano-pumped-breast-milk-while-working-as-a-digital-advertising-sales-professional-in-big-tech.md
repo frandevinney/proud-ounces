@@ -48,7 +48,7 @@ When working from home, I would keep pumping time reserved on my calendar and us
 
 **What types of things did you do during active pumping time in the Mother’s Room?** 
 
-So much multi-tasking! I would immediately open my laptop and do everything from writing emails to presentation prep work. I would also use the time schedule meetings if needed.
+So much multi-tasking! I would immediately open my laptop and do everything from writing emails to presentation prep work. I would also use the time to schedule meetings if needed.
 
 **How did you feel about pumping during video or audio calls with peers or clients? What rituals did you adopt to protect your privacy during those moments?**
 
