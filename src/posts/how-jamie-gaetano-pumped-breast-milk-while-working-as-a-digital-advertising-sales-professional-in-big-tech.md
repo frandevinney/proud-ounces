@@ -14,7 +14,7 @@ tags:
 ![Faces of Pumping and working Marta LaRusso](/images/faces-jamie-gaetano.jpg)
 {% endinset-right %}
 
-Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Jamie Gaetano’s experience integrating breastfeeding and working after the birth of her three children in a work environment that required her to stay flexible with pumping and breastfeeding times among the many demands on her attention each day. 
+Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Today’s post is about Jamie Gaetano’s experience integrating breastfeeding and working after the birth of her three children in a work environment that required her to stay flexible with pumping and breastfeeding times among the many demands on her attention each day. 
 
 > I, Jamie Gaetano, pumped breastmilk to feed my own babies while partnering with C-level executives to create world class digital marketing strategies.
 
@@ -34,7 +34,7 @@ I would say the office had industry-leading lactation spaces which were referred
 
 **How did your employer communicate expectations around pumping?**
 
-Most of the guidelines I used for pumping were based on my experience seeing peers navigate pumping at work. I felt confident that my employer supported it based on their reputation as a family friendly company and the spaces they provided. If there were questions on integrating my pumping scheduling with the demands of my job, that was a conversation I would have with my direct manager.  
+Most of the guidelines I used for pumping were based on my experience seeing peers navigate pumping at work. I felt confident that my employer supported it based on their reputation as a family friendly company and the spaces they provided. If there were questions on integrating my pumping schedule with the demands of my job, that was a conversation I would have with my direct manager.  
 
 **Tell us about the most challenging moments that stick in your mind when you think about the experience of finding space to pump during that time.**
 
@@ -48,7 +48,7 @@ When working from home, I would keep pumping time reserved on my calendar and us
 
 **What types of things did you do during active pumping time in the Mother’s Room?** 
 
-So much multi-tasking! I would immediately open my laptop and do everything from writing emails to presentation prep work. I would also use the time schedule meetings if needed.
+So much multi-tasking! I would immediately open my laptop and do everything from writing emails to presentation prep work. I would also use the time to schedule meetings if needed.
 
 **How did you feel about pumping during video or audio calls with peers or clients? What rituals did you adopt to protect your privacy during those moments?**
 
@@ -80,6 +80,6 @@ Yes. 
 
 Making it work - I feel very proud of that.
 
-**Is there a tip you would want to pass on to a new mom just starting her pumping & working journey?**
+**Is there a tip you would want to pass on to a new mom just starting the pumping & working journey?**
 
 If your work environment isn't setting you up for success, you can be part of the change. Find a mentor who integrated pumping and working and learn tips. Be open and flexible while still staying true to your breastfeeding goals.
