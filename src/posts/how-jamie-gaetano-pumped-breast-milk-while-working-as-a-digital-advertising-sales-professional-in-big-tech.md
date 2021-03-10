@@ -34,7 +34,7 @@ I would say the office had industry-leading lactation spaces which were referred
 
 **How did your employer communicate expectations around pumping?**
 
-Most of the guidelines I used for pumping were based on my experience seeing peers navigate pumping at work. I felt confident that my employer supported it based on their reputation as a family friendly company and the spaces they provided. If there were questions on integrating my pumping scheduling with the demands of my job, that was a conversation I would have with my direct manager.  
+Most of the guidelines I used for pumping were based on my experience seeing peers navigate pumping at work. I felt confident that my employer supported it based on their reputation as a family friendly company and the spaces they provided. If there were questions on integrating my pumping schedule with the demands of my job, that was a conversation I would have with my direct manager.  
 
 **Tell us about the most challenging moments that stick in your mind when you think about the experience of finding space to pump during that time.**
 
