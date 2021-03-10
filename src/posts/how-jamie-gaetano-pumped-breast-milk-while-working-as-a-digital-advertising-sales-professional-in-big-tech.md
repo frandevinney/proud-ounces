@@ -14,7 +14,7 @@ tags:
 ![Faces of Pumping and working Marta LaRusso](/images/faces-jamie-gaetano.jpg)
 {% endinset-right %}
 
-Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Jamie Gaetano’s experience integrating breastfeeding and working after the birth of her three children in a work environment that required her to stay flexible with pumping and breastfeeding times among the many demands on her attention each day. 
+Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Today’s post is about Jamie Gaetano’s experience integrating breastfeeding and working after the birth of her three children in a work environment that required her to stay flexible with pumping and breastfeeding times among the many demands on her attention each day. 
 
 > I, Jamie Gaetano, pumped breastmilk to feed my own babies while partnering with C-level executives to create world class digital marketing strategies.
 
