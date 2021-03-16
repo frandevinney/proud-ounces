@@ -8,7 +8,7 @@ date: 2021-03-16T17:18:13.803Z
 tags:
   - faces
 ---
-Welcome to the latest edition of “The Faces of Pumping & Working,” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Megan Hopkins Sokorai, owner of And Here We Are (and-hereweare.com), a rad print shop, stationery and gift company based in Columbus, Ohio. Meghan walks us through what it was like to be the boss, working in a not so private open space when you need to pump breast milk. She also gives a glimpse into the art of fitting pumping in when your profession requires you to be up and moving all day. At Proud Ounces, we have a special love for Meghan as she created our amazing brand designs (while pumping!). 
+Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Megan Hopkins Sokorai, owner of And Here We Are (and-hereweare.com), a rad print shop, stationery and gift company based in Columbus, Ohio. Meghan walks us through what it was like to be the boss, working in a not so private open space when you need to pump breast milk. She also gives a glimpse into the art of fitting pumping in when your profession requires you to be up and moving all day. At Proud Ounces, we have a special love for Meghan as she created our amazing brand designs (while pumping!). 
 
 > I, Meghan Hopkins Sokorai, pumped breast milk to feed my own baby while running my own letterpress printing and design studio.
 
@@ -27,6 +27,10 @@ Since I'm the boss, I didn't have to worry about employer policies or expectatio
 **Tell us about the most challenging moments that stick in your mind when you think about the experience of pumping during that time.**
 
 For me it was definitely about the schedule. I'm often on my feet all day printing, so it was both a blessing and a curse to be forced to sit and pump every few hours. Also, lugging around the pumping equipment and milk every day was difficult, I can't tell you how often I completely forgot a whole day’s worth of milk in the fridge and had to turn back around for it.  
+
+**How was the actual experience of breastfeeding/pumping & working different from what you anticipated?**
+
+I worked out of a home studio with my first baby and had a part-time nanny, so I usually just took breaks and fed him myself. Now I work out of the house and our children go to a daycare facility, so the process was totally different with my second child. Even though this was my second time breastfeeding (and pumping),  it was my first time pumping every day and sending a baby to daycare with bottles. I don't know what I anticipated, but I definitely didn’t plan for the amount of work and planning it would entail, carrying supplies and milk back and forth, cleaning pump parts and bottles every night, finding comfortable and private places to pump or breastfeed, etc. 
 
 **Did you ever feel that you had to choose between breastfeeding/pumping and work responsibilities?** 
 
