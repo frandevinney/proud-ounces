@@ -10,6 +10,10 @@ date: 2021-03-16T17:18:13.803Z
 tags:
   - faces
 ---
+{% inset-right %}
+![Faces of Pumping and working Meghan Hopkins Sokorai](/images/faces-meghanhs.jpg)
+{% endinset-right %}
+
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to both provide breast milk for their own child(ren) while also contributing their unique skills to the paid workforce. Today’s post is about Megan Hopkins Sokorai, owner of And Here We Are (and-hereweare.com), a rad print shop, stationery and gift company based in Columbus, Ohio. Meghan walks us through what it was like to be the boss, working in a not so private open space when you need to pump breast milk. She also gives a glimpse into the art of fitting pumping in when your profession requires you to be up and moving all day. At Proud Ounces, we have a special love for Meghan as she created our amazing brand designs (while pumping!). 
 
 > I, Meghan Hopkins Sokorai, pumped breast milk to feed my own baby while running my own letterpress printing and design studio.
