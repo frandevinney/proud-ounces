@@ -4,6 +4,8 @@ title: How Meghan Hopkins Sokorai pumped breast milk while running her own print
   shop, stationary and gift company in Columbus, Ohio
 metaTitle: How Meghan Hopkins Sokorai pumped breast milk while running her own
   print shop, stationary and gift company in Columbus, Ohio
+socialImage: /images/faces-of-pumping-linkedin-meghanhs.png
+postImage: /images/faces-meghanhs.jpg
 date: 2021-03-16T17:18:13.803Z
 tags:
   - faces
