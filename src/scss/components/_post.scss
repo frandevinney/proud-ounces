@@ -140,6 +140,10 @@
     }
   }
 
+  .callout {
+    margin-top: -2px; // additional margin to ensure top wave aligns correctly
+  }
+
   &__footer {
     background: var(--color-theme-highlight);
 
