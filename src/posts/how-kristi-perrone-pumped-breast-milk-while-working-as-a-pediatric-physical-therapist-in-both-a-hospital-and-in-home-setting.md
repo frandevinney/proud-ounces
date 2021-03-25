@@ -48,7 +48,7 @@ I really wanted to breastfeed when my kids were born.  It was important to me t
 
  With my second (my daughter), it was SO HARD. My son was 3.5 years old when she was born, and was potty trained at the time.  It was easy for me to decide to exclusively pump again, because it was what I knew. When she didn't latch directly and immediately in the first few days after birth, I made the decision to just do it again. But at home, on maternity leave, I would hook up to pump, my son would then decide to go to the bathroom and need his butt wiped or be begging for me to play with him, and my daughter who had been quiet would start crying. I wanted to pull my hair out.  Pumping while working in my profession was pretty much what I expected. Productivity is always king; work/life balance never seemed to be a big focus for my employers in the healthcare industry.
 
-**What type of support did your employer/colleagues/manager provide that improved your breastfeeding and working experience?**
+**What type of support could your employer/colleagues/manager have provided that would have improved your breastfeeding and working experience?**
 
 In a department that was 100% women, it would have been nice if my manager and department director recognized the needs of the mothers in the department. Dedicated space and time and some flexibility would have gone a long way for us. 
 
