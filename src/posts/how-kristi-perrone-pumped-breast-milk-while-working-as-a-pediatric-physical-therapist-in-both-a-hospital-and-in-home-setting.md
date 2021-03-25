@@ -4,6 +4,7 @@ title: How Kristi Perrone pumped breast milk while working as a Pediatric
   Physical Therapist in both a hospital and in-home setting
 metaTitle: How Kristi Perrone pumped breast milk while working as a Pediatric
   Physical Therapist in both a hospital and in-home setting
+socialImage: /images/faces-of-pumping-linkedin-kristip.png
 date: 2021-03-25T01:45:58.447Z
 tags:
   - faces
