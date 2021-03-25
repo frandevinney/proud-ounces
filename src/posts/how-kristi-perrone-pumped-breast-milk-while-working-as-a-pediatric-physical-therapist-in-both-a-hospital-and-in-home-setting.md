@@ -5,12 +5,13 @@ title: How Kristi Perrone pumped breast milk while working as a Pediatric
 metaTitle: How Kristi Perrone pumped breast milk while working as a Pediatric
   Physical Therapist in both a hospital and in-home setting
 socialImage: /images/faces-of-pumping-linkedin-kristip.png
+postImage: /images/faces-kristip.jpg
 date: 2021-03-25T01:45:58.447Z
 tags:
   - faces
 ---
 {% inset-right %}
-![Faces of Pumping and working Meghan Hopkins Sokorai](/images/faces-meghanhs.jpg)
+![Faces of Pumping and working Kristi Perrone](/images/faces-kristip.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Today’s post is about Kristi Perrone’s experience integrating pumping and working after the birth of her two children. An exclusive pumper and overproducer, she was the ultimate multi-tasker as she creatively reached for her goals in two non ideal pumping environments. 
