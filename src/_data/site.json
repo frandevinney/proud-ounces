@@ -9,6 +9,6 @@
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5,
+  "maxPostsPerPage": 25,
   "logoPath": "/images/proud-ounces-filled.png"
 }
