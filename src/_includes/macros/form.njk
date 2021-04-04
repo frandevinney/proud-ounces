@@ -2,8 +2,13 @@
    Forms
    =================== #}
 
-{% macro label( text, name ) %}
-  <label class="question__label" for="field-{{ name }}">{{ text }}</label>
+{% macro label( text, name, subtext ) %}
+  <label class="question__label" for="field-{{ name }}">
+    {{ text }}
+    {% if subtext %}
+      <span class="question__subtext text-300">{{ subtext }}</span>
+    {% endif %}
+  </label>
 {% endmacro %}
 
 {% macro field( type, name, data ) %}

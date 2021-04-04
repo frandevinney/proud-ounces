@@ -87,6 +87,10 @@ legend {
   }
 }
 
+.question__subtext {
+  display: block;
+}
+
 .form__dateselect {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
