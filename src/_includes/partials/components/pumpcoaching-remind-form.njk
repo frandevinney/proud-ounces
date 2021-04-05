@@ -7,11 +7,11 @@
       {{ field( "text", "name", { required: true, placeholder: "", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What’s your email address?", "email") }}
+      {{ label("What’s your email address?", "email", "(this should be the best place for us to reach you about 8 weeks before your return to work date)") }}
       {{ field( "email", "email", { required: true, placeholder: "", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What's the name of your Employer?", "business-name") }}
+      {{ label("What's the name of the Employer offering the Pump Coaching benefit?", "business-name", "(this might be your employer or your partner's employer)") }}
       {{ field( "text", "business-name", { required: true, placeholder: "", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ] [ form__dateselect ]">
