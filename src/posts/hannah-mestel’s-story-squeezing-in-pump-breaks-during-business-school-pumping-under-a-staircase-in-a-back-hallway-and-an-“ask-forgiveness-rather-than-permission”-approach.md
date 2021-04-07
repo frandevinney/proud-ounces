@@ -1,8 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Hannah Mestel’s Story: Squeezing in pump breaks during business school,
-  pumping under a staircase in a back hallway and an “ask forgiveness rather
-  than permission” approach"
+title: Hannah Mestels Story
 metaTitle: "Hannah Mestel’s Story: Squeezing in pump breaks during business
   school, pumping under a staircase in a back hallway and an “ask forgiveness
   rather than permission” approach"
