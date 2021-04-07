@@ -6,12 +6,14 @@ title: "Hannah Mestel’s Story: Squeezing in pump breaks during business school
 metaTitle: "Hannah Mestel’s Story: Squeezing in pump breaks during business
   school, pumping under a staircase in a back hallway and an “ask forgiveness
   rather than permission” approach"
+socialImage: /images/faces-of-pumping-linkedin-hannahm.png
+postImage: /images/faces-hannahm.jpg
 date: 2021-04-05T01:51:55.970Z
 tags:
   - faces
 ---
 {% inset-right %}
-![Faces of Pumping and working Hannah Mestel](/images/xxx.jpg)
+![Faces of Pumping and working Hannah Mestel](src/images/faces-hannahm.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Many women experience a lack of support across three key areas when integrating breastfeeding into their paid work.  
