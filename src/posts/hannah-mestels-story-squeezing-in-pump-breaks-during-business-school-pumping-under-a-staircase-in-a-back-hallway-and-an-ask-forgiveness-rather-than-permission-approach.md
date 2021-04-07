@@ -11,7 +11,7 @@ tags:
   - faces
 ---
 {% inset-right %}
-![Faces of Pumping and working Hannah Mestel](src/images/faces-hannahm.jpg)
+![Faces of Pumping and working Hannah Mestel](/images/faces-hannahm.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Many women experience a lack of support across three key areas when integrating breastfeeding into their paid work.  
