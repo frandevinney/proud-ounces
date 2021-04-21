@@ -16,12 +16,6 @@
     font-family:'CooperLight', serif;
   }
 
-  .site-head {
-    .site-head__logo {
-      max-width: 100px;
-    }
-  }
-
   .pumpcoaching-pitch {
     max-width: 45ch;
     margin: 0 auto;
@@ -372,7 +366,6 @@
     }
 
     .advocate-container {
-      
       margin-top: 2rem;
 
       >h3 {
@@ -381,7 +374,16 @@
     
       &__onesheeter {
         >span {
-          padding: 1rem;
+          padding: 1rem 1rem 0 2rem;
+        }
+
+        .copied-success {
+          transition: all 0.35s ease-in-out;
+          opacity: 0;
+        }
+
+        .copied-success--reveal {
+          opacity: 1;
         }
 
         &__link {
@@ -394,15 +396,12 @@
             background-color: darken(#f37b6d, 10%);
           }
           &.button {
-            margin-top: 1rem;
+            border-radius: 1em;
+            transition: all 0.35s ease-in-out;
           }
         }
       }
 
-      .pumpcoaching-advocate__input {
-        border: 1px solid red;
-        // display: none;
-      }
 
       @include media-query('md') {
         margin-right: 2rem;

@@ -1,6 +1,7 @@
 var acc = document.getElementsByClassName('topic-bar');
 var copyToClipboardBtn = document.getElementById('employer-msg');
 var copyText = document.getElementById("clipboardInput");
+var copiedMsg = document.getElementById('copied-msg');
 var i;
 
 copyToClipboardBtn.addEventListener('click', copyToClipboard, false);
@@ -34,8 +35,18 @@ function addActiveClass($el, $class) {
   $el.classList.add($class);
 }
 
+function triggerCopyMsgReveal() {
+  copiedMsg.classList.add('copied-success--reveal');
+  setTimeout(removeCopyMsg, 2500 );
+}
+
+function removeCopyMsg() {
+  copiedMsg.classList.remove('copied-success--reveal');
+}
+
 
 function copyToClipboard() {
+  triggerCopyMsgReveal();
   const el = document.createElement('textarea');
   el.value = copyText.value;
   el.setAttribute('readonly', '');

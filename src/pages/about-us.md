@@ -3,6 +3,7 @@ layout: layouts/page.njk
 title: About our founder
 permalink: /about/index.html
 socialImage: /images/proud-ounces-social.jpg
+introClass: "ta-center"
 ---
 ## Kristen Devinney
 
