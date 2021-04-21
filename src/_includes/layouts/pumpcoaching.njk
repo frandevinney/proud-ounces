@@ -1,6 +1,5 @@
 {% set bodyClass = "page--pumpcoaching" %}
 {% set intro_class = "intro-pumpcoaching ta-center" %}
-{% set header_padding = "large" %}
 {% set artworkCredit = true %}
 {% set artworkCreditCopy = "Illustrations by" %}
 {% set artworkCreditSources = "Vijay Verma & Pablo Stanley" %}
@@ -94,8 +93,9 @@
           <h3 class="[ color-primary measure-compact ]">Help us create a new reality for women who want to pump &amp; work</h3>
           <p class="[ measure-short gap-bottom-300 gap-top-300 ]">Help your employer support pumping &amp; working. Get a one-sheeter to give to your manager or benefits decision maker.</p>
           <a class="[ advocate-container__onesheeter__link gap-top-300 weight-bold button bg-alert ]" target="_blank" href="../images/PO-OneSheeter-PumpCoaching.pdf">Download one-sheeter</a>
-          <span class="[ weight-bold ]"> or </span>
+          <span class="[ weight-bold box-block ]"> or </span>
           <input hidden type="text" value="{{ pumpcoachingClipboard.copy }}" id="clipboardInput" class="pumpcoaching-advocate__input">
+          <p id="copied-msg" class="[ copied-success ][ weight-bold text-300 ]"> Message has been copied! </p>
           <a id="employer-msg" class="[ advocate-container__onesheeter__link gap-top-300 weight-bold button bg-alert ]">Click to copy a message to send to your employer</a>
         </div>
         <div class="[ advocates-artwork ]">
