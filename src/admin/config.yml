@@ -23,6 +23,22 @@ collections:
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Callout", name: "callout", widget: "markdown", required: false, default: "This is where a callout can go."}
+      - name: "for_employers"
+        label: "For Employers"
+        file: "src/pages/for-employers.md"
+        slug: "{{slug}}"
+        create: true
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/njk.njk"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+          - {label: "Dek", name: "dek", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
+          - {label: "Section1", name: "sectionOne", widget: "markdown", required: false}
+          - {label: "Section2", name: "sectionTwo", widget: "markdown", required: false}
+          - {label: "Section3", name: "sectionThree", widget: "markdown", required: false}
   - name: "generic_pages"
     label: "Generic Pages"
     folder: "src/pages"
