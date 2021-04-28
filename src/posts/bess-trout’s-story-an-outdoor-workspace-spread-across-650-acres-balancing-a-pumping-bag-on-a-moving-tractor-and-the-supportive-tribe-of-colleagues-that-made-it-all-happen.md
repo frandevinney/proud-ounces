@@ -6,6 +6,9 @@ title: "Bess Trout’s Story: An outdoor workspace spread across 650 acres,
 metaTitle: "Bess Trout’s Story: An outdoor workspace spread across 650 acres,
   balancing a pumping bag on a moving tractor and the supportive tribe of
   colleagues that made it all happen"
+metaDesc: "Bess Trout’s Story: An outdoor workspace spread across 650 acres,
+  balancing a pumping bag on a moving tractor and the supportive tribe of
+  colleagues that made it all happen"
 socialImage: /images/faces-of-pumping-linkedin-besstrout.png
 postImage: /images/faces-besst.jpg
 date: 2021-04-28T01:00:42.984Z
