@@ -6,12 +6,14 @@ title: "Bess Trout’s Story: An outdoor workspace spread across 650 acres,
 metaTitle: "Bess Trout’s Story: An outdoor workspace spread across 650 acres,
   balancing a pumping bag on a moving tractor and the supportive tribe of
   colleagues that made it all happen"
+socialImage: /images/faces-of-pumping-linkedin-besstrout.png
+postImage: /images/faces-besst.jpg
 date: 2021-04-28T01:00:42.984Z
 tags:
   - faces
 ---
 {% inset-right %}
-![Faces of Pumping and working Hannah Mestel](/images/faces-hannahm.jpg)
+![Faces of Pumping and working Bess Trout](/images/faces-besst.jpg)
 {% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. Many women experience a lack of support across three key areas when integrating breastfeeding into their paid work.  
