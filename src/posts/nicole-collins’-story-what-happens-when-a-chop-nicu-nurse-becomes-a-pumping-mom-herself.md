@@ -4,6 +4,8 @@ title: "Nicole Collins’ Story: What happens when a CHOP NICU nurse becomes a
   pumping mom herself? "
 metaTitle: "Nicole Collins’ Story: What happens when a CHOP NICU nurse becomes a
   pumping mom herself? "
+socialImage: /images/faces-of-pumping-linkedin-nicoles.jpg
+postImage: /images/faces-nicolec.jpg
 date: 2021-05-30T16:48:22.623Z
 tags:
   - faces
