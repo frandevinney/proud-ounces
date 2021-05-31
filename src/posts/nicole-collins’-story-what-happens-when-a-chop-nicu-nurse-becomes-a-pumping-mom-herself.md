@@ -8,6 +8,10 @@ date: 2021-05-30T16:48:22.623Z
 tags:
   - faces
 ---
+{% inset-right %}
+![Faces of Pumping and working Nicole Collins](/images/faces-nicolec.jpg)
+{% endinset-right %}
+
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. 
 
 We all know the nurses that work in the NICU are superheroes. They take care of us and our babies when at our most vulnerable. THEY are the ones that teach the rest of us about pumping, breastfeeding and childcare. So what is it like when one of our superheroes becomes a pumping mom herself? Easy-peasy and 100% smooth sailing? Read on to hear about Nicole’s experience. 
