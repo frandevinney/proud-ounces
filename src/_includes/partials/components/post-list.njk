@@ -10,9 +10,9 @@
                 <h3 class="font-avenir leading-tight text-500 weight-regular">
                   <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}
                 </h3>
-                 <p class="text-300 gap-top-300">
+                 {# <p class="text-300 gap-top-300">
                   <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
-                </p>
+                </p> #}
               </span>
               {% if item.data.postImage %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">
