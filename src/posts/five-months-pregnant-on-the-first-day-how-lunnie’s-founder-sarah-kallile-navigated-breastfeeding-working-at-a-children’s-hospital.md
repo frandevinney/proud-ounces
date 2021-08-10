@@ -4,13 +4,14 @@ title: Five months pregnant on the first day - How Lunnie’s founder, Sarah
   Kallile, navigated breastfeeding & working at a children’s hospital
 metaTitle: Five months pregnant on the first day - How Lunnie’s founder, Sarah
   Kallile, navigated breastfeeding & working at a children’s hospital
+socialImage: /images/faces-of-pumping-linkedin-sarahk.jpg
 date: 2021-08-10T17:45:20.408Z
 tags:
   - faces
 ---
-
-
-
+{% inset-right %}
+![Faces of Pumping and working Nicole Collins](/images/faces-nicolec.jpg)
+{% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. 
 
