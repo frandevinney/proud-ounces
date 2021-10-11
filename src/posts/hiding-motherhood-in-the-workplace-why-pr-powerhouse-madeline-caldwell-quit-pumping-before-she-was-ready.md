@@ -4,13 +4,19 @@ title: "Hiding motherhood in the workplace - Why PR Powerhouse, Madeline
   Caldwell, quit pumping before she was ready "
 metaTitle: "Hiding motherhood in the workplace - Why PR Powerhouse, Madeline
   Caldwell, quit pumping before she was ready "
+socialImage: /images/fop-madelinecaldwell-linkedin.jpg
+postImage: /images/faces-madelinec.jpg
 date: 2021-10-11T00:08:58.425Z
 tags:
   - faces
 ---
+{% inset-right %}
+![Faces of Pumping and working Madeline Caldwell](/images/faces-madelinec.jpg)
+{% endinset-right %}
+
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of women working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. 
 
-Mads Caldwell is a celebrated PR professional, business partner and creator. She is engaged in public advocacy for working mothers with her newest venture @workingmomhour which includes a weekly podcast covering all aspects of the working mom experience. Mads is also part of the generation of mothers who have struggled greatly with integrating breastfeeding with her career. She “made it work” in a job that lacked both clear policy and a proactively supportive culture. Read on to hear more about Mads’ experience.  
+Mads Caldwell is a celebrated PR professional, business partner and creator. She is engaged in public advocacy for working mothers with her newest venture [@workingmomhour](https://www.instagram.com/workingmomhour/) which includes a weekly podcast covering all aspects of the working mom experience. Mads is also part of the generation of mothers who have struggled greatly with integrating breastfeeding with their career. She “made it work” in a job that lacked both clear policy and a proactively supportive culture. Read on to hear more about Mads’ experience.  
 
 ### Madeline’s Circumstances
 
