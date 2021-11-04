@@ -1,0 +1,25 @@
+{% from "macros/form.njk" import label, field, textarea, button %}
+
+<div class="[ homepage-lead-gen-form inner-wrapper gap-top-300 gap-bottom-600 ]">
+  <h2 class="ta-center">Support Working Moms</h2>
+  <p class="ta-center">Anyone can be a changemaker for good. Become a Proud Ounces ally and help drive culture that supports breastfeeding employees.</p>
+  <form name="homepage-lead-gen" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field" class="homepage-lead-gen">
+    <ol class="[ field-list ]">
+      <li class="[ field-list__field-group ]">
+        {{ label("Your name", "field-text-name") }}
+        {{ field( "text", "field-text-name", { required: true, placeholder: "Jane Doe", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
+        {{ label("What’s your email address?", "field-email") }}
+        {{ field( "email", "field-email", { required: true, placeholder: "name@company.com", autocomplete: "email" } ) }}
+        {{ label("Referred employer (optional)", "field-referred-employer") }}
+        {{ field( "text", "field-referred-employer", { required: false, placeholder: "Company name", autocomplete: "organization", autocorrect: "off", autocapitalize: "off" } ) }}
+        {{ label("Employer contact information (HR/Benefits/Employee Resource Group) (optional) ", "field-referred-employer-email") }}
+        {{ field( "email", "field-referred-employer-email", { required: false, placeholder: "hr@company.com", autocorrect: "off", autocapitalize: "off" } ) }}
+      </li>
+      <li hidden>
+        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+      </li>
+    </ol>
+    {{ button("Submit") }}
+  </form>
+
+</div>

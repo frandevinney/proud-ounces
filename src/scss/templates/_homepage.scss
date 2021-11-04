@@ -1,0 +1,27 @@
+.ticker {
+  background-color: var(--color-primary-glare);
+  padding: 0.25rem 0;
+  color: var(--color-light);
+
+  >p {
+    &:first-of-type{
+      font-size: 0.8rem;
+    }
+    &:last-of-type{
+      color: var(--color-highlight-glare);
+      font-size: 0.6rem;
+    }
+  }
+}
+
+.homepage-lead-gen-form {
+  max-width: 40rem;
+
+  >form {
+    margin: 0 auto;
+  }
+
+  label {
+    padding: 0.5rem 0;
+  }
+}
