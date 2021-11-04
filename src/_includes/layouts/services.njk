@@ -1,0 +1,21 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introClass = "ta-center" %}
+{% set introSummary %}
+  {{ content | safe }}
+{% endset %}
+
+{# Callout content #}
+{% set introCallout %}{{ callout | safe }}{% endset %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% include "partials/components/products.njk" %}
+    {# {% include "partials/components/testimonials.njk" %} #}
+    {# {% include "partials/components/partnerlogos.njk" %} #}
+    {# {% include "partials/components/services-form.njk" %} #}
+  </main>
+{% endblock %}
