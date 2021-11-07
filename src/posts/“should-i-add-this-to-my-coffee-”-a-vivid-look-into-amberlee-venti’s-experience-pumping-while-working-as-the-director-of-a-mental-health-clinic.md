@@ -5,6 +5,7 @@ title: “Should I add this to my coffee?” - A vivid look into Amberlee Venti�
 metaTitle: “Should I add this to my coffee?” - A vivid look into Amberlee
   Venti’s experience pumping while working as the Director of a mental health
   clinic
+socialImage: /images/fop-amberlee-linkedin.jpg
 date: 2021-11-06T23:22:14.600Z
 tags:
   - faces
