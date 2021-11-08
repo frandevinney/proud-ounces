@@ -1,14 +1,45 @@
 .po-products {
-  border: 5px solid red;
+  border: 2px solid red;
 }
 
-.quote-wrapper {
-  border: 1px solid blue;
+.po-testimonials--wrapper {
+  border: 2px solid orange;
+  max-width: 1224px;
+  margin: 0 auto;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-start;
+}
+
+.quote {
+  width: 30%;
+  margin: 1em;
   display: grid;
-  grid-template-columns: repeat(3, 1fr) 20px;
-  grid-template-rows: repeat(2, 1fr) 20px;
+  align-content: space-between;
+  justify-items: stretch;
+  // grid-template-columns: repeat(3, 1fr) 20px;
+  // grid-template-rows: repeat(2, 1fr) 20px;
+
+  >p {
+    @include apply-utility('font', 'cooper-light');
+  }
 
   .quote-attribution {
+    margin-top: 1em;
+    font-size: get-size(300);
     background-color: var(--color-highlight-glare);
   }
+}
+
+.partner-logos--wrapper {
+  display: flex;
+  border: 2px solid red;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1244px;
+  margin: 0 auto;
 }
