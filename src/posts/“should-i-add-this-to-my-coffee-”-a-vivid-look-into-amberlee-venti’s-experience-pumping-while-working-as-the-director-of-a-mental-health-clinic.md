@@ -6,15 +6,14 @@ metaTitle: “Should I add this to my coffee?” - A vivid look into Amberlee
   Venti’s experience pumping while working as the Director of a mental health
   clinic
 socialImage: /images/fop-amberlee-linkedin.jpg
+postImage: /images/faces-amberleev.jpg
 date: 2021-11-06T23:22:14.600Z
 tags:
   - faces
 ---
-
-
-
-
-
+{% inset-right %} 
+![Faces of Pumping and working Madeline Caldwell](/images/faces-amberleev.jpg) 
+{% endinset-right %}
 
 Welcome to the latest edition of “The Faces of Pumping & Working” where we learn about the triumphs and challenges of the increasing number of parents working to provide breast milk for their own child(ren) while contributing their unique skills to the paid workforce. 
 
