@@ -6,8 +6,10 @@
   border: 1px solid gray;
 
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 75px 1fr 75px;
+  // grid-template-columns: repeat(2, 1fr);
+  // grid-template-rows: 75px 1fr 75px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 75px 1fr 1fr 75px;
   grid-column-gap: 1em;
 
   // &:hover {
@@ -19,13 +21,33 @@
   }
 
   >img {
-    grid-column: 2;
+    grid-column: 1/-1;
+    grid-row: 2;
   }
 
   >p {
-    grid-column: 1;
-    grid-row: 2;
+    grid-column: 1/-1;
+    grid-row: 3;
     align-self: center;
+  }
+
+  @include media-query('md') {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 75px 1fr 75px;
+
+    >h2 {
+      grid-column: 1/-1;
+    }
+  
+    >img {
+      grid-column: 2;
+    }
+  
+    >p {
+      grid-column: 1;
+      grid-row: 2;
+      align-self: center;
+    }
   }
 }
 // .callout {

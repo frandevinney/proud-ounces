@@ -3,12 +3,12 @@
     "productHed": "Pump Coaching",
     "productDesc": "A Pump Coaching session from Proud Ounces empowers new moms by teaching the skill of breastfeeding and working through one-on-one training. This customized session gives a mom the insight and information to confidently return to work, armed with a clear understanding of what a healthy pumping environment should provide.",
     "productURL": "/pumpcoaching",
-    "lede":"/images/faces-marta.jpg"
+    "lede":"/images/po-services-pumpcoaching.svg"
   },
   {
     "productHed": "Policy Making",
     "productDesc": "Proud Ounces partners with employers and HR leaders to create a comprehensive lactation support policy tailored for your specific business needs. This policy brings clarity to pumping team members, their managers and peers. It also serves as a form of legal risk management and ultimately drives a positive culture which supports breastfeeding employees.",
     "productURL": "/policymaking",
-    "lede":"/images/faces-nicolec.jpg"
+    "lede":"/images/po-services-policy-making.svg"
   }
 ]

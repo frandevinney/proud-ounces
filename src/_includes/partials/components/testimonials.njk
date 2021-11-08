@@ -1,0 +1,40 @@
+<div class="po-testimonials [ pad-top-900 pad-bottom-max ] ">
+  <div class="[ inner-wrapper ]">
+    <h2>Proud Shout Outs</h2>
+    <p>Our results speak for themselves. See how Proud Ounces is changing the culture around breastfeeding & working.</p>
+  </div>
+  <div>
+    {% for quote in testimonials -%}
+      <div class="quote-wrapper">
+        <p>{{ quote.quote }}</p>
+        <div class="quote-attribution">
+          <span>{{ quote.name }}, {{ quote.profession }}</span>
+        </div>
+      </div>
+    {% endfor -%}
+  </div>
+    
+
+
+    {# <div class="[ box-flex direction-row gap-left-300 gap-right-300 ]">
+
+      <div class="service-item">
+        <h2>Pump Coaching</h2>
+        <img src="../images/po-services-pumpcoaching.svg" alt="Proud Ounces Pump Coaching" />
+        <p>Offered as an employee benefit and direct to moms, Pump Coaching gives a new mom the information and confidence to continue breastfeeding as they get back to work.</p>
+        <div>
+          <a class="[ color-alert ]" href="/pumpcoaching">Customize Your Plan</a>
+        </div>
+      </div>
+
+      <div class="service-item">
+        <h2>Policy Making</h2>
+        <img src="../images/po-services-policy-making.svg" alt="Proud Ounces Policy Making" />
+        <p>A single source of truth for all things lactation support, tailored for your business.</p>
+        <div>
+          <a class="[ color-alert ]" href="/pumpcoaching">Start Building Support</a>
+        </div>
+      </div>
+    </div> #}
+
+</div>

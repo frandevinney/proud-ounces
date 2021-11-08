@@ -1,3 +1,14 @@
 .po-products {
   border: 5px solid red;
 }
+
+.quote-wrapper {
+  border: 1px solid blue;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) 20px;
+  grid-template-rows: repeat(2, 1fr) 20px;
+
+  .quote-attribution {
+    background-color: var(--color-highlight-glare);
+  }
+}

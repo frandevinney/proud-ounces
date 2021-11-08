@@ -1,6 +1,6 @@
 .ticker {
   background-color: var(--color-primary-glare);
-  padding: 0.25rem 0;
+  padding: 0.25rem;
   color: var(--color-light);
 
   >p {
@@ -10,6 +10,17 @@
     &:last-of-type{
       color: var(--color-highlight-glare);
       font-size: 0.6rem;
+    }
+  }
+}
+
+.po-services { 
+  .service-items {
+    max-width: 80rem;
+    margin: 0 auto;
+    flex-direction: column;
+    @include media-query('md') {
+      flex-direction: row;
     }
   }
 }
