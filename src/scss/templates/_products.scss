@@ -1,5 +1,33 @@
 .po-products {
-  border: 2px solid red;
+  display: grid;
+  grid-template-columns: 3rem repeat(2, 1fr) 3rem;
+  grid-gap: 1em;
+
+  .product {
+    max-width: map-get($metrics, 'wrap-max-width');
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: var(--color-highlight-glare);
+    color: white;
+    padding: 1em;
+
+    &::before {
+      content:'';
+      background-color: var(--color-alert);
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 10px;
+      left: -10px;
+      z-index:-1;
+
+    }
+
+    &:first-of-type {
+      grid-column-start: 2;
+    }
+  }
 }
 
 .po-testimonials--wrapper {
