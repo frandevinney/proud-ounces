@@ -31,6 +31,7 @@ module.exports = function(config) {
   // Layout aliases
   config.addLayoutAlias('home', 'layouts/home.njk');
   config.addLayoutAlias('services', 'layouts/services.njk');
+  config.addLayoutAlias('policymaking', 'layouts/policymaking.njk');
 
   // Transforms
   config.addTransform('htmlmin', htmlMinTransform);

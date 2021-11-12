@@ -6,7 +6,8 @@
 {% set introSummary %}
   {{ content | safe }}
 {% endset %}
-{% set formName = "services" %}
+
+{% set formName = "policymaking" %}
 
 {# Callout content #}
 {% set introCallout %}{{ callout | safe }}{% endset %}
@@ -14,9 +15,9 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/products.njk" %}
-    {% include "partials/components/testimonials.njk" %}
-    {% include "partials/components/partner-logos.njk" %}
+    {% include "partials/components/policymaking-highlights.njk" %}
+    {% include "partials/components/policymaking-howitworks.njk" %}
+    {% include "partials/components/testimonials-single.njk" %}
     {% include "partials/components/form.njk" %}
   </main>
 {% endblock %}

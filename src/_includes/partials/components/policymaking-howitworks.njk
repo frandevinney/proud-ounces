@@ -1,0 +1,14 @@
+{% set hed = "How It Works: 4 Key Steps of a Proud Ounces Policy Build" %}
+
+<div class="policymaking-howitworks gap-top-300 gap-bottom-600">
+  <h3 class="ta-center inner-wrapper ">{{ hed }} </h3>
+  <div class="steps-wrapper">
+    {% for step in policyMakingHowItWorks %}
+      <div>
+        <span class="font-cooper-light text-300">{{ loop.index }}</span>
+        <span class="font-cooper-light text-500">{{ step.title }}</span>
+        <span class="font-cooper-light text-700">{{ step.description }}</span>
+      </div>
+    {% endfor %}
+  </div>
+</div>
