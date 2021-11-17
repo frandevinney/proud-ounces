@@ -5,8 +5,8 @@
   </div>
   <div class="po-testimonials--wrapper">
     {% for quote in testimonials -%}
-      <div class="quote">
-        <p>{{ quote.quote }}</p>
+      <div class="quote bg-highlight-glare color-primary">
+        <p class="[ testimonial-quote ] [ font-cooper-light text-500 ta-left ]">{{ quote.quote }}</p>
         <div class="quote-attribution">
           <span>{{ quote.name }}, {{ quote.profession }}</span>
         </div>
@@ -14,3 +14,5 @@
     {% endfor -%}
   </div>
 </div>
+
+
