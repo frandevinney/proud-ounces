@@ -1,42 +1,97 @@
 .policymaking-highlights {
-  border-top: 2px solid var(--color-highlight-glare);
-  border-bottom: 2px solid var(--color-highlight-glare);
-  padding: 5em 2em;
+  // border-top: 2px solid var(--color-highlight-glare);
+  // border-bottom: 2px solid var(--color-highlight-glare);
+  padding: 0 2em 5em;
+  max-width: 1440px;
+  margin: 0 auto;
+  background-color: var(--color-highlight);
 }
 
 .highlights-wrapper {
-   display:grid;
-   grid-template-columns: repeat(2, 1fr);
-   grid-template-rows: repeat(5, 1fr);
+  display:grid;
+  grid-gap:2px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
    >div {
-     padding: 5em;
+     padding: 6em 1.5em;
      background-color: var(--color-action-bg);
      color: white;
-     text-align: center;
+     text-align: left;
      display: flex;
      flex-direction: column;
      justify-content: center;
-     align-items: center;
-
-     &:nth-child(2) { // row 2 col 2
-       grid-row-start: 2;
-       grid-column-start: 2;
-     }
-
-     &:nth-child(3) { // row 2 col 2
-      grid-row-start: 3;
-      grid-column-start: 1;
-    }
-
-    &:nth-child(4) { // row 2 col 2
-      grid-row-start: 4;
-      grid-column-start: 2;
-    }
-
-    &:nth-child(5) { // row 2 col 2
-      grid-row-start: 5;
-      grid-column-start: 1;
-    }
+     align-items: stretch;
    }
+}
+
+.policymaking-howitworks {
+  background-color: var(--color-highlight);
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2em 1em;
+
+  .steps-wrapper {
+    display:grid;
+    grid-gap:2px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+    >div {
+      padding: 6em 1.5em;
+      background-color: var(--color-action-bg);
+      color: white;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: stretch;
+    }
+
+    .step-number{
+      border-bottom: 1px solid var(--color-highlight-glare);
+    }
+
+    .step-title {
+      font-size: .75em;
+      line-height: 100%;
+      font-weight: 700;
+      margin: 1em 0;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+      padding-left: 0.25em;
+    }
+
+    .step-description {
+      line-height: 28px;
+      margin: 0.5em 0 0;
+    }
+  }
+}
+
+.testimonial-single {
+  .testimonial {
+    padding: 4rem 2.44rem;
+    width: 100%;
+    margin: 0.5rem auto;
+    max-width: 52rem;
+    .testimonial-quote {
+      position: relative;
+      &:before {
+        position: absolute;
+        content: '“';
+        font-size: 6em;
+        top: 10px;
+        left: -10px;
+        line-height: 0px;
+        font-family: 'CooperLight';
+        color:rgba(13, 47, 79, 0.25);
+      }
+
+      .quote-attribution {
+        margin-top: 1em;
+        font-style: italic;
+        font-size: get-size(300);
+        background-color: var(--color-highlight-glare);
+      }
+    }
+  }
 }

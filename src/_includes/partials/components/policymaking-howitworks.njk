@@ -1,14 +1,19 @@
 {% set hed = "How It Works: 4 Key Steps of a Proud Ounces Policy Build" %}
 
-<div class="policymaking-howitworks gap-top-300 gap-bottom-600">
-  <h3 class="ta-center inner-wrapper ">{{ hed }} </h3>
+<div class="policymaking-howitworks">
+  <h3 class="ta-center inner-wrapper text-500">{{ hed }} </h3>
   <div class="steps-wrapper">
     {% for step in policyMakingHowItWorks %}
       <div>
-        <span class="font-cooper-light text-300">{{ loop.index }}</span>
-        <span class="font-cooper-light text-500">{{ step.title }}</span>
-        <span class="font-cooper-light text-700">{{ step.description }}</span>
+        <span class="font-cooper-light text-200 step-number ta-right">{{ loop.index }}</span>
+        <span class="font-cooper-light text-400 step-title">{{ step.title }}</span>
+        <span class="font-cooper-light text-500 step-description">{{ step.description }}</span>
       </div>
     {% endfor %}
   </div>
+</div>
+<div class="callout-wave callout-wave__bottom">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+    <path fill="#fbeeb8" fill-opacity="1" d="M0,160L60,138.7C120,117,240,75,360,85.3C480,96,600,160,720,165.3C840,171,960,117,1080,90.7C1200,64,1320,64,1380,64L1440,64L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z" />
+  </svg>
 </div>
