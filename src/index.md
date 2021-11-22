@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Make Breastfeeding Work, at Work.
-metaDesc: Empowering working moms and their employers to champion breastfeeding & working.
+title: Make Pumping Work, at Work.
+metaDesc: Empowering new parents and their employers to champion pumping & working.
 postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces-social.jpg
-tickerHed: "Coming Soon: Philly Pumping & Working Week Spring 2022"
-tickerDek: Stay Tuned for Details – Follow Proud Ounces on IG and LinkedIn
+# tickerHed: "Coming Soon: Philly Pumping & Working Week Spring 2022"
+# tickerDek: Stay Tuned for Details – Follow Proud Ounces on IG and LinkedIn
 callout: >-
   ### We’re hard at work developing the next tool to make pumping & working even
   easier.
