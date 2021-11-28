@@ -57,7 +57,9 @@
 }
 
 .po-services { 
-  background-color: #f1f0d9;
+  // background-color: #f1f0d9;
+  background: rgb(241,240,217);
+  background: linear-gradient(180deg, rgba(241,240,217,1) 0%, rgba(236,227,176,1) 100%);
 
   >h3 {
     color: #483E56;
@@ -67,9 +69,9 @@
     // max-width: 80rem;
     margin: 0 auto;
     flex-direction: column;
-    @include media-query('md') {
-      flex-direction: column;
-    }
+    // @include media-query('md') {
+    //   flex-direction: column;
+    // }
   }
 
   .cta {
@@ -83,10 +85,16 @@
   }
 }
 
+.homepage-lead-gen-form {
+  background-color:rgba(236,227,176,1);
+  padding-top: 10em;
+  >div {
+    max-width: 40rem;
+  }
+}
+
 .homepage-lead-gen-form,
 .services-form {
-  max-width: 40rem;
-
   >form {
     margin: 0 auto;
   }
@@ -94,4 +102,8 @@
   label {
     padding: 0.5rem 0;
   }
+}
+
+.services-form {
+  max-width: 40rem;
 }

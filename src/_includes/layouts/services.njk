@@ -6,6 +6,8 @@
 {% set introSummary %}
   {{ content | safe }}
 {% endset %}
+{% set topWaveColor = "#eaeff3" %}
+{% set topWaveColorRGBA = "226, 234, 241" %}
 {% set formName = "services" %}
 
 {# Callout content #}
@@ -14,6 +16,7 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
+    {% include "partials/animations/topwave.njk" %}
     {% include "partials/components/products.njk" %}
     {% include "partials/components/testimonials.njk" %}
     {% include "partials/components/partner-logos.njk" %}

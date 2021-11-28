@@ -1,11 +1,14 @@
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
+{% set bodyClass = "page--homepage" %}
 {% set introHeading = title %}
 {% set introClass = "ta-center" %}
 {% set introSummary %}
   {{ content | safe }}
 {% endset %}
+{% set topWaveColor = "#f1f0d9" %}
+{% set topWaveColorRGBA = "241,233,187" %}
 
 {# Marquee content #}
 {% if tickerHed %}
