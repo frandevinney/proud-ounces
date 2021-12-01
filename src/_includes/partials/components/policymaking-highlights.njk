@@ -2,14 +2,15 @@
 
 <div class="policymaking-highlights pad-top-600 pad-bottom-600">
   <div class="inner-wrapper">
-    <h3 class="ta-left inner-wrapper color-dark">{{ hed }} </h3>
+    <h3 class="ta-center font-avenir">{{ hed }} </h3>
     <div class="highlights-wrapper">
       {% for highlight in policyMakingHighlights %}
         <div>
-          <span class="highlight-number">{{ loop.index }}</span>
-          <span class="font-cooper-light text-500">{{ highlight }}</span>
+          <span class="highlight-number font-avenir">{{ loop.index }}</span>
+          <span class="highlight-desc text-600 font-cooper-light">{{ highlight }}</span>
         </div>
       {% endfor %}
     </div>
   </div>
 </div>
+<div class="policymaking-stackedwaves"></div>

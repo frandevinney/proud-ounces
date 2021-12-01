@@ -1,6 +1,6 @@
 {% from "macros/form.njk" import label, field, textarea, button %}
 
-<div class="[ services-form inner-wrapper gap-top-300 gap-bottom-600 ]">
+<div class="[ services-form inner-wrapper gap-top-max gap-bottom-max ]">
   <h2 class="ta-center">{{ formHed }}</h2>
   <p class="ta-center">{{ formDek }}</p>
   <form name="{{ formName }}--form" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field" class="{{ formName }}--form">

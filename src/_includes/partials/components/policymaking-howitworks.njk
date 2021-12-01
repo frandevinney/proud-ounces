@@ -1,15 +1,17 @@
 {% set hed = "How It Works: 4 Key Steps of a Proud Ounces Policy Build" %}
 
 <div class="policymaking-howitworks">
-  <h3 class="ta-center inner-wrapper text-500">{{ hed }} </h3>
-  <div class="steps-wrapper">
-    {% for step in policyMakingHowItWorks %}
-      <div>
-        <span class="font-cooper-light text-200 step-number ta-right">{{ loop.index }}</span>
-        <span class="font-cooper-light text-400 step-title">{{ step.title }}</span>
-        <span class="font-cooper-light text-500 step-description">{{ step.description }}</span>
-      </div>
-    {% endfor %}
+  <div>
+    <h3 class="ta-center inner-wrapper text-500">{{ hed }} </h3>
+    <div class="steps-wrapper">
+      {% for step in policyMakingHowItWorks %}
+        <div>
+          <span class="font-cooper-light text-200 step-number ta-right">{{ loop.index }}</span>
+          <span class="font-cooper-light text-400 step-title">{{ step.title }}</span>
+          <span class="font-cooper-light text-500 step-description">{{ step.description }}</span>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
 <div class="callout-wave callout-wave__bottom">
