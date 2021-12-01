@@ -53,7 +53,10 @@
 
 .policymaking-howitworks {
   background-color: var(--color-highlight);
-  padding: 0 2em 1em;
+  padding: 0 2em 6em;
+  background: url('../../images/layered-waves-policymaking-howitworks.svg') no-repeat;
+  background-size: 100%;
+  background-position: bottom;
 
   >div {
     max-width: 1440px;
@@ -67,7 +70,8 @@
 
     >div {
       padding: 6em 1.5em;
-      background-color: var(--color-action-bg);
+      // background-color: var(--color-action-bg);
+      background-color: #757eff;
       color: white;
       text-align: left;
       display: flex;
