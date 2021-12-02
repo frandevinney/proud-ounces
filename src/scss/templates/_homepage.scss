@@ -85,6 +85,15 @@
   }
 }
 
+@keyframes wobble {
+  50% {
+    border-radius: 750px 550px 350px 750px / 350px 750px 550px 450px;
+  }
+  100% {
+    border-radius: 750px 250px 750px 250px / 250px 750px 250px 750px;
+  }
+}
+
 .homepage-lead-gen-form {
   background-color:rgba(236,227,176,1);
   padding-top: 10em;

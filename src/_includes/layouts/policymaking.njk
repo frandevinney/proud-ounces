@@ -7,8 +7,8 @@
   {{ content | safe }}
 {% endset %}
 
-{% set topWaveColor = "#ffb201" %}
-{% set topWaveColorRGBA = "255,194,51" %}
+{# {% set topWaveColor = "#ffb201" %}
+{% set topWaveColorRGBA = "255,194,51" %} #}
 {% set formName = "policymaking" %}
 
 {# Callout content #}
@@ -16,10 +16,12 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {% include "partials/animations/topwave.njk" %}
-    {% include "partials/components/policymaking-highlights.njk" %}
-    {% include "partials/components/policymaking-howitworks.njk" %}
+    <div class="policymaking-top-wrap">
+      {% include "partials/components/intro.njk" %}
+      {# {% include "partials/animations/topwave.njk" %} #}
+      {% include "partials/components/policymaking-highlights.njk" %}
+      {% include "partials/components/policymaking-howitworks.njk" %}
+    </div>
     {% include "partials/components/testimonials-single.njk" %}
     {% include "partials/components/form.njk" %}
   </main>

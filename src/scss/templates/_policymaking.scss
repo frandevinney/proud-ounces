@@ -1,17 +1,23 @@
+.policymaking-top-wrap {
+  background: url('../../images/blurry-gradient-policymaking.svg') no-repeat center center;
+  background-size: cover;
+  padding: 5em 2.5em;
+}
+
 .policymaking-highlights {
   padding: 5em 2em 0;
-  background-color: #ffb201;
+  // background-color: #ffb201;
 
   h3 {
-    color: #f67a49;
+    color: rgba(117,126,255,1);
   }
 }
 
-.policymaking-stackedwaves {
-  background: url('../../images/stacked-waves-policymaking.svg') no-repeat;
-  background-size: cover;
-  padding: 25%;
-}
+// .policymaking-stackedwaves {
+//   background: url('../../images/stacked-waves-policymaking.svg') no-repeat;
+//   background-size: cover;
+//   padding: 25%;
+// }
 
 .highlights-wrapper {
   display:grid;
@@ -23,7 +29,7 @@
 
   >div {
     padding: 1em 0;
-    color: white;
+    // color: white;
     text-align: left;
     display: flex;
     flex-direction: row;
@@ -36,9 +42,9 @@
       font-size:2.5em;
       height: 1.5em;
       padding: 0 0.5em;
-      border-radius: 100%;
       background: rgb(255,0,87);
-      background: linear-gradient(51deg, rgba(255,0,87,1) 0%, rgba(255,0,164,1) 100%);
+      border-radius: 44% 54% 50% 46%/43% 33% 68% 57%;
+      background: linear-gradient(51deg, rgba(117,126,255,1) 0%, rgba(255,0,164,1) 100%);
       color: #FFF;
       display: flex;
       justify-content: center;
@@ -52,11 +58,11 @@
 }
 
 .policymaking-howitworks {
-  background-color: var(--color-highlight);
-  padding: 0 2em 6em;
-  background: url('../../images/layered-waves-policymaking-howitworks.svg') no-repeat;
-  background-size: 100%;
-  background-position: bottom;
+  // padding: 0 2em 6em;
+  // background: url('../../images/layered-waves-policymaking-howitworks.svg') no-repeat;
+  // background: url('../../images/wave-policymaking.svg') no-repeat;
+  // background-size: 100%;
+  // background-position: bottom;
 
   >div {
     max-width: 1440px;
@@ -102,6 +108,10 @@
 }
 
 .testimonial-single {
+  padding-top: 10em;
+  padding-bottom: 10em;
+  background: url('../../images/blob-policymaking.svg') no-repeat center center;
+  background-size: cover;
   .testimonial {
     padding: 4rem 2.44rem;
     width: 100%;

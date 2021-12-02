@@ -113,15 +113,6 @@
   .quote:nth-child(#{$i}) { animation-delay: $i * 0.25s; }
 }
 
-@keyframes wobble {
-  50% {
-    border-radius: 750px 550px 350px 750px / 350px 750px 550px 450px;
-  }
-  100% {
-    border-radius: 750px 250px 750px 250px / 250px 750px 250px 750px;
-  }
-}
-
 .partner-logos--wrapper {
   display: flex;
   flex-direction: row;
