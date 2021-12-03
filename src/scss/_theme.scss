@@ -50,9 +50,10 @@ main {
 }
 
 .cta {
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items:center;
   padding: 1em 2em;
-  // margin-top: 1.25em;
   background-color: var(--color-light);
   border-radius: 2em;
   color: var(--color-primary);

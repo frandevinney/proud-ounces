@@ -31,6 +31,12 @@
     }
   }
 
+  @include media-query('xl') {
+    &.callout-wave__bottom {
+      max-height: 250px;
+    }
+  }
+
 }
 
 .pumpcoaching-callout {

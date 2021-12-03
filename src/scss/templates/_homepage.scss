@@ -85,6 +85,10 @@
   }
 }
 
+.topwave {
+  display: flex;
+}
+
 @keyframes wobble {
   50% {
     border-radius: 750px 550px 350px 750px / 350px 750px 550px 450px;
