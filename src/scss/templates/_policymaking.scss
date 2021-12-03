@@ -20,10 +20,15 @@
 // }
 
 .highlights-wrapper {
-  display:grid;
-  grid-gap:1em;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  display: flex;
+  flex-direction: column;
+
+  @include media-query('md') {
+    display:grid;
+    grid-gap:1em;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+  }
 
  
 
