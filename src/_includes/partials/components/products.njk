@@ -1,7 +1,7 @@
-<div class="po-products [ pad-top-900 pad-bottom-900 ] ">
-  <div class="hed">Some of our services</div>
+<div class="po-products [ pad-top-supermax pad-bottom-supermax pad-left-500 pad-right-500 ] ">
+  <div class="hed gap-bottom-500">Some of our services</div>
     {% for item in products -%}
-      <div class="product ta-center">
+      <div class="product ta-center gap-bottom-300">
         <h2>{{ item.productHed }}</h2>
         <img src="{{ item.lede }}" />
         <p>{{ item.productDesc }}</p>

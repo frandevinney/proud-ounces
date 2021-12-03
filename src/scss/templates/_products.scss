@@ -1,13 +1,15 @@
 .po-products {
-  display: grid;
-  grid-template-columns: 0.25fr repeat(2,1fr) 0.25fr;
-  grid-template-rows:auto;
-  grid-gap: 1em;
-  // background-color: #eaeff3;
+  display: flex;
+  flex-direction: column;
   background: rgb(234,239,243);
   background: linear-gradient(180deg, rgba(234,239,243,1) 0%, rgba(190,213,231,1) 100%);
-  // border-top: 1px solid var(--color-highlight);
-  // border-bottom: 1px solid var(--color-highlight);
+
+  @include media-query('md') {
+    display: grid;
+    grid-template-columns: 0.25fr repeat(2,1fr) 0.25fr;
+    grid-template-rows:auto;
+    grid-gap: 1em;
+  }
 
   .hed {
     grid-row-start:1;
@@ -19,6 +21,10 @@
     letter-spacing: .2em;
     text-transform: uppercase;
     padding-left:1.5em;
+
+    @include media-query('lrg') {
+      margin-bottom: 0;
+    }
   }
 
   .product {
@@ -53,9 +59,11 @@
 }
 
 .po-testimonials {
-  background: url('../../images/rocknroll.svg') no-repeat;
-  background-position: 120% 100%;
-  background-size: 60% 70%;
+  @include media-query('lrg') {
+    background: url('../../images/rocknroll.svg') no-repeat;
+    background-position: 120% 100%;
+    background-size: 60% 70%;
+  }
 }
 
 .po-testimonials--wrapper {
@@ -70,7 +78,7 @@
 }
 
 .quote {
-  width: 33%;
+  width: 100%;
   margin: 1em;
   padding:3em;
   // display: grid;
@@ -81,6 +89,10 @@
   // grid-template-rows: repeat(2, 1fr) 20px;
   border-radius: 31% 64% 40% 46% / 38% 38% 58% 47%;
   animation: wobble 15s ease-in-out alternate infinite;
+
+  @include media-query('md') {
+    width: 33%;
+  }
 
   &:before {
     position: absolute;
