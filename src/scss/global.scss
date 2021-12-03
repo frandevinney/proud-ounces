@@ -70,8 +70,12 @@ img {
 
 // Components
 // @import 'components/book';
+@import 'templates/homepage';
+@import 'templates/products';
+@import 'templates/policymaking';
 @import 'components/button';
 @import 'components/callout';
+@import 'components/service-item';
 @import 'components/form';
 @import 'components/heading-permalink';
 @import 'components/intro';

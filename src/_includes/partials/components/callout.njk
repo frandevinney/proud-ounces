@@ -1,9 +1,7 @@
 {% if introCallout %}
   <div class="[ callout ] [ pad-top-900 pad-bottom-max ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
-      {# {% if introCallout %} #}
       <div class="[ intro__callout ] [ sf-flow ] [ leading-mid measure-short ]">{{ introCallout | markdownFilter | safe }}</div>
-      {# {% endif %} #}
     </div>
   </div>
 {% endif %}

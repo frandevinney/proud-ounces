@@ -1,0 +1,122 @@
+.ticker {
+  // background-color: var(--color-primary-glare);
+  border-top: 1px solid var(--color-primary-glare);
+  border-bottom: 1px solid lighten(#0d2f4f, 75%);
+  padding: 0.45rem;
+  color: var(--color-primary-glare);
+
+  >p {
+    &:first-of-type{
+      font-size: 0.9rem;
+    }
+    &:last-of-type{
+      color: var(--color-primary);
+      font-size: 0.6rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.waves {
+  position:relative;
+  width: 100%;
+  height:15vh;
+  margin-bottom:-7px;
+  min-height:100px;
+  max-height:150px;
+}
+
+/* Wave Animation */
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5) infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+  transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+
+.po-services { 
+  // background-color: #f1f0d9;
+  background: rgb(241,240,217);
+  background: linear-gradient(180deg, rgba(241,240,217,1) 0%, rgba(236,227,176,1) 100%);
+
+  >h3 {
+    color: #483E56;
+  }
+
+  .service-items {
+    // max-width: 80rem;
+    margin: 0 auto;
+    flex-direction: column;
+    // @include media-query('md') {
+    //   flex-direction: column;
+    // }
+  }
+
+  .cta {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+
+    &:hover{
+      background-color: #F37D6E;
+      color: var(--color-highlight-glare);
+    }
+  }
+}
+
+.topwave {
+  display: flex;
+}
+
+@keyframes wobble {
+  50% {
+    border-radius: 750px 550px 350px 750px / 350px 750px 550px 450px;
+  }
+  100% {
+    border-radius: 750px 250px 750px 250px / 250px 750px 250px 750px;
+  }
+}
+
+.homepage-lead-gen-form {
+  background-color:rgba(236,227,176,1);
+  padding-top: 10em;
+  >div {
+    max-width: 40rem;
+  }
+}
+
+.homepage-lead-gen-form,
+.services-form {
+  >form {
+    margin: 0 auto;
+  }
+
+  label {
+    padding: 0.5rem 0;
+  }
+}
+
+.services-form {
+  max-width: 40rem;
+}

@@ -1,0 +1,18 @@
+<div class="po-testimonials [ pad-top-900 pad-bottom-max ] ">
+  <div class="[ inner-wrapper ]">
+    <h2>Proud Shout Outs</h2>
+    <p>Our results speak for themselves. See how Proud Ounces is changing the culture around pumping &amp; working.</p>
+  </div>
+  <div class="po-testimonials--wrapper">
+    {% for quote in testimonials -%}
+      <div class="quote bg-highlight-glare color-primary">
+        <p class="[ testimonial-quote ] [ font-cooper-light ta-left ]">{{ quote.quote }}</p>
+        <div class="quote-attribution">
+          <span>{{ quote.name }}, {{ quote.profession }}</span>
+        </div>
+      </div>
+    {% endfor -%}
+  </div>
+</div>
+
+

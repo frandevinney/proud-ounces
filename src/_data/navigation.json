@@ -1,24 +1,19 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
+      "text": " Our Services",
+      "url": "/services"
     },
     {
-      "text": "Pump Coaching",
-      "url": "/pumpcoaching"
-    },
-    {
-      "text": "About",
+      "text": "About Us",
       "url": "/about"
     },
     {
-      "text": "Stories",
+      "text": "Features",
       "url": "/the-faces-of-pumping/"
     },
     {
-      "text": "Get in touch",
+      "text": "Get in Touch",
       "url": "/getintouch",
       "external": false
     }

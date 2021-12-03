@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Welcome to the Breast Pumping Revolution!
-metaDesc: Proud Ounces makes pumping & working easy for moms and the employers
-  that support them.
+title: Make Pumping Work, at Work.
+metaDesc: Empowering new parents and their employers to champion pumping & working.
 postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: /images/proud-ounces-social.jpg
+# tickerHed: "Coming Soon: Philly Pumping & Working Week Spring 2022"
+# tickerDek: Stay Tuned for Details – Follow Proud Ounces on IG and LinkedIn
 callout: >-
   ### We’re hard at work developing the next tool to make pumping & working even
   easier.
@@ -19,4 +20,4 @@ callout: >-
 
   Want to join the upcoming pilot? [Contact us](/getintouch) and we’ll get in touch.
 ---
-Proud Ounces makes pumping & working easy for moms and the employers that support them.
+Empowering working moms and their employers to champion breastfeeding & working.

@@ -56,6 +56,11 @@ $stalfos-config: (
     'output': 'standard',
     'property': 'background'
   ),
+  'bgcolor': (
+    'items': $stalfos-colors,
+    'output': 'standard',
+    'property': 'background-color'
+  ),
   'color': (
     'items': $stalfos-colors,
     'output': 'standard',
@@ -71,6 +76,14 @@ $stalfos-config: (
     'output': 'responsive',
     'property': 'display'
   ),
+  'direction': (
+    'items': (
+      'row': 'row',
+      'column': 'column'
+    ),
+    'output': 'responsive',
+    'property': 'flex-direction'
+  ),
   'font': (
     'items': map-get($tokens, 'fonts'),
     'output': 'standard',
@@ -85,6 +98,16 @@ $stalfos-config: (
     'items': $stalfos-size-scale,
     'output': 'standard',
     'property': 'margin-bottom'
+  ),
+  'gap-left': (
+    'items': $stalfos-size-scale,
+    'output': 'standard',
+    'property': 'margin-left'
+  ),
+  'gap-right': (
+    'items': $stalfos-size-scale,
+    'output': 'standard',
+    'property': 'margin-right'
   ),
   'leading': (
     'items': (
@@ -119,11 +142,17 @@ $stalfos-config: (
     'output': 'standard',
     'property': 'padding-left'
   ),
+  'pad-right': (
+    'items': $stalfos-size-scale,
+    'output': 'standard',
+    'property': 'padding-right'
+  ),
   'space': (
     'items': (
       'between': 'space-between',
       'around': 'space-around',
-      'before': 'flex-end'
+      'before': 'flex-end',
+      'center': 'center'
     ),
     'output': 'responsive',
     'property': 'justify-content'

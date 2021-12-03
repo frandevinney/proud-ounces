@@ -1,0 +1,16 @@
+{% set hed = "A Successful Proud Ounces Policy Will:" %}
+
+<div class="policymaking-highlights pad-top-600 pad-bottom-600">
+  <div class="inner-wrapper">
+    <h4 class="ta-center font-avenir text-600">{{ hed }} </h4>
+    <div class="highlights-wrapper">
+      {% for highlight in policyMakingHighlights %}
+        <div>
+          <span class="highlight-number font-avenir">{{ loop.index }}</span>
+          <span class="highlight-desc text-500 font-avenir">{{ highlight }}</span>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{# <div class="policymaking-stackedwaves"></div> #}

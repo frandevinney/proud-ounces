@@ -1,0 +1,135 @@
+.po-products {
+  display: flex;
+  flex-direction: column;
+  background: rgb(234,239,243);
+  background: linear-gradient(180deg, rgba(234,239,243,1) 0%, rgba(190,213,231,1) 100%);
+
+  @include media-query('md') {
+    display: grid;
+    grid-template-columns: 0.25fr repeat(2,1fr) 0.25fr;
+    grid-template-rows:auto;
+    grid-gap: 1em;
+  }
+
+  .hed {
+    grid-row-start:1;
+    grid-column-start:2;
+    color: #4c4c4c;
+    font-size: .83em;
+    line-height: 100%;
+    font-weight: 700;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    padding-left:1.5em;
+
+    @include media-query('lrg') {
+      margin-bottom: 0;
+    }
+  }
+
+  .product {
+    max-width: map-get($metrics, 'wrap-max-width');
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: darken(#eaeff3, 20%);
+    color: white;
+    padding: 1.75em;
+    border-radius: 1em;
+    grid-row-start: 2;
+    grid-column-start: 2;
+
+    img {
+      opacity: 0.9;
+      max-width: 85%;
+      margin: 2em auto;
+    }
+
+    &:last-of-type {
+      grid-column-start: 3;
+    }
+
+    >p {
+      line-height: 1.65rem;
+      font-size: 1.25em;
+      padding: 1em;
+      text-align: left;
+    }
+  }
+}
+
+.po-testimonials {
+  @include media-query('lrg') {
+    background: url('../../images/rocknroll.svg') no-repeat;
+    background-position: 120% 100%;
+    background-size: 60% 70%;
+  }
+}
+
+.po-testimonials--wrapper {
+  max-width: 1224px;
+  margin: 0 auto;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-start;
+}
+
+.quote {
+  width: 100%;
+  margin: 1em;
+  padding:3em;
+  // display: grid;
+  // align-content: space-between;
+  // justify-items: stretch;
+  position: relative;
+  // grid-template-columns: repeat(3, 1fr) 20px;
+  // grid-template-rows: repeat(2, 1fr) 20px;
+  border-radius: 31% 64% 40% 46% / 38% 38% 58% 47%;
+  animation: wobble 15s ease-in-out alternate infinite;
+
+  @include media-query('md') {
+    width: 33%;
+  }
+
+  &:before {
+    position: absolute;
+    content: '“';
+    font-size: 6em;
+    top: 20%;
+    opacity: 0.75;
+    left: 9px;
+    line-height: 0px;
+    font-family: 'CooperLight';
+    color:rgba(13, 47, 79, 0.25);
+  }
+
+  >p {
+    @include apply-utility('font', 'cooper-light');
+    font-size: 16px;
+    line-height: 18px;
+  }
+
+  .quote-attribution {
+    margin-top: 1em;
+    font-style: italic;
+    font-size: get-size(300);
+    padding-left: 8px;
+    // background-color: var(--color-highlight-glare);
+  }
+}
+
+@for $i from 1 to 6 {
+  .quote:nth-child(#{$i}) { animation-delay: $i * 0.25s; }
+}
+
+.partner-logos--wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1244px;
+  margin: 0 auto;
+}

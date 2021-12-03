@@ -1,0 +1,12 @@
+<div class="partner-logos [ pad-top-max pad-bottom-max ] ">
+  <div class="[ inner-wrapper ]">
+    <h2 class="ta-center">Some of Our Proud Partners</h2>
+  </div>
+  <div class="partner-logos--wrapper">
+    {% for partner in partnerLogos -%}
+      <div class="partner-logo">
+        <img src="{{ partner.image }}" alt="{{ partner.name }}" />
+      </div>
+    {% endfor -%}
+  </div>
+</div>
